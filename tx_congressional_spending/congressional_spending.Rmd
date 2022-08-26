@@ -1,0 +1,44 @@
+Loading libs
+```{r}
+library(tidyverse)
+library(janitor)
+```
+Reading in data
+```{r}
+ad_spending <- read_csv("data/leadership_support.csv")
+```
+Cleaning
+```{r}
+ad_spending <- ad_spending %>%
+  select(committee_name, report_year, payee_name, payee_state, expenditure_description, expenditure_date, expenditure_amount, support_oppose_indicator, candidate_name, candidate_office, candidate_party)
+
+ad_spending <- ad_spending %>%
+  mutate(candidate_name = case_when(candidate_name == "CUELLAR, HENRY R." ~ "CUELLAR, HENRY",
+                                    candidate_name == "CUELLAR, HENRY REP." ~ "CUELLAR, HENRY",
+                                    candidate_name == "FLORES, MAYRA NOHEMI" ~ "FLORES, MAYRA",
+                                    candidate_name == "GARCIA, CASSANDRA" ~ "GARCIA, CASSY",
+                                    candidate_name == "GARZA, MAURO EVERETT" ~ "GARZA, MAURO",
+                                    candidate_name == "WHITTEN, SANDRA LINN MRS." ~ "WHITTEN, SANDRA",
+                                    TRUE ~ candidate_name))
+```
+Some top-line exploration
+```{r}
+##Which candidates are in this batch of data?
+ad_spending %>%
+  group_by(candidate_name) %>%
+  count()
+
+##How much did candidates get supported and opposed?
+ad_spending %>%
+  group_by(candidate_name, support_oppose_indicator) %>%
+  count()
+
+##How much did leadership spend opposing Cisneros?
+
+cisneros_oppose <- ad_spending %>%
+  filter(candidate_name == "CISNEROS, JESSICA") %>%
+  filter(support_oppose_indicator == "O")
+```
+
+
+
