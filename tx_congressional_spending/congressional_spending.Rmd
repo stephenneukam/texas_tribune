@@ -2,6 +2,7 @@ Loading libs
 ```{r}
 library(tidyverse)
 library(janitor)
+library(dplyr)
 ```
 Reading in data
 ```{r}
@@ -28,6 +29,11 @@ ad_spending %>%
   group_by(candidate_name) %>%
   count()
 
+##What are the committees here?
+ad_spending %>%
+  group_by(committee_name) %>%
+  count()
+
 ##How much did candidates get supported and opposed?
 ad_spending %>%
   group_by(candidate_name, support_oppose_indicator) %>%
@@ -38,7 +44,183 @@ ad_spending %>%
 cisneros_oppose <- ad_spending %>%
   filter(candidate_name == "CISNEROS, JESSICA") %>%
   filter(support_oppose_indicator == "O")
+
+cisneros_oppose %>%
+  summarise(total = sum(expenditure_amount))
+
+##spent $1,438,998 opposing Cisneros
+
+
+cuellar_oppose <- ad_spending %>%
+  filter(candidate_name == "CUELLAR, HENRY") %>%
+  filter(support_oppose_indicator == "O")
+
+garcia_support <- ad_spending %>%
+  filter(candidate_name == "GARCIA, CASSY") %>%
+  filter(support_oppose_indicator == "S")
+
+#What are the leadership PACs in this dataset?
+ad_spending %>%
+  group_by(committee_name) %>%
+  count() %>%
+  arrange(desc(n))
+
+#CONGRESSIONAL LEADERSHIP FUND , HOUSE MAJORITY PAC
+
+#CLF dataset
+clf <- ad_spending %>%
+  filter(committee_name == "CONGRESSIONAL LEADERSHIP FUND")
+
+clf <- clf %>%
+  filter(expenditure_date >= '2022-05-24')
+
+clf %>%
+  summarise(total = sum(expenditure_amount))
+
+##CLF has spent $819,545 since the primary in two races
+
+hmp <- ad_spending %>%
+  filter(committee_name == "HOUSE MAJORITY PAC")
+
+hmp <- hmp %>%
+  filter(expenditure_date >= '2022-05-24')
+
+hmp %>%
+  summarise(total = sum(expenditure_amount))
+
+##HMP has spent $115,333 since the primary, opposing Flores
+
 ```
+Loading in Cassy Garcia data
+```{r}
+cassy_garcia <- read_csv("data/cassy_garcia.csv")
+
+#cleaning Garcia data
+cassy_garcia <- cassy_garcia %>% select(entity_type, contributor_name, contributor_city, contributor_state, contributor_zip, contributor_employer, contributor_occupation, contribution_receipt_date, contribution_receipt_amount, transaction_id)
+
+cassy_garcia <- cassy_garcia %>%
+  unique()
+```
+How much money has Garcia raised?
+```{r}
+cassy_garcia %>%
+  summarise(total_amount = sum(contribution_receipt_amount))
+#She raised just over $409,000
+
+#What was the average contribution to her campaign?
+cassy_garcia %>%
+  summarise(avg = mean(contribution_receipt_amount))
+
+#The average contribution to her campaign was $1,381.76
+
+cassy_garcia %>%
+  group_by(contributor_state) %>%
+  count() %>%
+  arrange(desc(n))
+
+#Most contributions to Garcia's campaign came from in Texas, but she also garnared significant support from California and Florida
+
+cassy_garcia %>%
+  filter(contributor_state == "TX") %>%
+  group_by(contributor_city) %>%
+  count() %>%
+  arrange(desc(n))
+```
+I want to see the crossover between Jessica Cisneros support and Henry Cuellar support in terms of donations. Also, I want to see if Cuellar is raising money at the same rate this year as he did in 2020.
+```{r}
+##Loading in data
+cuellar_2022 <- read.csv("data/cuellar_2022.csv")
+cuellar_2020 <- read.csv("data/cuellar_2020.csv")
+cuellar_2018 <- read.csv("data/cuellar_2018.csv")
+cisneros_2022 <- read.csv("data/cisneros_2022.csv")
+cisneros_2020 <- read.csv("data/cisneros_2020.csv")
+
+##cleaning datasets
+cuellar_2022 <- cuellar_2022 %>%
+  select(entity_type, contributor_name, contributor_city, contributor_state, contributor_zip, contributor_employer, contributor_occupation, contribution_receipt_date, contribution_receipt_amount, transaction_id, contributor_street_1)
+
+cuellar_2020 <- cuellar_2020 %>%
+  select(entity_type, contributor_name, contributor_city, contributor_state, contributor_zip, contributor_employer, contributor_occupation, contribution_receipt_date, contribution_receipt_amount, transaction_id, contributor_street_1)
+
+cuellar_2018 <- cuellar_2018 %>%
+  select(entity_type, contributor_name, contributor_city, contributor_state, contributor_zip, contributor_employer, contributor_occupation, contribution_receipt_date, contribution_receipt_amount, transaction_id, contributor_street_1)
+
+cisneros_2022 <- cisneros_2022 %>%
+  select(entity_type, contributor_name, contributor_city, contributor_state, contributor_zip, contributor_employer, contributor_occupation, contribution_receipt_date, contribution_receipt_amount, transaction_id, contributor_street_1) %>%
+  mutate(transaction_id = as.numeric(transaction_id))
+
+cisneros_2020 <- cisneros_2020 %>%
+  select(entity_type, contributor_name, contributor_city, contributor_state, contributor_zip, contributor_employer, contributor_occupation, contribution_receipt_date, contribution_receipt_amount, transaction_id, contributor_street_1)
+
+cuellar_2022 <- cuellar_2022 %>%
+  mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
+
+cuellar_2020 <- cuellar_2020 %>%
+  mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
+
+cuellar_2018 <- cuellar_2018 %>%
+  mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
+
+cisneros_master <- cisneros_master %>%
+  mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
+##pasting two cisneros datasets together to have a masterset of her donors from 2020 and 2022
+cisneros_master <- cisneros_2022 %>%
+  bind_rows(cisneros_2020)
+
+cisneros_master_distinct <- cisneros_master %>%
+  select(contributor_name, contributor_street_1) %>%
+  distinct()
+
+cuellar_2022_disinct <- cuellar_2022 %>%
+  select(contributor_name, contributor_street_1)%>%
+  distinct()
+
+##joining cisneros_master and cuellar_2022 data to see the amount of crossover between their donors
+cisneros_cuellar_joined_distinct <- cuellar_2022_disinct %>%
+  inner_join(cisneros_master_distinct, by=c("contributor_name", "contributor_street_1"))
+
+cisneros_cuellar_joined <- cuellar_2022 %>%
+  inner_join(cisneros_cuellar_joined_distinct, by=c("contributor_name")) %>%
+  distinct()
+
+cisneros_cuellar_joined <- cisneros_cuellar_joined %>%
+  filter(contributor_name != "DEMOCRACY ENGINE LLC")
+
+cisneros_cuellar_joined %>%
+  summarise(total = sum(contribution_receipt_amount))
+
+
+
+## so a total of four Cisneros donors have contributed to the Cuellar campaign in 2022 for a total of $6,875. lol
+
+## I am curious if Cuellar is raising money at the same rate in 2022 as 2020
+
+cuellar_2020_ytd <- cuellar_2020 %>%
+  filter(contribution_receipt_date <= '2020-09-01')
+
+cuellar_2022_ytd <- cuellar_2022 %>%
+  filter(contribution_receipt_date <= '2022-09-01')
+
+cuellar_2018_ytd <- cuellar_2018 %>%
+  filter(contribution_receipt_date <= '2018-09-01')
+
+cuellar_2018_ytd %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+
+##at this point in 2018, Cuellar had raised $1,323,179	
+
+cuellar_2020_ytd %>%
+  summarise(total = sum(contribution_receipt_amount))
+
+##at this point in 2020, Cuellar had raised $2,436,392
+
+cuellar_2022_ytd %>%
+  summarise(total = sum(contribution_receipt_amount))
+
+#at this point this election cycle, Cuellar has rasied $4,887,547
+```
+
+
 
 
 
