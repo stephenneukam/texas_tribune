@@ -1,0 +1,506 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,aggregate_amount,employer,occupation,memo_code,memo_text,cycle
+SA12,C00797217,5674461,PAC,Vallejo Victory Fund,,,,,,122 C St NW,Ste 360,Washington,DC,20001,G2022,2022-10-06,40000.0,107000.0,,,,,2022
+SA11AI,C00797217,5635012,IND,,Foos,Shari,,,,16060 Ventura Blvd,Ste Pm 110,Encino,CA,91436,G2022,2022-10-10,2900.0,2900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475370,IND,,Fitzmorris,Tyson,,,,1718 W Far View Ln,,Prescott,AZ,86305,G2022,2022-10-05,2900.0,2900.0,Self Employed,Entrepreneur,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5765112,IND,,McNally,R,S,,,1911 Nueces St,,Austin,TX,78705,G2022,2022-10-19,2900.0,2900.0,Self Employed,Finance,,,2022
+SA12,C00797217,5771927,IND,,Hernandez,Cristina,,,,2000 S Dana Dr,,Pharr,TX,78577,G2022,2022-09-25,2900.0,2900.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5619005,IND,,Weaver,Lindsay,,,,1005 CAYWOOD RANCH Rd,,Pagosa Springs,CO,81147,G2022,2022-10-07,2900.0,2900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771926,IND,,Rios,Jesus,,,,PO Box 2945,,Roma,TX,78584,G2022,2022-09-25,2900.0,2900.0,Doximity,Pharmacist,X,,2022
+SA11AI,C00797217,5635440,IND,,Shepard,Andrea,,,,838 Diamond St,,San Francisco,CA,94114,G2022,2022-10-11,2900.0,2900.0,Cornerstone Research,Economist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636742,IND,,Mowll,Kenneth,,,,361 E Sheridan St,Apt 309,Dania Beach,FL,33004,G2022,2022-10-16,2900.0,2900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671714,IND,,Tau,Jianhua,A,,,5908 Doone Valley Ct,,Austin,TX,78731,G2022,2022-10-11,2900.0,2900.0,Baylor College Of Medicine,Physician,,,2022
+SA11AI,C00797217,5715450E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,2900.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5636496,IND,,Helm,Edward,,,,4 Billingham St,,Somerville,MA,02144,G2022,2022-10-15,2900.0,2900.0,Social Worker,Self Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618090,IND,,Carter,Michaela,,,,1417 Oregon Ave,,Prescott,AZ,86305,G2022,2022-10-07,2900.0,2900.0,Self Employed,Writer,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5671627,PAC,PAC For Good,,,,,,PO Box 120085,,San Diego,CA,92112,G2022,2022-10-11,2900.0,2900.0,,,,,2022
+SA11AI,C00797217,5636557,IND,,Johnson,Whitman,,,,151 W 21St St,Apt PH1,New York,NY,10011,G2022,2022-10-16,2900.0,2900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715453E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,2900.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5715453,IND,,Sabel,Sylvia,,,,2023 28Th Ave,,San Francisco,CA,94116,G2022,2022-10-13,2900.0,2900.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771924,IND,,Saenz,Elvia,,,,5500 N Cynthia St,,Mcallen,TX,78504,G2022,2022-09-25,2900.0,2900.0,Saenz Pharmacy,Pharmacist,X,,2022
+SA11AI,C00797217,5475641,IND,,Farquhar,Amber,,,,16030 Market St,,Channelview,TX,77530,G2022,2022-10-06,2900.0,2900.0,Bestway Oilfield,Owner,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771928,IND,,Welland,Isabel,,,,2512 Janice Dr,,Austin,TX,78703,G2022,2022-09-30,2900.0,4900.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5618632,IND,,Mercer,Michelle,,,,2500 Steiner St,Unit 10,San Francisco,CA,94115,G2022,2022-10-09,2900.0,2900.0,Self Employed,Philanthropist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618374,IND,,Hellman,Frances,,,,768 San Luis Rd,,Berkeley,CA,94707,G2022,2022-10-09,2900.0,2900.0,UC Berkeley,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618297,IND,,Golden,Bruce,,,,2500 Steiner St,Unit 10,San Francisco,CA,94115,G2022,2022-10-09,2900.0,2900.0,Self Employed,Investor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434226,IND,,Simon,Daniel,,,,2 Columbus Ave,Apt 37C,New York,NY,10023,G2022,2022-10-01,2900.0,2900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771925,IND,,Saenz,Jesus,,,,5500 N Cynthia St,,Mcallen,TX,78504,G2022,2022-09-25,2900.0,2900.0,Saenz Pharmacy,Pharmacist,X,,2022
+SA11AI,C00797217,5715450,IND,,Majzlin,Leonard,,,,333 E91St St,Unit 26C,New York,NY,10128,G2022,2022-10-11,2900.0,2900.0,New York University,Adj. Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635644,IND,,Elmaleh,Niko,,,,950 3Rd Ave,Fl 18,New York,NY,10022,G2022,2022-10-11,2900.0,2900.0,Worldwide Holdings,Executive,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618248,IND,,Foos,Richard,,,,16060 Ventura Blvd,Ste Pm 110,Encino,CA,91436,G2022,2022-10-08,2900.0,2900.0,Shout Factory,Entrepeneur,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636514,IND,,Holland,Bruce,,,,1200 Columbine Ave,,Boulder,CO,80302,G2022,2022-10-14,2900.0,2900.0,Incubix Corp.,Corp. Executive,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5684423,PAC,ELECT DEMOCRATIC WOMEN,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,20003,G2022,2022-10-03,2500.0,10000.0,,,,,2022
+SA12,C00797217,5771922,IND,,Salkinder,Sonia,,,,13309 Borolo Dr,,Edinburg,TX,78541,G2022,2022-09-30,2500.0,2500.0,Open MRI Of Mcallen,Owner,X,,2022
+SA12,C00797217,5771923,IND,,Barrow,Elizabeth,,,,1602 Alta Vista Ave,,Austin,TX,78704,G2022,2022-10-02,2500.0,2500.0,Self Employed,Film Producer,X,,2022
+SA11AI,C00797217,5715452E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,2400.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5715452,IND,,Rubinstein,Joel,,,,2023 28Th Ave,,San Francisco,CA,94116,G2022,2022-10-13,2400.0,2900.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635857,IND,,Ladd,Dianne,,,,1200 Columbine Ave,,Boulder,CO,80302,G2022,2022-10-12,2300.0,2300.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5671646,PAC,Repair The World PAC,,,,,,910 17Th St NW,Ste 925,Washington,DC,20006,G2022,2022-10-11,2000.0,2000.0,,,,,2022
+SA11AI,C00797217,5618822,IND,,Russell,Stuart,,,,1500 Park Ave,Apt 116,Emeryville,CA,94608,G2022,2022-10-09,2000.0,2000.0,University Of California,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5765117,IND,,Levy,Laurie,,,,83 Chapman Rd,,Garrison,NY,10524,G2022,2022-10-19,2000.0,2000.0,Not Employed,Retired,,,2022
+SA11AI,C00797217,5475402,IND,,Walton,David,,,,34 Hessian Blvd,,Reading,PA,19607,G2022,2022-10-05,2000.0,2000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636970,IND,,Stockman,Allison,,,,1517 S St NW,,Washington,DC,20009,G2022,2022-10-15,2000.0,2000.0,Constellation Theatre Co.,Artistic Director,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5765099,CCM,SYLVIA GARCIA FOR CONGRESS,,,,,,PO Box 8530,,Houston,TX,77249,G2022,2022-10-19,2000.0,4000.0,,,,,2022
+SA11AI,C00797217,5618591,IND,,Maravell,Nicholas,,,,8565 Horseshoe Ln,,Potomac,MD,20854,G2022,2022-10-08,2000.0,2000.0,Self Employed,Farmer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671716,IND,,Millard,Ann,,,,1923 S Mon Mack Rd,,Edinburg,TX,78539,G2022,2022-10-11,2000.0,2200.0,Not Employed,Not Employed,,,2022
+SA11AI,C00797217,5475363,IND,,Brody,Daniel,,,,15 Brewster Rd,,Newton,MA,02461,G2022,2022-10-05,2000.0,2000.0,"Health Data Services, Inc.",President,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666711,IND,,Sanders,Nancy,,,,10025 Meadowbrook Dr,,Dallas,TX,75229,G2022,2022-10-17,1500.0,1500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771921,IND,,Greisman,Susan,,,,578 Riversville Rd,,Greenwich,CT,06831,G2022,2022-09-30,1500.0,2500.0,Self Employed,Physician,X,,2022
+SA11AI,C00797217,5636371,IND,,Florsheim,Steven,,,,3858 N Marshfield Ave,,Chicago,IL,60613,G2022,2022-10-14,1500.0,1500.0,Sperling & Slater,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618070,IND,,Bryan,Helen,,,,2011 Lakeshore Dr,,Austin,TX,78746,G2022,2022-10-09,1500.0,2633.33,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771920,IND,,Lugo Jr.,Jose,,,,2115 Lott Rd,,Donna,TX,78537,G2022,2022-09-30,1500.0,1500.0,"Lugo Group, Inc.",President,X,,2022
+SA11AI,C00797217,5636555,IND,,Johnson,Jane,,,,15 Central Park W,,New York,NY,10023,G2022,2022-10-14,1400.0,1400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716959,IND,,Kohlberg,James,,,,3000 Alpine Rd,Ste 100,Portola Valley,CA,94028,G2022,2022-10-19,1388.88,1388.88,James Kohlberg,Investment Banker,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460204,IND,,Bravo,Monica,,,,1155 Timplemore Dr,,Dallas,TX,75218,G2022,2022-10-04,1250.0,1250.0,Lira Bravo Law PLLC,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634769,IND,,Koerber,John,,,,1280 5Th Ave,Apt 18B,New York,NY,10029,G2022,2022-10-13,1000.0,1000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5765103,PAC,Doing Right - Results Action Unity Leadership PAC,,,,,,PO Box 1566,,Indio,CA,92202,G2022,2022-10-19,1000.0,2000.0,,,,,2022
+SA11C,C00797217,5765104,PAC,AMERICAN DEFENSE AND MILITARY PAC (ADAM PAC),,,,,,PO Box 21961,,Seattle,WA,98111,G2022,2022-10-19,1000.0,1000.0,,,,,2022
+SA11AI,C00797217,5792630,IND,,Young,Rowena,,,,2320 Blue Bonnet Blvd,,Houston,TX,77030,G2022,2022-10-19,1000.0,1100.0,Self Employed,Attorney,X,,2022
+SA11AI,C00797217,5765109,IND,,Mancia,Sarai,,,,900 W Inspiration Dr,,Pharr,TX,78577,G2022,2022-10-19,1000.0,1000.0,UT Rio Grande Valley,Psychologist,,,2022
+SA11AI,C00797217,5716835,IND,,Levine,Daniel,,,,1445 Nye St,,San Rafael,CA,94901,G2022,2022-10-19,1000.0,1000.0,The John Stewart Company,Architect,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716863,IND,,Abouzeid,Chris,,,,35 Cedar Rd,,Belmont,MA,02478,G2022,2022-10-19,1000.0,2000.0,Belmont Books,Bookseller,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5765100,ORG,Law Office Of Garcia Quintanilla & Palacios,,,,,,5526 N 10Th St,,Mcallen,TX,78504,G2022,2022-10-19,1000.0,2500.0,,,,PARTNERSHIP--partners below if itemized,2022
+SA11AI,C00797217,5765108,IND,,Jackson,Roberto,,,,412 Palmview Commercial Dr,,Palmview,TX,78574,G2022,2022-10-19,1000.0,1000.0,Self Employed,Attorney,,,2022
+SA11AI,C00797217,5666642,IND,,Larkin,Eric,,,,25279 Terrace Grove Rd,,Los Gatos,CA,95033,G2022,2022-10-17,1000.0,1000.0,Sila Nanotechnologies,Executive,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666675,IND,,Munger,Barry,,,,79 Washington Pl,Apt 8R,New York,NY,10011,G2022,2022-10-17,1000.0,1000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771915,IND,,Heller,Paul,,,,13806 Wooded Creek Dr,,Farmers Branch,TX,75244,G2022,2022-09-25,1000.0,1500.0,Not Employed,Retired,X,,2022
+SA11AI,C00797217,5618278,IND,,Garret,Ron,,,,631 Sylvan Way,,Emerald Hills,CA,94062,G2022,2022-10-07,1000.0,1000.0,Spark Innovations Inc.,Entrepreneur,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5685280,PAC,Onward Together Committee,,,,,,PO Box 5256,,New York,NY,10185,G2022,2022-10-17,1000.0,1000.0,,,,,2022
+SA12,C00797217,5771916,IND,,Levine,Magdalena,,,,2006 Sahara Dr,,Weslaco,TX,78596,G2022,2022-09-30,1000.0,1000.0,Andrew Levine,Administrator,X,,2022
+SA12,C00797217,5771918,IND,,League,Karrie,,,,1305 W 22Nd St,,Austin,TX,78705,G2022,2022-09-30,1000.0,1100.0,Self Employed,Property Manager,X,,2022
+SA12,C00797217,5771919,IND,,Greisman,Susan,,,,578 Riversville Rd,,Greenwich,CT,06831,G2022,2022-09-30,1000.0,2500.0,Self Employed,Physician,X,,2022
+SA12,C00797217,5771917,IND,,Ayres,Roberto,,,,526 E Sandyhills Ave,,Mcallen,TX,78503,G2022,2022-09-30,1000.0,1000.0,Self Employed,Physician,X,,2022
+SA11AI,C00797217,5434205,IND,,Steves,Buddy,,,,2320 Blue Bonnet Blvd,,Houston,TX,77030,G2022,2022-10-01,1000.0,4000.0,RT Specialty,Insurance,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434313,IND,,Luxton,Michael,,,,1435 Lakeview Dr,,Hillsborough,CA,94010,G2022,2022-10-01,1000.0,1000.0,Zynga,Software Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434301,IND,,Haahr,Paul,,,,4222 22Nd St,,San Francisco,CA,94114,G2022,2022-10-02,1000.0,1000.0,"Google, Inc",Programmer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636610,IND,,Kumph,Joseph,,,,1010 Erica Rd,,Mill Valley,CA,94941,G2022,2022-10-16,1000.0,1000.0,The Kitchens Inc,Ceo,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459984,IND,,McCann,John,,,,6411 Stratford Rd,,Chevy Chase,MD,20815,G2022,2022-10-03,1000.0,1000.0,Legatus6,Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5619012,IND,,Weissbourd,Robert,,,,1843 N Dayton St,,Chicago,IL,60614,G2022,2022-10-08,1000.0,1000.0,RW Ventures LLC,Economic Development,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618777,IND,,Redish,Edward,,,,6820 Winterberry Ln,,Bethesda,MD,20817,G2022,2022-10-08,1000.0,1000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636880,IND,,Rounds,Edward,,,,479 S Marengo Ave,,Pasadena,CA,91101,G2022,2022-10-16,1000.0,1000.0,Self Employed,Psycologist,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5684419,CCM,Citizens To Elect Rick Larsen,,,,,,PO Box 326,,Everett,WA,98206,G2022,2022-10-06,1000.0,1000.0,,,,,2022
+SA11AI,C00797217,5636394,IND,,Garcia,Wilfrido,,,,3535 S State Highway 16,,Hebbronville,TX,78361,G2022,2022-10-15,1000.0,1000.0,Self Employed,Ranching,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636046,IND,,Ebb,Nancy,,,,7171 Woodmont Ave,Unit 601,Chevy Chase,MD,20815,G2022,2022-10-12,1000.0,1000.0,Aspire Counseling,Social Worker,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475543,IND,,Levy,Hannah,,,,1425 9Th Ave,,San Francisco,CA,94122,G2022,2022-10-06,1000.0,1000.0,Amino,Marketing,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636495,IND,,Hellman,Martin,,,,730 Alvarado Ct,,Stanford,CA,94305,G2022,2022-10-14,1000.0,1000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635294,IND,,Simon,Thor,,,,116 Pinehurst Ave,Apt T11,New York,NY,10033,G2022,2022-10-10,1000.0,1000.0,Hawkfish,Business Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634908,IND,,Boss,Gerry,,,,6309 Muirlands Dr,,La Jolla,CA,92037,G2022,2022-10-10,1000.0,1000.0,University Of California San Diego,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637069,IND,,Wiener,Donald,,,,4443 Richmond Ave,,Shreveport,LA,71106,G2022,2022-10-14,1000.0,3000.0,Wiener Weiss & Madison,Attorney,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5637194,CCM,NAPOLITANO FOR CONGRESS,,,,,,555 Capitol Mall,Ste 400,Sacramento,CA,95814,G2022,2022-10-14,1000.0,1000.0,,,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671713,IND,,Denn,Susan,,,,3422 S Lamar Blvd,,Austin,TX,78704,G2022,2022-10-11,1000.0,1000.0,Not Employed,Retired,,,2022
+SA11AI,C00797217,5772099,IND,,Haegelin,Gloria,,,,756 20Th Ave,,Clarkston,WA,99403,G2022,2022-10-18,1000.0,1750.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618323,IND,,Grasseschi,Barbara,,,,1083 Vine St,,Healdsburg,CA,95448,G2022,2022-10-08,1000.0,1000.0,Puma Springs Vineyards,Farmer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634802,IND,,Grove,Eva,,,,171 Main St,# 278,Los Altos,CA,94022,G2022,2022-10-13,1000.0,1250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5765101,PAC,Stand Up For Workers PAC,,,,,,C/O Roseman Law Offices Llc 1120 L,Suite 1306,Denver,CO,80203,G2022,2022-10-19,1000.0,1000.0,,,,,2022
+SA11AI,C00797217,5634836,IND,,Hornstein,Sari,,,,1400 21St St NW,,Washington,DC,20036,G2022,2022-10-13,1000.0,1000.0,Not Employed,Self Employed,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5765102,PAC,Individuals Dedicated To Ethics & Science PAC,,,,,,PO Box 6911,,Denver,CO,80206,G2022,2022-10-19,1000.0,1000.0,,,,,2022
+SA11C,C00797217,5671619,PAC,One Voice,,,,,,910 17Th St NW,Ste 925,Washington,DC,20006,G2022,2022-10-11,1000.0,2000.0,,,,,2022
+SA11C,C00797217,5671656,PAC,Fighting For South Texas PAC,,,,,,PO Box 15096,,Washington,DC,20003,G2022,2022-10-11,1000.0,1000.0,,,,,2022
+SA11C,C00797217,5671609,CCM,CHUY GARCIA FOR CONGRESS,,,,,,137 N 14Th Ave,,Melrose Park,IL,60160,G2022,2022-10-11,1000.0,1500.0,,,,,2022
+SA11C,C00797217,5671640,CCM,CASTRO FOR CONGRESS,,,,,,PO Box 544,,San Antonio,TX,78292,G2022,2022-10-11,1000.0,2000.0,,,,,2022
+SA11AI,C00797217,5635473,IND,,Simmons,Ian,,,,104 Mount Auburn St,Ste 5,Cambridge,MA,02138,G2022,2022-10-11,1000.0,1000.0,Self Employed,Investor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666555,IND,,Boylan,Dimitri,,,,56 Rte 104,,Quogue,NY,11956,G2022,2022-10-17,956.0,2456.0,Avature,Executive,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459960,IND,,Burton,Emily,,,,1003 Barley Mill Rd,,Wilmington,DE,19807,G2022,2022-10-03,956.0,956.0,YCST,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618691,IND,,Nelson,Carl,,,,975 Memorial Dr,Apt 504,Cambridge,MA,02138,G2022,2022-10-07,900.0,2900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715451E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,750.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5666614,IND,,Haegelin,Gloria,,,,756 20Th Ave,,Clarkston,WA,99403,G2022,2022-10-17,750.0,750.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715451,IND,,Weiner,Sanford,,,,2843 Club Dr,,Los Angeles,CA,90064,G2022,2022-10-12,750.0,750.0,Social Studies School Service,Co Founder,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618772,IND,,Ranney,Michael,,,,905 Polk St,,Albany,CA,94706,G2022,2022-10-08,725.0,725.0,Univ. Of California Berkeley,Professor,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771914,IND,,Deleon,Jesse,,,,2619 Drakensburg Ave,,Edinburg,TX,78539,G2022,2022-09-25,680.0,680.0,UT,Professor,X,,2022
+SA11AI,C00797217,5716953,IND,,Mutz,Heather,,,,1200 Furlong Rd,,Sebastopol,CA,95472,G2022,2022-10-19,600.0,600.0,Not Employed,Homemaker Volunteer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716888,IND,,Butts,David,,,,1914 Patton Ln,,Austin,TX,78723,G2022,2022-10-19,500.0,500.0,Self Employed,Political Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772166,IND,,Smullin,Alix,,,,22 Woodbine Ave,,Swampscott,MA,01907,G2022,2022-10-18,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666551,IND,,Berkowitz,Felice,,,,8428 Overbrook Rd,,Fairfax,VA,22031,G2022,2022-10-17,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666736,IND,,Tucker,Eliot,,,,2199 Troon Rd,,Houston,TX,77019,G2022,2022-10-17,500.0,2700.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666750,IND,,Young,Peter,,,,912 Cole St,# 333,San Francisco,CA,94117,G2022,2022-10-17,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636389,IND,,Gagarin,Michael,,,,1 University Sta,# C3400,Austin,TX,78712,G2022,2022-10-16,500.0,2000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636579,IND,,Kenney,David,,,,3021 Q St NW,,Washington,DC,20007,G2022,2022-10-16,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636666,IND,,Lundahl,Sharon,,,,5125 Newport Ave,,Bethesda,MD,20816,G2022,2022-10-16,500.0,666.67,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636784,IND,,Pastor,Margaret,,,,4667 Kenmore Dr NW,,Washington,DC,20007,G2022,2022-10-16,500.0,1500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637105,IND,,Zaideman,Robert,,,,518 Romona Rd,,Wilmette,IL,60091,G2022,2022-10-16,500.0,500.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636135,IND,,Applbaum,Arthur,,,,83 Kirkstall Rd,,Newton,MA,02460,G2022,2022-10-15,500.0,500.0,Harvard University,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636338,IND,,Dsida,Mike,,,,14 Cantwell Rd,,Milton,MA,02186,G2022,2022-10-15,500.0,500.0,Committee For Public Counsel Services,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715444E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,500.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5634674,IND,,Garcia,Felipe,,,,201 E University Dr,,Edinburg,TX,78539,G2022,2022-10-13,500.0,3350.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5667161E,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,20001,G2022,2022-10-12,500.0,972.49,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5717170,IND,,Brender,Art,,,,4121 Hampshire Blvd,,Fort Worth,TX,76103,G2022,2022-10-19,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5765113,IND,,Fallek,Larry,,,,4316 N 10Th St,,Mcallen,TX,78504,G2022,2022-10-19,500.0,1500.0,Self Employed,Attorney,,,2022
+SA11AI,C00797217,5717279,IND,,Grebb,Morey,,,,14272 W Warren Pl,,Lakewood,CO,80228,G2022,2022-10-19,500.0,500.0,Gpmi,Real Estate,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772336,IND,,Hoffer,Aaron,,,,11381 Sinclair Ave,,Northridge,CA,91326,G2022,2022-10-18,500.0,500.0,Notus,Software Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771979,IND,,Hoover,KImberly,,,,1000 Brickell Plz,Unit 2912,Miami,FL,33131,G2022,2022-10-18,500.0,500.0,Red Multifamily,Ceo,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771998,IND,,Lider,Brett,,,,3670 18Th St,,San Francisco,CA,94110,G2022,2022-10-18,500.0,515.0,Google,Designer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635716,IND,,Orendain,Joseph,,,,3002 Hawthorne Ave,,Edinburg,TX,78539,G2022,2022-10-12,500.0,2000.0,Hidalgo County DAs Office,Assistant District Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635514,IND,,Gagarin,Michael,,,,1 University Sta,# C3400,Austin,TX,78712,G2022,2022-10-11,500.0,1500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671712,IND,,Lopez,Bridget,Moreno,,,4326 Meadowdale Ln,,Dallas,TX,75229,G2022,2022-10-11,500.0,500.0,Linebarger Goggan Blair & Sampson LLP,Attorney,,,2022
+SA11AI,C00797217,5635402,IND,,Maruca,Sam,,,,3432 34Th St NW,,Washington,DC,20008,G2022,2022-10-11,500.0,1666.66,Covington & Burling LLP,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635408,IND,,Orson,Frank,,,,7171 Buffalo Speedway,,Houston,TX,77025,G2022,2022-10-11,500.0,600.0,Not Employed,Baylor College Of Medicine,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671744,IND,,Villarreal,Ricardo,,,,5709 N 1St Ln,,Mcallen,TX,78504,G2022,2022-10-11,500.0,1000.0,ACHE,Director,,,2022
+SA11C,C00797217,5671674,COM,Elias Olivarez Jr. Campaign Fund,,,,,,429 Vermont Ave,,Mcallen,TX,78503,G2022,2022-10-11,500.0,500.0,,,,,2022
+SA11AI,C00797217,5634903,IND,,Berger,Howard,,,,433 A W Oaklawn Rd,,Pleasanton,TX,78064,G2022,2022-10-10,500.0,1750.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635020,IND,,Garcia,Felipe,,,,201 E University Dr,,Edinburg,TX,78539,G2022,2022-10-10,500.0,2850.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635085,IND,,Hopkins,H,Kate,,,6223 Rex Dr,,Dallas,TX,75230,G2022,2022-10-10,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475580,IND,,Madigan,Pamela,,,,1114 High School Rd NE,,Bainbridge Island,WA,98110,G2022,2022-10-06,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634790,IND,,Rosen,Susan,,,,828 Clayton St,,San Francisco,CA,94117,G2022,2022-10-13,500.0,1000.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635806,IND,,Gibson,David,H,,,3511 Overbrook Dr,,Dallas,TX,75205,G2022,2022-10-12,500.0,500.0,Self Employed,Investor/Photographer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635954,IND,,Giffin,Kenna,,,,PO Box 3784,,Mcallen,TX,78502,G2022,2022-10-12,500.0,875.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635757,IND,,Hansen,Peter,,,,912 S St NW,Apt 1,Washington,DC,20001,G2022,2022-10-12,500.0,500.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635887,IND,,Kaye,Cessna,,,,113 Terrace Ave,,Kentfield,CA,94904,G2022,2022-10-12,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635886,IND,,Kaye,Doug,,,,113 Terrace Ave,,Kentfield,CA,94904,G2022,2022-10-12,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475440,IND,,Hart,Oliver,,,,10 Independence Ave,,Lexington,MA,02421,G2022,2022-10-05,500.0,500.0,Harvard University,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475357,IND,,Lopez,Bridget,,,,2777 N Stemmons Fwy,Ste 1000,Dallas,TX,75207,G2022,2022-10-05,500.0,500.0,Linebarger Attorneys At Law,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475457,IND,,Pokala,Ravi,,,,405 Rancho Arroyo Pkwy,Apt 354,Fremont,CA,94536,G2022,2022-10-05,500.0,500.0,Panasas,Software Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475362,IND,,Shkolnik,Kevin,,,,4628 Blagden Ter NW,,Washington,DC,20011,G2022,2022-10-05,500.0,1000.0,Quadrant Strategies,Partner,,* Earmarked Contribution: See Below,2022
+SA11C,C00797217,5772421,COM,Victoria Neave Campaign,,,,,,PO Box 472773,,Garland,TX,75047,G2022,2022-10-05,500.0,500.0,,,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460201,IND,,Arroyo,Belinda,,,,316 Tampico St,,Irving,TX,75062,G2022,2022-10-04,500.0,500.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460195,IND,,Hernandez,Cassandra,,,,7624 Worthing St,,Dallas,TX,75252,G2022,2022-10-04,500.0,1000.0,Hernandez Law Group,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460227,IND,,Michel,Robert,,,,712 Sparks Ave,,Austin,TX,78705,G2022,2022-10-04,500.0,500.0,Loudhouse Productions LLC,Film And Music Producer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460197,IND,,Pandya,Amit,A,,,606 Dale Dr,,Silver Spring,MD,20910,G2022,2022-10-04,500.0,1000.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459956,IND,,Acevedo,Gustavo,L.,,Jr,814 Del Oro Ln,,Pharr,TX,78577,G2022,2022-10-03,500.0,5550.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459976,IND,,Feigon,Sharon,,,,711 Roslyn Ter,,Evanston,IL,60201,G2022,2022-10-03,500.0,500.0,Shard Use Mobility Center,Executive Director,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459998,IND,,Harris,Laurie,,,,171 E 84Th St,Apt 9C,New York,NY,10028,G2022,2022-10-03,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459959,IND,,Hernandez,Cassandra,,,,7624 Worthing St,,Dallas,TX,75252,G2022,2022-10-03,500.0,500.0,Hernandez Law Group,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434155,IND,,Lynch,Mark,,,,3920 Military Rd NW,,Washington,DC,20015,G2022,2022-10-02,500.0,500.0,Covington & Burling LLP,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434200,IND,,Nonneman,Elaine,,,,226 21St Ave E,,Seattle,WA,98112,G2022,2022-10-02,500.0,500.0,Self Employed,Grantmaker/Builder,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771912,IND,,Ausley,Tom,,,,4200 Jackson Ave,Apt 4032,Austin,TX,78731,G2022,2022-10-02,500.0,500.0,Not Employed,Not Employed,X,,2022
+SA12,C00797217,5771913,IND,,Yodaiken,Victor,,,,2718 Creeks Edge Pkwy,,Austin,TX,78733,G2022,2022-10-02,500.0,513.89,Finite State Machine Labs Inc.,CEO,X,,2022
+SA11AI,C00797217,5434237,IND,,Stiratelli,Robert,,,,44 Kelley St,,Cambridge,MA,02138,G2022,2022-10-01,500.0,1500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434312,IND,,Young,Thomas,,,,3711 164Th St SW,Apt C211,Lynnwood,WA,98087,G2022,2022-10-01,500.0,500.0,"Apptio, Inc.",Software Developer,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771910,IND,,Beaver,Becky,,,,3500 Jefferson St,Ste 210,Austin,TX,78731,G2022,2022-09-30,500.0,1333.33,Law Office Of Becky Beaver,Attorney,X,,2022
+SA12,C00797217,5771909,IND,,Davis,Wendy,,,,620 Blanco St,,Austin,TX,78703,G2022,2022-09-30,500.0,2233.33,Deeds Not Words,Founder/Public Speaker,X,,2022
+SA12,C00797217,5771911,IND,,Gorczynski,Christina,,,,4618 Ramsey Ave,,Austin,TX,78756,G2022,2022-09-30,500.0,500.0,Impact Austin,Executive Director,X,,2022
+SA12,C00797217,5771908,IND,,Leo,Lita,,,,PO Box 1,,La Joya,TX,78560,G2022,2022-09-30,500.0,500.0,Hidalgo COunty,County Treasurer,X,,2022
+SA12,C00797217,5771906,IND,,Reader,Doug,,,,6139 Waggoner Dr,,Dallas,TX,75230,G2022,2022-09-25,500.0,750.0,Self Employed,Owner,X,,2022
+SA12,C00797217,5771907,IND,,Sullivan,James,,,,239 Wilbur Ave,,Cranston,RI,02921,G2022,2022-09-25,500.0,500.0,Bottomline,PM,X,,2022
+SA11AI,C00797217,5618064,IND,,Brown,David,,,,512 N Meadowcroft Ave,,Pittsburgh,PA,15216,G2022,2022-10-08,500.0,500.0,The Fourth River Company,Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5667161,IND,,Miglin,Marie,,,,4916 Bluestar Dr,,Austin,TX,78739,G2022,2022-10-08,500.0,500.0,Stress Engineering Services,Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618919,IND,,Stephens,Nancy,,,,350 S Grand Ave,Ste 2000,Los Angeles,CA,90071,G2022,2022-10-08,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715444,IND,,Barg,Irl,,,,210 Lavaca St,Apt 2102,Austin,TX,78701,G2022,2022-10-07,500.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618915,IND,,Stauber,Joel,,,,3550 Pacific Ave,Apt 112,Livermore,CA,94550,G2022,2022-10-07,500.0,1000.0,Sandia National Laboratories,Planner,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475487,IND,,Kastl,Kristina,N.,,,4144 N Central Expy,,Dallas,TX,75204,G2022,2022-10-06,500.0,1956.0,KASTL LAW PC,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475488,IND,,Kastl,Kristina,N.,,,4144 N Central Expy,,Dallas,TX,75204,G2022,2022-10-06,500.0,1956.0,KASTL LAW PC,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635628,IND,,Zettlemoyer,Luke,,,,1722 12Th Ave,Unit 201,Seattle,WA,98122,G2022,2022-10-11,428.57,428.57,University Of Washington,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635343,IND,,Walters,Deron,,,,915 Olive St,Apt 107,Santa Barbara,CA,93101,G2022,2022-10-10,400.0,400.0,Oxford Instruments Asylum Research Inc,Physicist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635558,IND,,Moore,Richard,,,,3 Thornwood,,Irvine,CA,92604,G2022,2022-10-11,400.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771905,IND,,Reyna Castillo,Jesus,,,,2026 Grove Lake Dr,,Kingwood,TX,77339,G2022,2022-09-30,400.0,400.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5635982,IND,,Marquez,Lisa,,,,2531 Leslie St,,Edinburg,TX,78539,G2022,2022-10-12,400.0,400.0,Donna Medical Clinic,Nurse Practitioner,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715442,IND,,Zivin,Mark,,,,1637 Judson Ave,,Evanston,IL,60201,G2022,2022-10-07,360.0,360.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715442E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,360.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5618319,IND,,Graepel,G,,,,1626 E Strasburg Rd,,West Chester,PA,19380,G2022,2022-10-08,347.0,347.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5815727,IND,,Garcia,Richard,,,,5526 N 10Th St,,Mcallen,TX,78504,G2022,2022-10-19,333.34,833.34,Self Employed,Attorney,X,,2022
+SA11AI,C00797217,5772295,IND,,Yochelson,Diane,,,,4914 Edgemoor Ln,,Bethesda,MD,20814,G2022,2022-10-18,333.34,333.34,Diane Yochelson,Real Estate Agent,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5815730,IND,,Quintanilla,Crispin,,,III,1900 Highland Ave,,Mcallen,TX,78501,G2022,2022-10-19,333.33,2333.33,Law Office Of Garcia Quintanilla & Pal,Attorney,X,,2022
+SA11AI,C00797217,5815728,IND,,Palacios,Toribio,,,,5526 N 10Th St,,Mcallen,TX,78504,G2022,2022-10-19,333.33,833.33,Self Employed,Attorney,X,,2022
+SA11AI,C00797217,5475438,IND,,Buchwald,Stephen,,,,92 Bullough Park,,Newton,MA,02460,G2022,2022-10-05,300.0,300.0,MIT,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5815709,IND,,Elizondo,Nicolas,,,,2411 Durango Dr,,Mission,TX,78573,G2022,2022-10-13,300.0,300.0,Cage I Plaza LLC,Owner,X,,2022
+SA11AI,C00797217,5671759,ORG,Cage 1 Plaza LLC,,,,,,2411 Durango Dr,,Mission,TX,78573,G2022,2022-10-13,300.0,300.0,,,,LLC - Members below if itemized. Permissible funds.,2022
+SA11AI,C00797217,5460297,IND,,Campioni,Chris,,,,1620 W Berwyn Ave,,Chicago,IL,60640,G2022,2022-10-04,300.0,300.0,IHeart Media,Producer,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771903,IND,,Loera,Juan,,,,1907 Trinity St,,Mission,TX,78572,G2022,2022-09-30,300.0,300.0,Parallon,Authorization Representative,X,,2022
+SA11AI,C00797217,5717046,IND,,Deere,Elizabeth,,,,191 N Bentley Ave,,Los Angeles,CA,90049,G2022,2022-10-19,300.0,800.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460277,IND,,Fincher,Norma,,,,808 Kaufman,,El Paso,TX,79932,G2022,2022-10-04,300.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618414,IND,,Hunsberger,Peter,,,,2613 TYLER St,,Berkeley,CA,94703,G2022,2022-10-09,300.0,387.0,Self Employed,Psychologist,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771904,IND,,Moss,Vanessa,,,,5671 E Cooper St,# US,Tucson,AZ,85711,G2022,2022-09-30,300.0,300.0,Self Employed,Attorney,X,,2022
+SA11AI,C00797217,5635838,IND,,Shawn,Natalie,,,,301 Glendale Rd,,Scarsdale,NY,10583,G2022,2022-10-12,300.0,415.38,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5765120,IND,,Hackell,Veda,,,,1907 Shadow Bend Dr,,Houston,TX,77043,G2022,2022-10-19,300.0,300.0,Not Employed,Retired,,,2022
+SA11AI,C00797217,5715445,IND,,Stahl,Lynn,,,,95 Longsford,,San Antonio,TX,78209,G2022,2022-10-09,300.0,300.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715445E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,300.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5475353,IND,,Dockterman,Alan,,,,3800 Fairfax Dr,Apt 1614,Arlington,VA,22203,G2022,2022-10-05,300.0,300.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635119,IND,,Kurra,Goutham,,,,545 Georgetown Ave,,San Mateo,CA,94402,G2022,2022-10-10,285.71,285.71,Glint Inc,Technology,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717271,IND,,Bolan,Nancy,,,,50 Parkway W,,Mount Vernon,NY,10552,G2022,2022-10-19,250.0,250.0,World Vision,Public Health,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771891,IND,,Wood,Channy,,,,PO Box 1439,,Amarillo,TX,79105,G2022,2022-09-25,250.0,500.0,Self Employed,Attorney,X,,2022
+SA11AI,C00797217,5635551,IND,,Smith,Robert,,,,4749 Calle Las Brisas,,Santa Barbara,CA,93110,G2022,2022-10-11,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475564,IND,,Cole,Vera,,,,2045 Upper Rocky Dale Rd,,Green Lane,PA,18054,G2022,2022-10-06,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666640,IND,,Kuramoto,Ford,,,,1887 Maplegate St,,Monterey Park,CA,91755,G2022,2022-10-17,250.0,250.0,Magna Systems Incorporated,Administrator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666610,IND,,Green,Steven,,,,820 Saint Anthony Ln,,Florissant,MO,63033,G2022,2022-10-17,250.0,900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771890,IND,,Saban,Analia,,,,5935 S Western Ave,,Los Angeles,CA,90047,G2022,2022-09-25,250.0,250.0,Analia Saban Studio LLC,Artist,X,,2022
+SA12,C00797217,5771892,IND,,Marino,Michael,,,,2 Bearfort Way,,Lawrence Twp,NJ,08648,G2022,2022-09-25,250.0,450.0,Self Employed,Teacher,X,,2022
+SA11AI,C00797217,5618282,IND,,Garza,Robert,,,,112 Lakeshore Dr,,Brownsville,TX,78521,G2022,2022-10-08,250.0,250.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666731,IND,,Thompson,Anna,,,,7513 N 17Th St,,Mcallen,TX,78504,G2022,2022-10-17,250.0,1056.3,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771887,IND,,Goddard,Louise,,,,183 Hunters Rd,,Washington,VA,22747,G2022,2022-09-25,250.0,250.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5666746,IND,,Williford,Ward,,,,2626 Howell St,Fl 10TH,Dallas,TX,75204,G2022,2022-10-17,250.0,250.0,Republic Title,Attorney,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771888,IND,,Blucher,R,,,,PO Box 1592,,Eugene,OR,97440,G2022,2022-09-25,250.0,250.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5634878,IND,,Arango,Jorge,,,,1103 N Raul Longoria Rd,,San Juan,TX,78589,G2022,2022-10-10,250.0,1250.0,Americare Nursing Services,Administrator,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771889,IND,,Alexander,Stacy,,,,1111 W 12Th St,Apt 106,Austin,TX,78703,G2022,2022-09-25,250.0,300.0,Not Employed,Not Employed,X,,2022
+SA12,C00797217,5771897,IND,,Standley,Renee,Justice,,,PO Box 816421,,Dallas,TX,75381,G2022,2022-09-30,250.0,515.0,Not Employed,Retired,X,,2022
+SA12,C00797217,5771896,IND,,Salazar,Samantha,,,,1300 Orange Ave,,Mcallen,TX,78501,G2022,2022-09-30,250.0,250.0,Only Love LLC,Physical Therapist,X,,2022
+SA11AI,C00797217,5634967,IND,,Dana,Jonathan,,,,1812 Kenyon St NW,,Washington,DC,20010,G2022,2022-10-10,250.0,250.0,FTLF,Attorney,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771894,IND,,McLeaish,Karen,,,,1724 Graham Ave,,Odessa,TX,79763,G2022,2022-09-30,250.0,1100.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5636314,IND,,Deere,Elizabeth,,,,191 N Bentley Ave,,Los Angeles,CA,90049,G2022,2022-10-16,250.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635036,IND,,Godinez,Brian,,,,5403 N 5Th St,,Mcallen,TX,78504,G2022,2022-10-10,250.0,350.0,ERO Architects,Principal,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635049,IND,,Goodman,Adam,,,,400 Virginia Ave,,Ann Arbor,MI,48103,G2022,2022-10-10,250.0,250.0,Cisco Systems Inc.,Principal Software Engineer,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771898,IND,,Hansen,Lana,,,,13108 Wild Turkey Dr,,Manchaca,TX,78652,G2022,2022-09-30,250.0,250.0,TX Blue Action,Executive Director,X,,2022
+SA11AI,C00797217,5635098,IND,,Jaszi,Peter,,,,5402 Surrey St,,Chevy Chase,MD,20815,G2022,2022-10-10,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475601,IND,,Howekamp,Marily,,,,4191 Coralee Ln,,Lafayette,CA,94549,G2022,2022-10-06,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635155,IND,,Manouelian,Edward,,,,2327 Broadlawn Dr,,Houston,TX,77058,G2022,2022-10-10,250.0,250.0,University Of Houston,Academic Advisor,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771893,IND,,Cuevas,Donny,,,,200 W Expressway 83,,San Benito,TX,78586,G2022,2022-09-30,250.0,250.0,Cuevas Auto Sales,Owner,X,,2022
+SA11AI,C00797217,5635197,IND,,Novak,Maria,Matiella,,,521 Rabbitt Hill Rd,,Riva,MD,21140,G2022,2022-10-10,250.0,250.0,Johns Hopkins University,Scientist/Educator,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771901,IND,,Crews,Susan,,,,1113 S Trace Dr,,Austin,TX,78745,G2022,2022-09-30,250.0,250.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5635243,IND,,Rebollo,George,,,,1313 Zepher Ave,,Edinburg,TX,78539,G2022,2022-10-10,250.0,250.0,Donna ISD,Educator,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771899,IND,,Cartwright,Dorsey,,,,1715 Norris Dr,,Austin,TX,78704,G2022,2022-09-30,250.0,300.0,Self Employed,Psychotherapist,X,,2022
+SA12,C00797217,5771900,IND,,Bray,Elizabeth,,,,3736 Bee Caves Rd,Ste Pm 1,West Lake Hills,TX,78746,G2022,2022-09-30,250.0,500.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5635291,IND,,Silverstein,Alison,,,,2515 Mc Bee St,,Austin,TX,78723,G2022,2022-10-10,250.0,250.0,Alison Silverstein Consulting,President,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717199,IND,,Whitford,Thomas,,,,1 Greenbriar Ln,,Paoli,PA,19301,G2022,2022-10-19,250.0,750.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636358,IND,,Farber,Michael,,,,171 Forest Rd,,Moorestown,NJ,08057,G2022,2022-10-16,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635301,IND,,Specht,Alice,,,,918 Grand Ave,,Abilene,TX,79605,G2022,2022-10-10,250.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771895,IND,,Antonio,Priscilla,,,,1300 Orange Ave,,Mcallen,TX,78501,G2022,2022-09-30,250.0,300.0,Planet Home Lending,Mortgage Loan Originator,X,,2022
+SA11AI,C00797217,5635349,IND,,Weil,Benjamin,,,,123 Audubon Rd,,Leeds,MA,01053,G2022,2022-10-10,250.0,250.0,Univ. Of Mass Amherst,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618407,IND,,Howard,Brian,,,,1125 Butte Ct,,Livermore,CA,94551,G2022,2022-10-07,250.0,250.0,Pleasanton Unified School District,Teacher,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475579,IND,,Glusman,Kenneth,,,,24 Grey Stone Path,,Dedham,MA,02026,G2022,2022-10-06,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717293,IND,,Tanttila,Patricia,,,,330 Carmel Ave,,Pacifica,CA,94044,G2022,2022-10-19,250.0,250.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634683,IND,,McCune,Duane,,,,5501 Legacy Oaks Pkwy,Apt 724,Schertz,TX,78154,G2022,2022-10-13,250.0,750.0,Self Employed,CPA,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634690,IND,,Daglas,Andy,,,,525 W Deming Pl,Apt 411,Chicago,IL,60614,G2022,2022-10-13,250.0,250.0,Business Development Writer,Dentons,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772226,IND,,Harris,Laurie,,,,171 E 84Th St,Apt 9C,New York,NY,10028,G2022,2022-10-18,250.0,750.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635719,IND,,McCarty,Kevin,,,,1830 Patrick Henry Dr,,Arlington,VA,22205,G2022,2022-10-12,250.0,400.0,USCM,Association Director,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772292,IND,,Horowitz,Julie,,,,828 Hiawatha Pl S,,Seattle,WA,98144,G2022,2022-10-18,250.0,250.0,King County,Public Health,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772303,IND,,Hulsey,Lukas,,,,7205 Geneva Dr,,Austin,TX,78723,G2022,2022-10-18,250.0,250.0,Human Interfaces,Researcher,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636010,IND,,Milanich,Nara,,,,90 Morningside Dr,Apt 6F,New York,NY,10027,G2022,2022-10-12,250.0,250.0,Barnard College,Professor Of History,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636091,IND,,Mohammed,Hindatu,,,,1905 Aggie Ln,,Austin,TX,78757,G2022,2022-10-12,250.0,500.0,Allandale Veterinary Clinic,Veterinarian,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5619043,IND,,Zamora,Emilio,,,,2653 Barton Hills Dr,,Austin,TX,78704,G2022,2022-10-09,250.0,900.0,University Of Texas At Austin,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636004,IND,,Nieto,Ernesto,,,,861 Arroyo Ranch Rd,,Kyle,TX,78640,G2022,2022-10-12,250.0,550.0,National Hispanic Institute,President,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716896,IND,,Bell,Charles,,,,22 Ganung Dr,,Ossining,NY,10562,G2022,2022-10-19,250.0,250.0,Consumers Union,Consumer Advocacy,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716981,IND,,Gradisar,Nick,,,,5606 Bellagio Way,,Pueblo,CO,81005,G2022,2022-10-19,250.0,250.0,City Of Pueblo,Mayor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635950,IND,,Woodland,Kristen,,,,212 Amherst Ct,,Oswego,IL,60543,G2022,2022-10-12,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717090,IND,,Duarte,Jennifer,,,,12165 Hilltop Dr,,Los Altos Hills,CA,94024,G2022,2022-10-19,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635595,IND,,Kamran,Linda,,,,410 Cervantes Rd,,Portola Valley,CA,94028,G2022,2022-10-11,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671706,IND,,Kelly,Donald,G,,,PO Box 756,,Natchitoches,LA,71458,G2022,2022-10-11,250.0,750.0,Kelly & Townsend,Attorney,,,2022
+SA11AI,C00797217,5715449,IND,,Kovner,Victor,,,,1251 Avenue Of The Americas,,New York,NY,10020,G2022,2022-10-11,250.0,250.0,DWT,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618126,IND,,Cochran,Andrea,,,,126 Texas St,,San Francisco,CA,94107,G2022,2022-10-08,250.0,250.0,Self Employed,Landscape Architect,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716833,IND,,Conant,Howard,,,,736 Greenacres Ln,,Glenview,IL,60025,G2022,2022-10-19,250.0,250.0,Urban Innovations,Architect,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5715449E,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,20033,G2022,2022-10-13,250.0,10430.0,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5765118,IND,,Casstevens,Kay,,,,1418 Foxhall Rd NW,,Washington,DC,20007,G2022,2022-10-19,250.0,250.0,Seber Method Studio,Tap Dance Teacher,,,2022
+SA11AI,C00797217,5717229,IND,,Callender,Wesley,,,,1088 Manning St,,Great Falls,VA,22066,G2022,2022-10-19,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771968,IND,,Perez,Mario,,,,2744 5Th Ave,,Fort Worth,TX,76110,G2022,2022-10-18,250.0,250.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666612,IND,,Griffey,Michael,,,,3111 Rolling Rd,,Chevy Chase,MD,20815,G2022,2022-10-17,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618532,IND,,Lawrence,Starling,,,,45 E 62Nd St,,New York,NY,10065,G2022,2022-10-08,250.0,500.0,W W Norton Co,Editor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460033,IND,,Deere,Elizabeth,,,,191 N Bentley Ave,,Los Angeles,CA,90049,G2022,2022-10-03,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459977,IND,,Brownfield,Andrew,,,,6233 Goliad Ave,,Dallas,TX,75214,G2022,2022-10-03,250.0,250.0,Match Group,Finance,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772283,IND,,Rose,Mark,,,,1135 Oriole Rd,,Santa Barbara,CA,93108,G2022,2022-10-18,250.0,250.0,UCSB,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460196,IND,,Vaughan,Ben,,,,2403 Sweetbrush Dr,,Austin,TX,78703,G2022,2022-10-04,250.0,250.0,Graves Dougherty Hearon Moody,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460231,IND,,Hanley,Erin,,,,100 Deforest Rd,,Burlington,VT,05401,G2022,2022-10-04,250.0,250.0,Erin Hanley Fine Furniture,Furniture Maker,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460199,IND,,Guio,Alexandra,,,,PO Box 600593,,Dallas,TX,75360,G2022,2022-10-04,250.0,250.0,Estrada & Puente,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636157,IND,,Bartlett,Wendy,,,,672 Linden Ave,,Los Altos,CA,94022,G2022,2022-10-14,250.0,250.0,Self Employed,Tech Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460206,IND,,Donovan,Carol,,,,6509 Malcolm Dr,,Dallas,TX,75214,G2022,2022-10-04,250.0,250.0,Carol Crabtree Donovan PC,Attorney-Mediator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460193,IND,,Barrera,Rick,,,,1313 Stagecoach Rd SE,,Albuquerque,NM,87123,G2022,2022-10-04,250.0,250.0,Buckingham Barrera Law Firm,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618860,IND,,Schwat,Steve,,,,4518 Drummond Ave,,Chevy Chase,MD,20815,G2022,2022-10-08,250.0,250.0,UIP,Real Estate,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475431,IND,,Lopez,Carmen,,,,8 Duryea Pl,,Pine Brook,NJ,07058,G2022,2022-10-05,250.0,250.0,B Lopez And Son Inc,Office Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475448,IND,,Kristel,Steven,,,,782 Connecticut View Dr,,Oyster Bay,NY,11771,G2022,2022-10-05,250.0,250.0,Bo's Kitchen & Bar Room,Restaurant Owner,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475404,IND,,Kozmetsky,Cindy,,,,3510 Turtle Creek Blvd,Apt 18C,Dallas,TX,75219,G2022,2022-10-05,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636969,IND,,Stevens,Anne,,,,9212 Columbia Blvd,,Silver Spring,MD,20910,G2022,2022-10-16,250.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636127,IND,,Alpert,Daniel,,,,5517 N Wayne Ave,,Chicago,IL,60640,G2022,2022-10-15,250.0,250.0,The Kindling Group Nfp,Producer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636090,IND,,Krug,Stephen,,,,237 Russett Rd,,Chestnut Hill,MA,02467,G2022,2022-10-12,250.0,250.0,Self Employed,Usability Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636390,IND,,Gallagher,Patrick,,,,43 W 13Th St,Apt 9,New York,NY,10011,G2022,2022-10-16,250.0,250.0,Kirkland & Ellis Llp,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618073,IND,,Burgin,Lewis,,,,140 Lowell St,,Arlington,MA,02474,G2022,2022-10-09,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618170,IND,,Davis,Louise,,,,9443 Cottonwood Rd,,Bozeman,MT,59718,G2022,2022-10-09,250.0,1500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771902,IND,,Estes,Amy,,,,1711 Alta Vista Ave,,Austin,TX,78704,G2022,2022-10-02,250.0,250.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5618306,IND,,Gonzales,David,,,,34349 Island Estates St,,San Benito,TX,78586,G2022,2022-10-09,250.0,450.0,Cameron County,Judge,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636484,IND,,Hawkins,Hal,,,,3728 Rau Dr,,Dickinson,TX,77539,G2022,2022-10-16,250.0,250.0,Utmb,Physician,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618363,IND,,Hawthorne,Jeff,,,,230 Sequoia Ave,,Palo Alto,CA,94306,G2022,2022-10-09,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636588,IND,,King,Alisha,,,,155 Brees Blvd,,San Antonio,TX,78209,G2022,2022-10-16,250.0,400.0,Va,Psychiatrist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636609,IND,,Krug,Stephen,,,,237 Russett Rd,,Chestnut Hill,MA,02467,G2022,2022-10-16,250.0,500.0,Self Employed,Usability Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459980,IND,,Restler,Peter,,,,36 Pierrepont St,,Brooklyn,NY,11201,G2022,2022-10-03,250.0,250.0,CAI Managers,Investor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618472,IND,,Keegan,Patrick,,,,1534 SE Yukon St,,Portland,OR,97202,G2022,2022-10-07,250.0,250.0,Oracle Global Services Czech Republic,Senior Principal User Assistance Devel,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618641,IND,,Miller,Susan,,,,2120 Olive St,Apt 2810,Dallas,TX,75201,G2022,2022-10-09,250.0,250.0,Neiman Marcus,Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618746,IND,,Pingree,Kristin,,,,2597 Red Fox Trail Dr,,Troy,MI,48098,G2022,2022-10-09,250.0,250.0,Self Employed,Educator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459954,IND,,Garcia,Felipe,,,,201 E University Dr,,Edinburg,TX,78539,G2022,2022-10-03,250.0,2350.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618816,IND,,Ross,Jeanne,,,,44 Magazine St,,Cambridge,MA,02139,G2022,2022-10-09,250.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618818,IND,,Rudd,Michelle,,,,4321 NE 41St St,,Seattle,WA,98105,G2022,2022-10-09,250.0,250.0,Summit Trail,Wealth Advisor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460043,IND,,Dubois,Helen,,,,1545 35Th St NW,,Washington,DC,20007,G2022,2022-10-03,250.0,250.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460267,IND,,Saraf,Irene,Basloe,,,924 36Th Ave,,Seattle,WA,98122,G2022,2022-10-04,227.27,454.54,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635025,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-10,210.1,329.14,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5773222,IND,,Byrd,Brookes,,,,43329 Walnut Ln,,Davis,CA,95618,G2022,2022-10-17,200.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717044,IND,,Driesen,George,,,,3050 Military Rd NW,Apt 2104,Washington,DC,20015,G2022,2022-10-19,200.0,210.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460283,IND,,Fincher,Norma,,,,808 Kaufman,,El Paso,TX,79932,G2022,2022-10-04,200.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635851,IND,,Gordon,Deborah,,,,1240 Noonan Dr,,Sacramento,CA,95822,G2022,2022-10-12,200.0,800.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671708,IND,,Smith,Jennifer,Lewis,,,10537 Saint Paul St,,Kensington,MD,20895,G2022,2022-10-11,200.0,215.0,Not Employed,Not Employed,,,2022
+SA11AI,C00797217,5771958,IND,,Rapoport,Patricia,,,,5529 Gentry Ln,,Williamsburg,VA,23188,G2022,2022-10-18,200.0,2900.0,Self Employed,Artist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636335,IND,,Dreeben,Linda,,,,4610 Norwood Dr,,Chevy Chase,MD,20815,G2022,2022-10-16,200.0,566.67,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618511,IND,,Kuliak,Charlotte,,,,3006 W Ainslie St,,Chicago,IL,60625,G2022,2022-10-07,200.0,401.03,SP+ Corporation,Treasury Analyst,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5773222E,PAC,EMILY'S LIST,,,,,,1800 M St NW,Ste 375N,Washington,DC,20036,G2022,2022-10-19,200.0,1583.5,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5765121,IND,,Nolting,Alfred,,,,580 Leissner School Rd,,Seguin,TX,78155,G2022,2022-10-19,200.0,500.0,Not Employed,Retired,,,2022
+SA11AI,C00797217,5717243,IND,,Sugarman,Kate,,,,11909 Enid Dr,,Potomac,MD,20854,G2022,2022-10-19,200.0,450.0,Unity Health Care,Physician,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475616,IND,,Heber,Judith,,,,16108 SE 24Th St,,Bellevue,WA,98008,G2022,2022-10-06,200.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636369,IND,,Fletcher,Lynn,,,,6960 Birch St,,Falls Church,VA,22046,G2022,2022-10-16,200.0,300.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635721,IND,,Ellins,Howard,,,,47 Horatio St,,New York,NY,10014,G2022,2022-10-12,200.0,500.0,Davis Polk & Wardwell,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635966,IND,,Guzman,Jorge,,,,8300 Hackamore Dr,,Rockville,MD,20854,G2022,2022-10-12,166.67,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634859,IND,,Guran,David,,,,682 Delaware Ave,,Akron,OH,44303,G2022,2022-10-13,150.0,400.0,City Of Ravenna,Water Plant Operator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635576,IND,,McLean,Douglas,,,,1302 Old Meadow Ct,,Round Rock,TX,78665,G2022,2022-10-11,150.0,475.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636507,IND,,Hertzberg,Jeffrey,,,,20 Plaza St E,Apt C-14,Brooklyn,NY,11238,G2022,2022-10-14,150.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636855,IND,,Ricci,Susan,,,,335 Goddard Ave,,Brookline,MA,02445,G2022,2022-10-16,150.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636334,IND,,Dreeben,Linda,,,,4610 Norwood Dr,,Chevy Chase,MD,20815,G2022,2022-10-16,150.0,566.67,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636224,IND,,Calderon,William,,,,5523 Spellman Rd,,Houston,TX,77096,G2022,2022-10-16,150.0,1150.0,Calderon Legal Group,CEO,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635866,IND,,Hope,Nathan,,,,11206 Laurie Dr,,Studio City,CA,91604,G2022,2022-10-12,142.85,242.85,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460202,IND,,Montes,Pat,,,,3904 Deepwood St,,Colleyville,TX,76034,G2022,2022-10-04,125.0,625.0,Montes Law PLLC,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5792627,IND,,Young,Rowena,,,,2320 Blue Bonnet Blvd,,Houston,TX,77030,G2022,2022-10-19,100.0,1100.0,Self Employed,Attorney,X,,2022
+SA11AI,C00797217,5434225,IND,,Tungare,Ajay,,,,501 James St,,Morristown,NJ,07960,G2022,2022-10-01,100.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618643,IND,,Miller,Roger,,,,7613 Winkler Rd,,Richmond,VA,23294,G2022,2022-10-08,100.0,800.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634681,IND,,McMichael,Alan,,,,50 Montadale Dr,,Princeton,NJ,08540,G2022,2022-10-13,100.0,250.0,OppenheimerFunds,Computer Systems Developer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460256,IND,,Singer,Martin,,,,3927 Snowbird Ln,,Northbrook,IL,60062,G2022,2022-10-04,100.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636007,IND,,Saenz,Rogelio,,,,226 Garfield Aly,,San Antonio,TX,78210,G2022,2022-10-12,100.0,400.0,University Of Texas At San Antonio,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716850,IND,,Guio,Alexandra,,,,PO Box 600593,,Dallas,TX,75360,G2022,2022-10-19,100.0,350.0,Estrada & Puente,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634716,IND,,Cox,Vaughn,,,,302 Nvalley View Rd,,Donna,TX,78537,G2022,2022-10-13,100.0,500.0,La Union Del Pueblo Entero,Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475507,IND,,Quintanilla,Roland,,,,6105 N 31St St,,Mcallen,TX,78504,G2022,2022-10-06,100.0,350.0,Hidalgo County Probate Court,Court Reporter,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618311,IND,,Gordon,Deborah,,,,1240 Noonan Dr,,Sacramento,CA,95822,G2022,2022-10-07,100.0,600.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618805,IND,,Rogat,Edie,,,,2710 Greenlee Dr,,Austin,TX,78703,G2022,2022-10-09,100.0,599.99,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636172,IND,,Biales,Michael,,,,80 Willow St,,Acton,MA,01720,G2022,2022-10-14,100.0,300.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459969,IND,,Quintanilla,Roland,,,,6105 N 31St St,,Mcallen,TX,78504,G2022,2022-10-03,100.0,250.0,Hidalgo County Probate Court,Court Reporter,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717186,IND,,Diaz,Carlos,Diaz 1820 Jefferson,,,1820 Jefferson Ave,,Mcallen,TX,78504,G2022,2022-10-19,100.0,450.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5773247E,PAC,EMILY'S LIST,,,,,,1800 M St NW,Ste 375N,Washington,DC,20036,G2022,2022-10-09,100.0,1583.5,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5434269,IND,,Cook,Mary,McDermott,,,1942 Malone Cliff Vw,,Dallas,TX,75208,G2022,2022-10-02,100.0,5900.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434270,IND,,McLean,Douglas,,,,1302 Old Meadow Ct,,Round Rock,TX,78665,G2022,2022-10-02,100.0,325.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635704,IND,,Gibbs,John,,,,500 Crescent Dr,,Bryan,TX,77801,G2022,2022-10-11,100.0,1506.0,Self Employed,Writer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618680,IND,,Nall,Jeff,,,,36779 High Meadows Ln,,Cumming,IA,50061,G2022,2022-10-07,100.0,925.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637062,IND,,Whetstone,Cassandra,,,,5109 W Highland Ave,,Mcallen,TX,78501,G2022,2022-10-14,100.0,650.0,University Of Texas Rio Grande Valley,Physician Assistant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434306,IND,,Brehmer,Lon,,,,PO Box 732,,San Manuel,AZ,85631,G2022,2022-10-01,100.0,350.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716883,IND,,Brounstein,Richard,,,,444 E 86Th St,Apt 9E,New York,NY,10028,G2022,2022-10-19,100.0,850.0,ServiceNow,Computer Programmer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434303,IND,,Fuller,Jacob,C,,,617 N Mccoll Cir,,Mcallen,TX,78501,G2022,2022-10-01,100.0,3140.0,Star For,Public Relations,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635562,IND,,Rogat,Edie,,,,2710 Greenlee Dr,,Austin,TX,78703,G2022,2022-10-11,100.0,799.99,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636368,IND,,Fletcher,Lynn,,,,6960 Birch St,,Falls Church,VA,22046,G2022,2022-10-16,100.0,300.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637001,IND,,Trevino,Jose,,,,816 E Mile 3 Rd,,Mission,TX,78573,G2022,2022-10-14,100.0,1300.0,Infinity Insurance,Management,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771876,IND,,Trenckmann,Charles,,,,6505 Cat Creek Trl,,Austin,TX,78731,G2022,2022-09-30,100.0,700.0,Not Employed,Not Employed,X,,2022
+SA12,C00797217,5771882,IND,,Alok,Geneva,,,,2261 Avenida San Antero,,Camarillo,CA,93010,G2022,2022-09-30,100.0,500.0,Amgen,Postdoc,X,,2022
+SA11AI,C00797217,5635622,IND,,Sugarman,Kate,,,,11909 Enid Dr,,Potomac,MD,20854,G2022,2022-10-11,100.0,250.0,Unity Health Care,Physician,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618856,IND,,Schuler,Mark,,,,4118 Camellia Ct,,Mcallen,TX,78501,G2022,2022-10-07,100.0,375.0,South Texas College,Instructor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635282,IND,,Shaffer,Greg,,,,411 FELLS Rd,,Verona,NJ,07044,G2022,2022-10-10,100.0,275.0,Wilentz,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635264,IND,,Rogat,Edie,,,,2710 Greenlee Dr,,Austin,TX,78703,G2022,2022-10-10,100.0,699.99,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666649,IND,,Little,Priscilla,,,,2841 University Ter NW,,Washington,DC,20016,G2022,2022-10-17,100.0,300.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635141,IND,,Lobel,Michael,,,,8242 Green Mountain Rd,,Boynton Beach,FL,33473,G2022,2022-10-10,100.0,300.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475672,IND,,Bombay,Bart,,,,279 N Holliston Ave,Apt 5,Pasadena,CA,91106,G2022,2022-10-06,100.0,250.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618338,IND,,Guerra,Maria,,,,6505 N 35Th St,,Mcallen,TX,78504,G2022,2022-10-08,100.0,400.0,Element Realty,Realtor & Owner,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634661,IND,,Lewis,Michael,,,,2450 Wickersham Ln,Apt 1201,Austin,TX,78741,G2022,2022-10-13,100.0,1200.0,Dialpad,Account Executive,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636128,IND,,Amron,Cory,,,,3116 18Th St N,,Arlington,VA,22201,G2022,2022-10-16,100.0,266.66,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771881,IND,,Vos,George,,,,4 Indian Dr,,Old Greenwich,CT,06870,G2022,2022-09-30,100.0,350.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5634986,IND,,Dukes,Thomas,,,,512 Rittiman Rd,,San Antonio,TX,78209,G2022,2022-10-10,100.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771875,IND,,Novy,Forrest,,,,4712 Avenue G,,Austin,TX,78751,G2022,2022-09-30,100.0,350.0,Not Employed,Not Employed,X,,2022
+SA11AI,C00797217,5634974,IND,,Deatrick,Ben,,,,8521 Adirondack Trl,,Austin,TX,78759,G2022,2022-10-10,100.0,300.0,Mike Siegel For Congress,Field Director,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636746,IND,,Nall,Jeff,,,,36779 High Meadows Ln,,Cumming,IA,50061,G2022,2022-10-14,100.0,1025.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5671431,IND,,Marquez,Lisa,,,,2531 Leslie St,,Edinburg,TX,78539,G2022,2022-10-13,100.0,500.0,Donna Medical Clinic,Nurse Practitioner,,,2022
+SA11AI,C00797217,5635794,IND,,Davis,Wendy,,,,620 Blanco St,,Austin,TX,78703,G2022,2022-10-12,100.0,2333.33,Deeds Not Words,Founder/Public Speaker,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635824,IND,,Antonio,Priscilla,,,,1300 Orange Ave,,Mcallen,TX,78501,G2022,2022-10-12,100.0,400.0,Planet Home Lending,Mortgage Loan Originator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772045,IND,,Beissel,Trisha,,,,21215 Autumn Crest Ln,,Richmond,TX,77407,G2022,2022-10-18,100.0,1683.33,ExxonMobil,It Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5773247,IND,,Macari,Anne,Marie,,,7 Gracie Sq,# 12A,New York,NY,10028,G2022,2022-10-05,100.0,400.0,Not Employed,Writer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716851,IND,,Weisfeld-Hinojosa,Johnathan,,,,4801 N 16Th St,,Mcallen,TX,78504,G2022,2022-10-19,100.0,225.0,UTRGV,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618847,IND,,Schlossberg,Robert,,,,3933 N Dumbarton St,,Arlington,VA,22207,G2022,2022-10-08,100.0,400.0,Freshfields,Law,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475372,IND,,Sklar,Marshall,,,,PO Box 2611,,Elkins,WV,26241,G2022,2022-10-05,100.0,1000.0,WV University,Faculty,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475412,IND,,Teter,Rick,,,,915 S 7Th Ave,,Edinburg,TX,78539,G2022,2022-10-05,100.0,1290.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772279,IND,,DasGupta,Bhaskar,,,,843 W Adams St,,Chicago,IL,60607,G2022,2022-10-18,100.0,369.0,UIC,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717355,IND,,Silkey,Jeannine,,,,808 Main St,,Texarkana,TX,75501,G2022,2022-10-19,100.0,445.0,Self Employed,Tax And Bookkeeping Services,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716902,IND,,Quintanilla,Roland,,,,6105 N 31St St,,Mcallen,TX,78504,G2022,2022-10-19,100.0,450.0,Hidalgo County Probate Court,Court Reporter,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771961,IND,,Guerra,Carlos,,,,4201 N Mccoll Rd,,Mcallen,TX,78504,G2022,2022-10-18,100.0,400.0,Guerra Law Group Pllc,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634742,IND,,Salas-Porras,Ana,,,,4507 Shoal Creek Blvd,,Austin,TX,78756,G2022,2022-10-13,100.0,500.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5619026,IND,,Wilson,William,,,,PO Box 132166,,Spring,TX,77393,G2022,2022-10-09,100.0,350.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637082,IND,,Wilson,William,,,,PO Box 132166,,Spring,TX,77393,G2022,2022-10-15,100.0,450.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772148,IND,,Wilson,William,,,,PO Box 132166,,Spring,TX,77393,G2022,2022-10-18,100.0,550.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772037,IND,,Hunt,Bruce,,,,4315 Shoal Creek Blvd,,Austin,TX,78756,G2022,2022-10-18,100.0,450.0,University Of Texas,Historian,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772363,IND,,Porter,Gabi,,,,5614 Connecticut Ave NW,# 314,Washington,DC,20015,G2022,2022-10-18,100.0,900.0,Center For Climate Integrity,Vp Of Campaigns,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717209,IND,,Barriere,Lauren,,,,627 Haight St,Unit 1,San Francisco,CA,94117,G2022,2022-10-19,100.0,300.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635651,IND,,Pavelchek,David,,,,1958 Orchard Dr NW,,Olympia,WA,98502,G2022,2022-10-11,90.0,270.0,Washington State Workforce Board,Research Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635189,IND,,Murray,Leigh,,,,15282 Faubion Trl,,Leander,TX,78641,G2022,2022-10-10,90.0,435.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618415,IND,,Hunsberger,Peter,,,,2613 TYLER St,,Berkeley,CA,94703,G2022,2022-10-09,87.0,387.0,Self Employed,Psychologist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5674505,IND,,Brovold,Alison,,,,1216 Camellia Ave,,Mcallen,TX,78501,G2022,2022-10-16,72.25,271.72,Not Employed,Not Employed,,,2022
+SA11AI,C00797217,5618795,IND,,Robbins,Jesse,,,,4173 Cesar Chavez St,,San Francisco,CA,94131,G2022,2022-10-07,71.42,224.27,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634892,IND,,Bassett,Randy,,,,300 Hot Springs Rd,,Montecito,CA,93108,G2022,2022-10-10,50.0,205.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634858,IND,,Yancy,Max,,,,PO Box 4740,,Austin,TX,78765,G2022,2022-10-13,50.0,370.32,KOOP Radio 91.7 FM,Volunteer & Events Coordinator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618803,IND,,Rodgers,Pete,,,,1000 San Marcos St,Unit 310,Austin,TX,78702,G2022,2022-10-08,50.0,960.71,TriNet HR III Inc.,System Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5773226E,PAC,EMILY'S LIST,,,,,,1800 M St NW,Ste 375N,Washington,DC,20036,G2022,2022-10-09,50.0,1583.5,,Conduit total listed in Agg. field,X,Note: Above Contribution earmarked through this organization.,2022
+SA11AI,C00797217,5475421,IND,,McCreary,Frank,,,,1747 Bolsover St,,Houston,TX,77005,G2022,2022-10-05,50.0,250.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635080,IND,,Hinton,John,,,,2 Jeffery Cv,,Austin,TX,78746,G2022,2022-10-10,50.0,350.0,EPaymentSystems Inc.,Sales,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459958,IND,,Martinez,Arturo,,,,PO Box 998,,Alamo,TX,78516,G2022,2022-10-03,50.0,550.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618121,IND,,Clark,Deborah,,,,1384 Lindenwood Grv,,Colorado Springs,CO,80907,G2022,2022-10-08,50.0,208.75,University Of Missouri-St. Louis,Research Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475422,IND,,Swanson,Sarah,,,,4 Downie Pl,,West Lake Hills,TX,78746,G2022,2022-10-05,50.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5773226,IND,,Morris,Ruth,,,,PO Box 1073,,Florence,AL,35631,G2022,2022-10-03,50.0,215.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771980,IND,,Bresnahan,Clare,,,,1418 Mount Vernon Ave,,Alexandria,VA,22301,G2022,2022-10-18,50.0,450.0,New Leaders Council,Ceo,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434150,IND,,Martinez,Arturo,,,,PO Box 998,,Alamo,TX,78516,G2022,2022-10-01,50.0,500.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5617967,IND,,Agron,Jason,,,,99 S 12Th St,Apt 1,San Jose,CA,95112,G2022,2022-10-09,50.0,250.0,Intel,Computer Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618600,IND,,Martinez,Arturo,,,,PO Box 998,,Alamo,TX,78516,G2022,2022-10-09,50.0,700.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460046,IND,,Tryon,Philip,,,,2504 Beauty Berry Cv,,Pflugerville,TX,78660,G2022,2022-10-03,50.0,1050.0,Indeed,Sales,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636938,IND,,Singer,Martin,,,,3927 Snowbird Ln,,Northbrook,IL,60062,G2022,2022-10-14,50.0,450.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618486,IND,,Kiewel,Jeannette,,,,1906 Grace St,,Alvin,TX,77511,G2022,2022-10-09,50.0,275.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717190,IND,,Meyer,James,,,,44 Carroll St,Unit 2L,Brooklyn,NY,11231,G2022,2022-10-19,50.0,400.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618564,IND,,Lobel,David,,,,1202 N 15Th St,,Mcallen,TX,78501,G2022,2022-10-08,50.0,300.0,Lobel Arts,Founder & Director,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5619033,IND,,Wisd,Jim,,,,12 A Eastview Ave,Fl 2,Brewster,NY,10509,G2022,2022-10-09,50.0,300.0,Barclays Inc.,It Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636934,IND,,Silkey,Jeannine,,,,808 Main St,,Texarkana,TX,75501,G2022,2022-10-14,50.0,345.0,Self Employed,Tax And Bookkeeping Services,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618599,IND,,Martinez,Arturo,,,,PO Box 998,,Alamo,TX,78516,G2022,2022-10-08,50.0,700.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA12,C00797217,5771871,IND,,Dozal,Abril,,,,1650 3Rd Ave,,Los Angeles,CA,90019,G2022,2022-09-30,50.0,250.0,SEIU,Union Organizer,X,,2022
+SA11AI,C00797217,5636891,IND,,Salinas,Carlos,,,,3845 Royal Troon Dr,,Round Rock,TX,78664,G2022,2022-10-14,50.0,460.0,State Farm Insurance,Insurance Management,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636221,IND,,Bush,Robert,,,,2711 County Road 4550,,Mt Pleasant,TX,75455,G2022,2022-10-14,50.0,255.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618199,IND,,Dreeben,Linda,,,,4610 Norwood Dr,,Chevy Chase,MD,20815,G2022,2022-10-08,50.0,216.67,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635937,IND,,Teter,Rick,,,,915 S 7Th Ave,,Edinburg,TX,78539,G2022,2022-10-12,50.0,1340.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636303,IND,,DasGupta,Bhaskar,,,,843 W Adams St,,Chicago,IL,60607,G2022,2022-10-14,50.0,269.0,UIC,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635298,IND,,Smith,Charles,,,,325 W Washington St,Unit 2154,San Diego,CA,92103,G2022,2022-10-10,50.0,292.85,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635760,IND,,Evans,Kevin,,,,21 Sunset Ter,,Maplewood,NJ,07040,G2022,2022-10-12,50.0,300.0,Zoetis,Corporate Strategy,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5765110,IND,,Eason,Lynda,,,,1519 Hibiscus Ave,,Mcallen,TX,78501,G2022,2022-10-19,50.0,216.72,Not Employed,Not Employed,,,2022
+SA11AI,C00797217,5717384,IND,,Yancy,Max,,,,PO Box 4740,,Austin,TX,78765,G2022,2022-10-19,50.0,420.32,KOOP Radio 91.7 FM,Volunteer & Events Coordinator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475491,IND,,Martinez,Arturo,,,,PO Box 998,,Alamo,TX,78516,G2022,2022-10-06,50.0,600.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475352,IND,,Gill,Ramanjeet,,,,4308 Bellvue Ave,,Austin,TX,78756,G2022,2022-10-05,50.0,250.0,Travis County District Attorney's Offi,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634673,IND,,Cowen,Sarah,,,,801 W Jonquil Ave,,Mcallen,TX,78501,G2022,2022-10-13,50.0,750.0,Cowen,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5674511,IND,,Hansen,Lana,,,,13108 Wild Turkey Dr,,Manchaca,TX,78652,G2022,2022-10-09,37.3,287.3,TX Blue Action,Executive Director,,,2022
+SA11AI,C00797217,5618804,IND,,Rodgers,Pete,,,,1000 San Marcos St,Unit 310,Austin,TX,78702,G2022,2022-10-08,35.71,960.71,TriNet HR III Inc.,System Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717272,IND,,Fuller,Jacob,C,,,617 N Mccoll Cir,,Mcallen,TX,78501,G2022,2022-10-19,35.0,3200.0,Star For,Public Relations,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635841,IND,,Wheaton,Virginia,,,,524 Eastbrook Dr,,Charlottesville,VA,22901,G2022,2022-10-12,33.34,250.01,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636632,IND,,Levine,Philip,,,,5524 Uppingham St,,Chevy Chase,MD,20815,G2022,2022-10-14,33.34,204.01,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716908,IND,,Melendez,Ismael,,,,8005 S Cisne St,,Pharr,TX,78577,G2022,2022-10-19,30.0,385.5,United We Dream,Data Analyst,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636304,IND,,DasGupta,Bhaskar,,,,843 W Adams St,,Chicago,IL,60607,G2022,2022-10-15,30.0,269.0,UIC,Professor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636697,IND,,McCreary,Frank,,,,1747 Bolsover St,,Houston,TX,77005,G2022,2022-10-16,30.0,295.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635767,IND,,Melendez,Ismael,,,,8005 S Cisne St,,Pharr,TX,78577,G2022,2022-10-12,30.0,355.5,United We Dream,Data Analyst,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636158,IND,,Bassett,Randy,,,,300 Hot Springs Rd,,Montecito,CA,93108,G2022,2022-10-14,30.0,235.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716853,IND,,Cowen,Sarah,,,,801 W Jonquil Ave,,Mcallen,TX,78501,G2022,2022-10-19,30.0,780.0,Cowen,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716846,IND,,Martinez,Arturo,,,,PO Box 998,,Alamo,TX,78516,G2022,2022-10-19,30.0,730.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717180,IND,,Schmidt,Karen,,,,3208 11Th Ave,,Sacramento,CA,95817,G2022,2022-10-19,27.0,257.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717222,IND,,Thompson,Anna,,,,7513 N 17Th St,,Mcallen,TX,78504,G2022,2022-10-19,27.0,1083.3,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717148,IND,,Urbanowicz,Wendy,,,,PO Box 6163,,Vancouver,WA,98668,G2022,2022-10-19,27.0,240.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635763,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-12,25.0,402.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475692,IND,,Silkey,Jeannine,,,,808 Main St,,Texarkana,TX,75501,G2022,2022-10-06,25.0,295.0,Self Employed,Tax And Bookkeeping Services,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636263,IND,,Clinkert,Mary,,,,22 W048 Glen Park Rd,,Glen Ellyn,IL,60137,G2022,2022-10-16,25.0,375.0,Glenbard High School District 87,Teacher's Aide,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475553,IND,,Hamilton,William,,,,7575 Willow Chase Blvd,Apt 2119,Houston,TX,77070,G2022,2022-10-06,25.0,225.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666594,IND,,Fuller,Jacob,C,,,617 N Mccoll Cir,,Mcallen,TX,78501,G2022,2022-10-17,25.0,3165.0,Star For,Public Relations,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636990,IND,,Teekell,George,,,,440 Davis Ct,Apt 404,San Francisco,CA,94111,G2022,2022-10-14,25.0,225.0,State Of California/SJECCD,Attorney/Instructor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636795,IND,,Perez,Roel,,,,125 E Upas Ave,,Mcallen,TX,78501,G2022,2022-10-15,25.0,275.0,Ut Health,Social Worker,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434194,IND,,DeLuca,Jeff,,,,609 Thomas St NW,,Olympia,WA,98502,G2022,2022-10-01,25.0,475.0,WA State Community Action Partnership,Executive Director,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634848,IND,,Palacios,Virginia,,,,3103 Bee Caves Rd,Ste 135,Austin,TX,78746,G2022,2022-10-13,25.0,355.0,SPEER,State And Local Policy Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636635,IND,,Levine,Philip,,,,5524 Uppingham St,,Chevy Chase,MD,20815,G2022,2022-10-16,24.0,204.01,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637106,IND,,Zamora,Zaena,,,,6701 N 16Th St,,Mcallen,TX,78504,G2022,2022-10-15,20.0,220.0,Frontera Fund,Ed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618769,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-07,20.0,365.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771992,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-18,20.0,447.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716944,IND,,Anderson,Graham,,,,6362 Cedar Street,,Powell River BC V8A4M3 Canada,ZZ,00000,G2022,2022-10-19,20.0,205.0,Ecotrust Canada,Financial Strategist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475486,IND,,Tucker,Eliot,,,,2199 Troon Rd,,Houston,TX,77019,G2022,2022-10-06,20.0,2200.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636634,IND,,Levine,Philip,,,,5524 Uppingham St,,Chevy Chase,MD,20815,G2022,2022-10-16,18.0,204.01,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618198,IND,,Dreeben,Linda,,,,4610 Norwood Dr,,Chevy Chase,MD,20815,G2022,2022-10-08,16.67,216.67,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459999,IND,,Ausley,Robbie,,,,4200 Jackson Ave,Apt 4032,Austin,TX,78731,G2022,2022-10-03,16.66,683.32,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634757,IND,,Teter,Rick,,,,915 S 7Th Ave,,Edinburg,TX,78539,G2022,2022-10-13,16.0,1356.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634803,IND,,Monroy,Kelly,,,,6305 N 1St Ln,,Mcallen,TX,78504,G2022,2022-10-13,15.0,249.75,Advanced Therapy Solutions,Occupational Therapist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666693,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-17,15.0,427.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636962,IND,,Standley,Renee,Justice,,,PO Box 816421,,Dallas,TX,75381,G2022,2022-10-14,15.0,555.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637018,IND,,Urbanowicz,Wendy,,,,PO Box 6163,,Vancouver,WA,98668,G2022,2022-10-14,15.0,208.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434284,IND,,Monroy,Kelly,,,,6305 N 1St Ln,,Mcallen,TX,78504,G2022,2022-10-02,15.0,234.75,Advanced Therapy Solutions,Occupational Therapist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618912,IND,,Standley,Renee,Justice,,,PO Box 816421,,Dallas,TX,75381,G2022,2022-10-09,15.0,530.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460270,IND,,Teter,Rick,,,,915 S 7Th Ave,,Edinburg,TX,78539,G2022,2022-10-04,15.0,1190.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772192,IND,,Teter,Rick,,,,915 S 7Th Ave,,Edinburg,TX,78539,G2022,2022-10-18,15.0,1386.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5771997,IND,,Lider,Brett,,,,3670 18Th St,,San Francisco,CA,94110,G2022,2022-10-18,15.0,515.0,Google,Designer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634893,IND,,Bassett,Randy,,,,300 Hot Springs Rd,,Montecito,CA,93108,G2022,2022-10-10,15.0,205.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636992,IND,,Teter,Rick,,,,915 S 7Th Ave,,Edinburg,TX,78539,G2022,2022-10-15,15.0,1371.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634834,IND,,Viviano,Jesse,,,,2599 Evans Rd,Apt 316,Morrisville,NC,27560,G2022,2022-10-13,15.0,367.5,Verizon Business,Security Analyst,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636696,IND,,McCreary,Frank,,,,1747 Bolsover St,,Houston,TX,77005,G2022,2022-10-15,15.0,295.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636633,IND,,Levine,Philip,,,,5524 Uppingham St,,Chevy Chase,MD,20815,G2022,2022-10-16,12.0,204.01,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635989,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-12,10.12,339.26,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635024,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-10,10.1,329.14,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635023,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-10,10.09,329.14,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5434318,IND,,Silkey,Jeannine,,,,808 Main St,,Texarkana,TX,75501,G2022,2022-10-02,10.0,270.0,Self Employed,Tax And Bookkeeping Services,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635501,IND,,Nicholls,Rosalie,,,,8207 Belclaire Ln,,Austin,TX,78748,G2022,2022-10-11,10.0,304.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635305,IND,,Standley,Renee,Justice,,,PO Box 816421,,Dallas,TX,75381,G2022,2022-10-10,10.0,540.0,Not Employed,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636834,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-14,10.0,412.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5460214,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-04,10.0,345.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5459970,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-03,10.0,335.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5772026,IND,,Feigon,Sharon,,,,711 Roslyn Ter,,Evanston,IL,60201,G2022,2022-10-18,8.62,508.62,Shard Use Mobility Center,Executive Director,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5717236,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-19,8.0,353.39,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635764,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-12,7.0,402.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716905,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-19,7.0,459.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5635237,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-10,5.0,370.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666738,IND,,Urbanowicz,Wendy,,,,PO Box 6163,,Vancouver,WA,98668,G2022,2022-10-17,5.0,213.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636401,IND,,Garza,Maria,,,,124 N Louisiana St,,Alton,TX,78573,G2022,2022-10-14,5.0,247.75,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5716906,IND,,Ramirez,Juan,,,,7416 S Blanca Ln,,Pharr,TX,78577,G2022,2022-10-19,5.0,459.75,The Hartford,Crs,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5637019,IND,,Urbanowicz,Wendy,,,,PO Box 6163,,Vancouver,WA,98668,G2022,2022-10-16,4.0,208.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5636755,IND,,Nicholls,Rosalie,,,,8207 Belclaire Ln,,Austin,TX,78748,G2022,2022-10-14,4.0,308.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5618696,IND,,Nicholls,Rosalie,,,,8207 Belclaire Ln,,Austin,TX,78748,G2022,2022-10-07,4.0,294.0,Not Employed,Not Employed,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5634805,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-13,3.13,342.39,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5666599,IND,,Garcia-Dostal,Edna,,,,1314 Woodworth Dr,,Alice,TX,78332,G2022,2022-10-17,3.0,345.39,Regency IHS Clinical Consulting,Part Time Nurse,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5475699,IND,,Yancy,Max,,,,PO Box 4740,,Austin,TX,78765,G2022,2022-10-06,2.0,320.32,KOOP Radio 91.7 FM,Volunteer & Events Coordinator,,* Earmarked Contribution: See Below,2022
+SA11AI,C00797217,5792617,IND,,Steves,Buddy,,,,2320 Blue Bonnet Blvd,,Houston,TX,77030,G2022,2022-10-19,-100.0,2900.0,RT Specialty,Insurance,X,,2022
+SA11AI,C00797217,5792625,IND,,Steves,Buddy,,,,2320 Blue Bonnet Blvd,,Houston,TX,77030,G2022,2022-10-19,-1000.0,2900.0,RT Specialty,Insurance,X,,2022

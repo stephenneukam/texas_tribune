@@ -1,0 +1,159 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,aggregate_amount,employer,occupation,memo_code,memo_text,cycle
+SA11AI,C00371203,0036888,PAC,WinRED,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,12523.1,0.0,,,X,Total earmarked through conduit.  PAC limit not affected.,2022
+SA11AI,C00371203,0036887,PAC,WinRED,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-31,9209.22,0.0,,,X,Total earmarked through conduit.  PAC limit not affected.,2022
+SA11C,C00371203,0036808,PAC,AT&T Inc. Federal PAC,,,,,,208 S. Akard St,Suite 2701,Dallas,TX,20036,G2022,2022-09-19,5000.0,5000.0,,,,,2022
+SA11C,C00371203,0036842,PAC,Leonardo Drs PAC,,,,,,2345 Crystal Drive Ste 1000,,Arlington,VA,22202,G2022,2022-09-17,5000.0,6500.0,,,,,2022
+SA11C,C00371203,0036843,PAC,New York Life Insurance PAC,,,,,,51 Madison Avenue,,New York,NY,10010,G2022,2022-09-17,5000.0,5000.0,,,,,2022
+SA11C,C00371203,0036792,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St NW,,Washington,DC,20001,G2022,2022-09-06,5000.0,7900.0,,,,,2022
+SA11C,C00371203,0036855,PAC,Mr. Southern Missourian In the House PAC,,,,,,PO Box 30844,,Bethesda,MD,20824,G2022,2022-09-30,5000.0,10000.0,,,,,2022
+SA11C,C00371203,0036755,PAC,National Association Of Realtors PAC,,,,,,430 N. Michigan Avenue,,Chicago,IL,60611,G2022,2022-07-18,4000.0,7000.0,,,,PAC Contribution,2022
+SA11AI,C00371203,0036796,IND,,Lohse,Paula,,Ms.,,1609 Wildridge Drive,,Harker Heights,TX,76548,G2022,2022-09-19,2900.0,5800.0,Toyota,Car Dealer,,,2022
+SA11AI,C00371203,0036724,IND,,Embree,Jim,,Mr.,,4747 Williams Dr,,Georgetown,TX,78633,G2022,2022-07-07,2900.0,5800.0,Embree Group,Owner,,,2022
+SA11AI,C00371203,0036866,IND,,Nelson,Shari,,,,PO Box 590,,Wisconsin Dells,WI,53965,G2022,2022-09-30,2900.0,5800.0,Kalahari Resorts & Conventions,Owner,,,2022
+SA11AI,C00371203,0036888-0038,IND,,Oliver,Christian,,,,2080 Wild Acres Rd,,Largo,FL,33771,G2022,2022-09-16,2900.0,2900.0,BlueSky Innovations,CEO,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036903,IND,,Jacobs,James,H.,Mr.,,4411 S Interstate 35,Ste 100,Georgetown,TX,78626,P2024,2022-09-19,2900.0,5800.0,Jimmy Jacobs Constructions,Homebuilder,,,2022
+SA11AI,C00371203,0036801,IND,,Jacobs,James,H.,Mr.,,4411 S Interstate 35,Ste 100,Georgetown,TX,78626,G2022,2022-09-19,2900.0,2900.0,Jimmy Jacobs Constructions,Homebuilder,,,2022
+SA11AI,C00371203,0036833,IND,,Hunt,Woody,,,,PO Box 12667,,El Paso,TX,79913,G2022,2022-09-17,2900.0,2900.0,"Hunt Companies, Inc.",Senior Chairman,,,2022
+SA11C,C00371203,0036814,PAC,Air Line Pilots Assoc. Int'l,,,,,,1625 Massachusetts Ave NW,,Washington,DC,20036,G2022,2022-09-19,2500.0,6500.0,,,,,2022
+SA11C,C00371203,0036816,PAC,"Anduril Industries, Inc. PAC",,,,,,"800 Maine Ave, SE",,Washington,DC,20024,G2022,2022-09-19,2500.0,2500.0,,,,,2022
+SA11AI,C00371203,0036869,IND,,Connell,Diane,,Ms.,,PO Box 2447,,Harker Heights,TX,76548,G2022,2022-09-30,2500.0,3500.0,Nolan Creek Farm,Owner/Manager,,,2022
+SA11AI,C00371203,0036826,IND,,Connell,David,M,,,PO Box 4036,,Killeen,TX,76540,G2022,2022-09-19,2500.0,2500.0,"Dodge Country Management II, LLC",Automobile Dealer,,,2022
+SA11C,C00371203,0036858,PAC,Nat'l Cattlemens Beef Assoc. PAC,,,,,,9110 E Nichols Avenue,# 3469,Centennial,CO,80112,G2022,2022-09-30,2500.0,5000.0,,,,,2022
+SA11AI,C00371203,0036888-0047,IND,,Higdon,Michael,,,,5117 Bradford Drive,,Annandale,VA,22003,G2022,2022-09-19,2500.0,4000.0,A1.9 Strategies LLC,Consultant,,Earmarked through WinRED,2022
+SA11C,C00371203,0036805,PAC,Concerned Americans for Freedom & Opportunity PAC,,,,,,228 S Washington St,Ste 115,Alexandria,VA,22314,G2022,2022-09-19,2500.0,2500.0,,,,,2022
+SA11C,C00371203,0036791,PAC,Associated Builders and Contractors PAC,,,,,,440 First St. NW,2nd Floor,Washington,DC,22203,G2022,2022-09-06,2500.0,2500.0,,,,,2022
+SA11C,C00371203,0036841,PAC,Ernst & Young PAC,,,,,,1101 New York Ave NW,,Washington,DC,20036,G2022,2022-09-17,2500.0,2500.0,,,,,2022
+SA11C,C00371203,0036836,PAC,"American Academy of Ophthalmology Inc, PAC",,,,,,655 Beach St.,,San Francisco,CA,94109,G2022,2022-09-17,2000.0,3500.0,,,,,2022
+SA11C,C00371203,0036790,PAC,American Optometric Assn PAC,,,,,,1505 Prince St. Ste 300,,Alexandria,VA,22314,G2022,2022-09-06,2000.0,3000.0,,,,,2022
+SA11C,C00371203,0036831,PAC,Action Comm. For Rural Electrification,,,,,,4301 Wilson Boulevard,,Arlington,VA,22303,G2022,2022-09-17,2000.0,3000.0,,,,,2022
+SA11C,C00371203,0036813,PAC,Professional Compounding Centers of America PAC,,,,,,9901 S. Wilcrest Dr.,,Houston,TX,77099,G2022,2022-09-19,2000.0,5000.0,,,,,2022
+SA11C,C00371203,0036859,CCM,Byron Donalds for Congress,,,,,,2430 Vanderbilt Beach Road,Ste 108 PMB 260,Naples,FL,34108,G2022,2022-09-30,2000.0,2000.0,,,,,2022
+SA11C,C00371203,0036832,PAC,INVESTMENT COMPANY INSTITUTE POLITICAL ACTION COMMITTEE,,,,,,1401 H Street Nw,Suite 1200,Washington,DC,20005,G2022,2022-09-17,2000.0,2000.0,,,,,2022
+SA11C,C00371203,0036857,PAC,American Health Care Association PAC (AHCA - PAC ),,,,,,1201 L Street NW,,Washington,DC,20005,G2022,2022-09-30,2000.0,2000.0,,,,,2022
+SA11C,C00371203,0036874,PAC,"Ultra Electronics USA Group, Inc. PAC",,,,,,107 Church Hill Rd. Ste GL-2,,Sandy Hook,CT,06482,G2022,2022-09-27,2000.0,6500.0,,,,Contribution,2022
+SA11AI,C00371203,0036840,IND,,Leprino,James,,Mr.,,1830 W 38th Ave,,Denver,CO,80211,G2022,2022-09-17,2000.0,2000.0,Founder and CEO,Leprino Food Company,,,2022
+SA11AI,C00371203,0036886,PAC,WinRED,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-31,1715.8,0.0,,,X,Total earmarked through conduit.  PAC limit not affected.,2022
+SA11AI,C00371203,0036904,IND,,Nelson,Todd,R,,,PO Box 590,,Wisconsin Dells,WI,53965,P2024,2022-09-30,1577.77,7377.77,Kalahari Resorts & Conventions,Owner,,,2022
+SA11C,C00371203,0036862,PAC,National Beer Wholesalers Assn PAC,,,,,,"1101 King Street, Ste. 600",,Alexandria,VA,22314,G2022,2022-09-30,1500.0,2500.0,,,,,2022
+SA11AI,C00371203,0036733,IND,,Gamble,Gerry,,,,PO Box 972,,Salado,TX,76571,G2022,2022-07-29,1500.0,2500.0,First State Bank Central Texas,VP,,,2022
+SA11C,C00371203,0036834,PAC,Cerner PAC,,,,,,2800 Rockcreek Pkwy,,Kansas City,MO,64117,G2022,2022-09-17,1500.0,4000.0,,,,,2022
+SA11C,C00371203,0036837,PAC,Professional Compounding Centers of America PAC,,,,,,9901 S. Wilcrest Dr.,,Houston,TX,77099,G2022,2022-09-17,1500.0,3000.0,,,,,2022
+SA11AI,C00371203,0036867,IND,,Nelson,Todd,R,,,PO Box 590,,Wisconsin Dells,WI,53965,G2022,2022-09-30,1322.23,5800.0,Kalahari Resorts & Conventions,Owner,,,2022
+SA11C,C00371203,0036811,PAC,Honeywell International PAC,,,,,,"101 Constitution Avenue, NW",Suite 500 W,Washington,DC,20001,G2022,2022-09-19,1000.0,3500.0,,,,,2022
+SA11AI,C00371203,0036731,IND,,Williams,Wendell,,Mr.,,11121 Whiterock Dr,,Temple,TX,76502,G2022,2022-07-29,1000.0,2000.0,Central National Bank,Chairman,,,2022
+SA11AI,C00371203,0036887-0005,IND,,Baird,Thomas,,,,6626 Misty Creek Lane,,Temple,TX,76502,G2022,2022-08-02,1000.0,2000.0,BCSW,Attorney,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0011,IND,,Shine,William,,,,602 Cagle Lane,,Harker Heights,TX,76548,G2022,2022-08-04,1000.0,2000.0,"The Shine Team, Inc.",Real Estate,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0013,IND,,Wonder,Larry,,Mr.,,607 Mangrum Hill Road,,Georgetown,TX,78633,G2022,2022-08-07,1000.0,1000.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0014,IND,,Cardoza,Miguel,,,,110 Blue Quail Drive,,Georgetown,TX,78628,G2022,2022-08-07,1000.0,1000.0,Trident Research,President,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0026,IND,,Fuller,Alex,,,,1531 Ash Street,,Georgetown,TX,78626,G2022,2022-08-11,1000.0,1000.0,Self,Attorney,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0060,IND,,Hutton,Douglas,,,,4317 Stonehill Court,,Temple,TX,76502,G2022,2022-08-24,1000.0,1500.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036778,IND,,Tuggle,Joyce,,,,4284 Lago Vista Dr,,Belton,TX,76513,G2022,2022-09-06,1000.0,1000.0,Homemaker,Homemaker,,,2022
+SA11AI,C00371203,0036780,IND,,Haynie,Timothy,,Mr.,,1010 Provident Ln,,Round Rock,TX,78664,G2022,2022-09-06,1000.0,4000.0,Haynie Consulting,President,,,2022
+SA11AI,C00371203,0036782,IND,,Wukasch,Avis,,,,"209 S Church St, # 110",,Georgetown,TX,78626,G2022,2022-09-06,1000.0,3000.0,Keller Williams Realty,Broker,,,2022
+SA11AI,C00371203,0036784,IND,,Kasberg,Rick,,Mr.,,2103 N Wheat Rd,Unit 250,Belton,TX,76513,G2022,2022-09-06,1000.0,2000.0,"Kasber, Patrick & Associates",Partner,,,2022
+SA11AI,C00371203,0036785,IND,,Reagan,Allan,L.,Mr.,,2000 S Interstate 35,Ste Q11,Round Rock,TX,78681,G2022,2022-09-06,1000.0,2000.0,"Aramcor, Inc",Real Estate,,,2022
+SA11AI,C00371203,0036850,IND,,Noorian,Shaun,,,,"5980 W Sam Houston Pkwy, N",Ste 300,Houston,TX,77041,G2022,2022-09-17,1000.0,1000.0,Empower Pharmacy,Founder & CEO,,,2022
+SA11C,C00371203,0036854,PAC,Alliance for Pharmacy Compounding PAC (Comp PAC ),,,,,,100 Dangerfield Rd,4th Floor,Alexandria,VA,22314,G2022,2022-09-30,1000.0,3000.0,,,,,2022
+SA11AI,C00371203,0036797,IND,,Snead,William,B.,Mr.,,PO Box 1000,,Round Rock,TX,78680,G2022,2022-09-19,1000.0,1000.0,Texas Crushed Stone Co,President,,,2022
+SA11AI,C00371203,0036800,IND,,Guttikonda,Gopal,,Dr.,,5201 Wildflower Ln,,Temple,TX,76502,G2022,2022-09-19,1000.0,1000.0,Self,Physician,,,2022
+SA11C,C00371203,0036812,PAC,Lockheed Martin Corp. Employees PAC,,,,,,2121 Crystal Drive,Suite 100,Arlington,VA,22202,G2022,2022-09-19,1000.0,7000.0,,,,,2022
+SA11C,C00371203,0036789,PAC,"Texas Farm Bureau Agfund, Inc.",,,,,,P.O. Box 2689,,Waco,TX,76702,G2022,2022-09-06,1000.0,5800.0,,,,,2022
+SA11C,C00371203,0036845,PAC,United Services Automobile Assn. Employee PAC (USAA PAC),,,,,,9800 Fredericksburg Rd,,San Antonio,TX,78288,G2022,2022-09-17,1000.0,1000.0,,,,,2022
+SA11C,C00371203,0036807,CCM,Texans for Lamar Smith,,,,,,PO Box 6155,,San Antonio,TX,78209,G2022,2022-09-19,1000.0,1000.0,,,,,2022
+SA11C,C00371203,0036806,PAC,The Boeing PAC,,,,,,929 Long Bridge Drive,,Arlington,VA,22209,G2022,2022-09-19,1000.0,8500.0,,,,,2022
+SA11AI,C00371203,0036860,ORG,"RS, LLC",,,,,,8151 Highway 177,,Red Rock,OK,74651,G2022,2022-09-30,1000.0,0.0,,Partnership,,SEE ATTRIBUTION BELOW,2022
+SA11AI,C00371203,0036860-0001,IND,,Grant,Ted,,,,8151 Highway 177,,Red Rock,OK,74651,G2022,2022-09-30,1000.0,1000.0,RS LLC,Partner,X,Partnership Share,2022
+SA11AI,C00371203,0036886-0023,IND,,Penner,Eileen,,,,8815 Bellwood Road,,Bethesda,MD,20817,G2022,2022-07-11,1000.0,1000.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0051,IND,,Baker,Caleb,E.,,,9305 Jesup Lane,,Bethesda,MD,20814,G2022,2022-09-20,1000.0,2000.0,"C. Baker Consulting, Inc.",Consultant,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036856,IND,,O'Rourke,John,T,,,11028 Stanmore Drive,,Potomac,MD,20854,G2022,2022-09-30,1000.0,1000.0,Self Employed,Lawyer,,,2022
+SA11C,C00371203,0036875,PAC,CME Group Inc. PAC,,,,,,20 South Wacker Drive,,Chicago,IL,60606,G2022,2022-09-27,1000.0,1000.0,,,,PAC Contribution,2022
+SA11AI,C00371203,0036851,IND,,Glenn,Harry,J,,,1540 Gulf Blvd,#434,Clearwater Beach,FL,33767,G2022,2022-09-17,1000.0,1000.0,Van Scoyoc Associates,Vice President,,,2022
+SA11C,C00371203,0036829,PAC,Govern PAC,,,,,,610 S Boulevard,,Tampa,FL,33606,G2022,2022-09-17,1000.0,2000.0,,,,,2022
+SA11C,C00371203,0036830,PAC,Foley & Lardner Political Fund Inc.,,,,,,3000 K Street NW 6th Floor,,Washington,DC,20005,G2022,2022-09-17,1000.0,1000.0,,,,,2022
+SA11C,C00371203,0036838,PAC,American Council of Engineering Companies,,,,,,"1015 15th Street NW, Floor 8",,Washington,DC,20005,G2022,2022-09-17,1000.0,5000.0,,,,,2022
+SA11C,C00371203,0036839,PAC,Booz Allen Hamilton Inc. PAC,,,,,,901 15th Street NW,Ste 400,Washington,DC,20005,G2022,2022-09-17,1000.0,1000.0,,,,,2022
+SA11AI,C00371203,0036888-0039,IND,,Steinman,A Donald,,,,19202 Chartier Drive,,Leesburg,VA,20176,G2022,2022-09-16,1000.0,2000.0,Product Knowledge,Consultant,,Earmarked through WinRED,2022
+SA11C,C00371203,0036847,PAC,"Document Storage Systems, Inc. (DSS PAC)",,,,,,1455 Pennsylvania Ave. NW,,Washington,DC,20004,G2022,2022-09-17,1000.0,2500.0,,,,,2022
+SA11C,C00371203,0036815,PAC,Independent Insurance Agents & Brokers O,,,,,,20 F Street NW,Suite 610,Washington,DC,20001,G2022,2022-09-19,1000.0,2000.0,,,,,2022
+SA11C,C00371203,0036861,PAC,"Elevance Health, Inc. PAC",,,,,,"1001 Pennsylvania Avenue, NW",,Washington,DC,20004,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11C,C00371203,0036870,PAC,CACI PAC,,,,,,800 Maine Avenue SW,Fl 7,Washington,DC,20024,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11C,C00371203,0036844,PAC,Pillsbury Winthrop Shaw Pittman LLP,,,,,,PO Box 2824,,San Francisco,CA,94111,G2022,2022-09-17,1000.0,1000.0,,,,,2022
+SA11AI,C00371203,0036822,IND,,Vernon Cummins,Patricia,A,,,2859 Sand And Gravel Lane,,Belton,TX,76513,G2022,2022-09-19,1000.0,1000.0,self employed,Self,,,2022
+SA11AI,C00371203,0036823,IND,,Goode,Linda,,,,PO Box 633,,Killeen,TX,76540,G2022,2022-09-19,1000.0,1000.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036863,IND,,Shelton,Garlyn,,Mr.,,PO Box 548,,Temple,TX,76503,G2022,2022-09-30,900.0,5800.0,Garlyn Shelton Auto Group,Partner,,,2022
+SA11AI,C00371203,0036887-0003,IND,,Yeonopolus,Jim,M.,Mr.,,1903 Wolverine Trl,,Harker Heights,TX,76548,G2022,2022-08-01,500.0,500.0,Central Texas College,Chancellor,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0074,IND,,Burke,Stoney,,,,P.O. Box 92311,,Washington,DC,20090,G2022,2022-09-28,500.0,500.0,Aquia Group,Public Policy,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036786,IND,,Mayborn,Anyse Sue,,,,PO Box 6114,,Temple,TX,76503,G2022,2022-09-06,500.0,750.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036888-0011,IND,,Shepard,Marcus,,,,10346 Farm to Market Road 93,,Belton,TX,76513,G2022,2022-09-06,500.0,500.0,Shepard Insurance Agency,Agent,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036825,IND,,Boston,Nancy,,,,PO Box 173,,Temple,TX,76503,G2022,2022-09-19,500.0,1000.0,Self Employed,RE Investments,,,2022
+SA11C,C00371203,0036871,PAC,"Amentum Services, Inc.",,,,,,"300 M Street, SE",,Washington,DC,20003,G2022,2022-09-30,500.0,500.0,,,,,2022
+SA11AI,C00371203,0036810,IND,,Schumann,William,,,,2520 Rock Rd,,Troy,TX,76579,G2022,2022-09-19,500.0,1000.0,Temple Independent School,Board Member,,,2022
+SA11AI,C00371203,0036783,IND,,Nigliazzo,Marc,,,,6731 Misty Creek Lane,,Temple,TX,76502,G2022,2022-09-06,500.0,1000.0,Texas AM University-Central Texas,President/CEO,,,2022
+SA11AI,C00371203,0036819,IND,,Mutchler,John,R,,,101 Greenleaf Drive,,Liberty Hill,TX,78642,G2022,2022-09-19,500.0,500.0,Westwood Professional Services,Engineer,,,2022
+SA11AI,C00371203,0036820,IND,,Brinkman,Lin,O.,,,3042 alton,,Round Rock,TX,78665,G2022,2022-09-19,500.0,1250.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036779,IND,,Vajdak,Roy,,,,2702 Birdcreek Dr,,Temple,TX,76502,G2022,2022-09-06,500.0,750.0,Information Techonology Services,Director of Accounting,,,2022
+SA11C,C00371203,0036835,PAC,"Elbit Systems of America, LLC PAC",,,,,,4700 Marine Creek Pkwy.,,Ft Worth,TX,76179,G2022,2022-09-17,500.0,3500.0,,,,,2022
+SA11AI,C00371203,0036777,IND,,Barge,V.,William,Mr.,III,2005 Birdcreek Dr,Ste 211,Temple,TX,76502,G2022,2022-09-06,500.0,2000.0,"Barge Properties Management Co., Ltd.",Real Estate Agent/ Owner,,,2022
+SA11AI,C00371203,0036887-0056,IND,,Fox,Todd,,,,1303 Nelms Drive,,Belton,TX,76513,G2022,2022-08-22,500.0,1000.0,Fort Hood National Bank,President,,Earmarked through WinRED,2022
+SA11C,C00371203,0036846,PAC,"Texas Association For Home Care, Inc.",,,,,,3737 Executive Center Drive,Suite 268,Austin,TX,78731,G2022,2022-09-17,500.0,500.0,,,,,2022
+SA11AI,C00371203,0036888-0008,IND,,Beard,Roy,,,,108 Stevens Trail,,Round Rock,TX,78681,G2022,2022-09-06,500.0,500.0,Beard Commercial Properties,Beard Commercial Properties,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0041,IND,,Farley,Debbie Yowell,,,,4244 E. Stagecoach Road,,Killeen,TX,76542,G2022,2022-08-17,500.0,500.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0079,IND,,Combs,Susan,,,,4608 Eagle Feather Dr,,Austin,TX,78735,G2022,2022-09-29,500.0,500.0,retired,retired,,Earmarked through WinRED,2022
+SA11C,C00371203,0036853,PAC,"Elbit Systems of America, LLC PAC",,,,,,4700 Marine Creek Pkwy.,,Ft Worth,TX,76179,G2022,2022-09-30,500.0,4000.0,,,,,2022
+SA11AI,C00371203,0036720,ORG,Hoover Slovacek LLP,,,,,,PO Box 4547,,Houston,TX,77210,G2022,2022-07-07,500.0,500.0,,Partnership,,Note: Partner memo<$200.01,2022
+SA11AI,C00371203,0036821,IND,,Carlton,Nathan,J,,,PO Box 2417,,Georgetown,TX,78627,G2022,2022-09-19,500.0,500.0,Jarrell Animal Hospital,Veterinarian,,,2022
+SA11AI,C00371203,0036849,IND,,Rathburn,Charles,Kolo,,,2001 Clarendon Boulevard,,Arlington,VA,22201,G2022,2022-09-17,500.0,500.0,FBI,Budget Analyst,,,2022
+SA11AI,C00371203,0036887-0007,IND,,Burnett,Joe,,,,10335 Sam Neil Road,,Salado,TX,76571,G2022,2022-08-02,500.0,500.0,First National Bank of Texas,Banker,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0021,IND,,Wright,James,,,,1605 Wildridge Drive,,Harker Heights,TX,76548,G2022,2022-08-10,500.0,2000.0,Self,Real Estate Broker,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0015,IND,,Stepp,Ronald,,Mr.,,803 Bear Trl,,Harker Heights,TX,76548,G2022,2022-08-07,500.0,500.0,"Lott, Vernon  Co P.C.CPA's",CPA,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036722,IND,,Parks,Nancy,Liliana,,,8809 Black Oak,,Austin,TX,78729,G2022,2022-07-07,500.0,500.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036824,IND,,Young,Cleneth,Gary,,,1314 E Creekview,,Salado,TX,76571,G2022,2022-09-19,500.0,3400.0,"Mineral Last Chance Management, LLC 39",Manager,,,2022
+SA11AI,C00371203,0036888-0052,IND,,Baker,Caleb,E.,,,9305 Jesup Lane,,Bethesda,MD,20814,G2022,2022-09-20,500.0,2500.0,"C. Baker Consulting, Inc.",Consultant,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036827,IND,,Delapaz,Dacen,,,,4509 Elf Trl,,Belton,TX,76513,G2022,2022-09-19,500.0,500.0,self employed,Dentist,,,2022
+SA11AI,C00371203,0036888-0078,IND,,Hershey Carr,Julie,,,,1735 Fairview Avenue,,McLean,VA,22101,G2022,2022-09-29,500.0,500.0,KDCR Partners,Partner,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036864,IND,,Kibby,Sandy,,,,150 Spring Branch,,Bastrop,TX,78602,G2022,2022-09-30,500.0,1000.0,retired,retired,,,2022
+SA11AI,C00371203,0036865,IND,,Walvoord,Al,,,,4312 S 31st Street,Ste 108,Temple,TX,76502,G2022,2022-09-30,300.0,300.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036888-0017,IND,,Ables,Corinne,,,,212 Gracie Court,,Harker Heights,TX,76548,G2022,2022-09-08,250.0,250.0,Ables Top Hat Home Services,Business Owner,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036799,IND,,Kimmey,Charlie,,,,7751 Boutwell Ln E,,Temple,TX,76502,G2022,2022-09-19,250.0,250.0,United Way,Director,,,2022
+SA11AI,C00371203,0036886-0014,IND,,Rulli,Lisa,,,,8305 Craftsbury Ln,,Mckinney,TX,75071,G2022,2022-07-08,250.0,250.0,Twenty-First Century Group,Consultant,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036872,IND,,Waclawski,Michael,,,,1207 Janneys Lane,,Alexandria,VA,22302,G2022,2022-09-30,250.0,1250.0,Boeing,Federal Legislative Affairs,,,2022
+SA11AI,C00371203,0036734,IND,,Wahl,Leo,T,,,PO Box 6359,,Round Rock,TX,78683,G2022,2022-07-29,250.0,250.0,Third Generation Financial,President & CEO,,,2022
+SA11AI,C00371203,0036852,IND,,Mello,Jason,B,,,PO Box 220194,,Chantilly,VA,20153,G2022,2022-09-17,250.0,250.0,US Air Force,Chief of Science & Engineering,,,2022
+SA11AI,C00371203,0036888-0058,IND,,Rabaey,Greg,,,,2503 Chowan Way,,Round Rock,TX,78681,G2022,2022-09-23,250.0,250.0,Santanna Energy Services,Executive,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036726,IND,,Kuhlmann,Klaus,,Mr.,,5301 Thousand Oaks Dr,,Round Rock,TX,78681,G2022,2022-07-07,250.0,250.0,None,Retired,,,2022
+SA11AI,C00371203,0036888-0010,IND,,Surface,Richard,,,,3002 Oakwood Drive,,Harker Heights,TX,76548,G2022,2022-09-06,250.0,600.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0014,IND,,Gloyna,David,,Dr.,,2320 Sulphur Wells Rd,,Salado,TX,76571,G2022,2022-09-07,250.0,250.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0015,IND,,Barr,Kim,,,,605 Donnie Ave,,Killeen,TX,76541,G2022,2022-09-07,250.0,250.0,Kidz Therapeze,CFO,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036886-0011,IND,,Ehlers,Richard,,Mr.,,10921 Sea Hero Lane,,Austin,TX,78748,G2022,2022-07-06,100.0,350.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036818,IND,,Carrera,Jeff,,,,942 Pleasant Hill Rd,,Nolanville,TX,76559,G2022,2022-09-19,100.0,400.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036788,IND,,Carrera,Jeff,,,,942 Pleasant Hill Rd,,Nolanville,TX,76559,G2022,2022-09-06,100.0,300.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036717,IND,,Hirsch,Maurine,,,,1694 Greenside Trail,,Round Rock,TX,78665,G2022,2022-07-07,100.0,300.0,Retired,Retired,,,2022
+SA11AI,C00371203,0036752,IND,,Lorentzen,Edward,,,,1504 Rimstone Drive,,Cedar Park,TX,78613,G2022,2022-07-11,50.0,1050.0,retired,retired,,Anedot,2022
+SA11AI,C00371203,0036888-0071,IND,,Russ,Keli,,,,8000 E. State HWY 29,,Georgetown,TX,78626,G2022,2022-09-27,50.0,1850.0,BCC,HR,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036886-0060,IND,,Redmon,John,,,,2 Valcourt Pl.,,Spring,TX,77382,G2022,2022-07-24,50.0,900.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036762,IND,,Lorentzen,Edward,,,,1504 Rimstone Drive,,Cedar Park,TX,78613,G2022,2022-08-12,50.0,1100.0,retired,retired,,Anedot,2022
+SA11AI,C00371203,0036888-0061,IND,,Redmon,John,,,,2 Valcourt Pl.,,Spring,TX,77382,G2022,2022-09-24,50.0,1000.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0054,IND,,Loesch,James,,,,318 Tradinghouse Creek St.,,Georgetown,TX,78633,G2022,2022-09-20,50.0,262.5,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0061,IND,,Redmon,John,,,,2 Valcourt Pl.,,Spring,TX,77382,G2022,2022-08-24,50.0,950.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0067,IND,,Russ,Keli,,,,8000 E. State HWY 29,,Georgetown,TX,78626,G2022,2022-08-27,50.0,1800.0,BCC,HR,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036774,IND,,Lorentzen,Edward,,,,1504 Rimstone Drive,,Cedar Park,TX,78613,G2022,2022-09-11,50.0,1150.0,retired,retired,,Anedot,2022
+SA11AI,C00371203,0036886-0066,IND,,Russ,Keli,,,,8000 E. State HWY 29,,Georgetown,TX,78626,G2022,2022-07-27,50.0,1750.0,BCC,HR,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0068,IND,,Alberti,Kerry,,,,12206 Country Hills Terrace,,Glen Allen,VA,23059,G2022,2022-09-26,25.0,274.54,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0069,IND,,Alberti,Kerry,,,,12206 Country Hills Terrace,,Glen Allen,VA,23059,G2022,2022-09-26,25.0,299.54,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036887-0016,IND,,Johnson,Melvin,,,,534 River Down Rd,,Georgetown,TX,78628,G2022,2022-08-08,25.0,800.0,Rrisd,Teacher,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036886-0052,IND,,Reesd,Kathy,,,,17890 Blanco Road,,San Antonio,TX,78232,G2022,2022-07-20,25.0,325.0,Whataburger of Alice,Office,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036881,IND,,Paul,James,,,,PO Box 2691,,Georgetown,TX,78627,G2022,2022-09-24,25.0,575.0,"Allied Electric Services, Inc.",Business Owner,,Anedot,2022
+SA11AI,C00371203,0036887-0053,IND,,Reesd,Kathy,,,,17890 Blanco Road,,San Antonio,TX,78232,G2022,2022-08-20,25.0,350.0,Whataburger of Alice,Office,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0083,IND,,Bradley,Jerry,,,,2346 Berwick Dr,,Round Rock,TX,78681,G2022,2022-09-30,25.0,400.0,retired,retired,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036763,IND,,Paul,James,,,,PO Box 2691,,Georgetown,TX,78627,G2022,2022-08-24,25.0,550.0,"Allied Electric Services, Inc.",Business Owner,,Anedot,2022
+SA11AI,C00371203,0036761,IND,,Pendley,Lois,,,,616 S Lynnwood Trl,,Cedar Park,TX,78613,G2022,2022-08-27,25.0,650.0,retired,Retired,,Anedot,2022
+SA11AI,C00371203,0036753,IND,,Paul,James,,,,PO Box 2691,,Georgetown,TX,78627,G2022,2022-07-24,25.0,525.0,"Allied Electric Services, Inc.",Business Owner,,Anedot,2022
+SA11AI,C00371203,0036888-0016,IND,,Johnson,Melvin,,,,534 River Down Rd,,Georgetown,TX,78628,G2022,2022-09-08,25.0,825.0,Rrisd,Teacher,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0055,IND,,Reesd,Kathy,,,,17890 Blanco Road,,San Antonio,TX,78232,G2022,2022-09-20,25.0,375.0,Whataburger of Alice,Office,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036760,IND,,Pendley,Lois,,,,616 S Lynnwood Trl,,Cedar Park,TX,78613,G2022,2022-07-29,25.0,625.0,retired,Retired,,Anedot,2022
+SA11AI,C00371203,0036886-0013,IND,,Johnson,Melvin,,,,534 River Down Rd,,Georgetown,TX,78628,G2022,2022-07-08,25.0,775.0,Rrisd,Teacher,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036882,IND,,Pendley,Lois,,,,616 S Lynnwood Trl,,Cedar Park,TX,78613,G2022,2022-09-27,23.7,673.7,retired,Retired,,Anedot,2022
+SA11AI,C00371203,0036887-0030,IND,,H,Charley,,,,PO Box 650551,,Sterling,VA,20165,G2022,2022-08-13,7.5,302.5,US Postal Service,Postal Worker,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036888-0028,IND,,H,Charley,,,,PO Box 650551,,Sterling,VA,20165,G2022,2022-09-13,7.5,310.0,US Postal Service,Postal Worker,,Earmarked through WinRED,2022
+SA11AI,C00371203,0036886-0028,IND,,H,Charley,,,,PO Box 650551,,Sterling,VA,20165,G2022,2022-07-13,7.5,295.0,US Postal Service,Postal Worker,,Earmarked through WinRED,2022
+SA11C,C00371203,0036876,PAC,Cerner PAC,,,,,,2800 Rockcreek Pkwy,,Kansas City,MO,64117,G2022,2022-09-21,-1500.0,2500.0,,,,ck returned by bank,2022

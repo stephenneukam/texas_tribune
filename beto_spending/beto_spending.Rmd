@@ -1,0 +1,86 @@
+---
+title: "beto_raising"
+output: html_document
+date: "2022-10-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+#Loading libs
+library(tidyverse)
+library(janitor)
+```
+```{r}
+###
+# Loading in data
+###
+
+beto_gov <- read_csv("data/beto_gov.csv", skip = 24) %>%
+  select(COMMACTIVITY:GOVERNOR)
+
+beto_senate <-read_csv("data/beto_senate.csv") %>%
+  select(contributor_name, contributor_city, contributor_state, contribution_receipt_amount)
+
+###
+# Cleaning this awful data
+###
+
+colnames(beto_gov) <- c("comm_activity", "x", "report", "x2", "x3", "contribution_amount", "x4", "x5", "x6", "x7", "x8", "x9", "x10", "x11", "x12", "x13", "x14", "x15", "x16", "x17", "x18", "x19")
+
+beto_gov <- beto_gov %>%
+  select(x, contribution_amount, x11:x13, x18)
+
+colnames(beto_gov) <- c("x", "contribution_amount", "name", "employer", "job", "state")
+
+beto_senate <- beto_senate %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(contributor_city = str_to_title(contributor_city))
+```
+Working on the datasets to get them ready for joining
+```{r}
+beto_gov_distinct <- beto_gov %>%
+  select(name) %>%
+  distinct()
+
+beto_senate_distinct <- beto_senate %>%
+  select(contributor_name) %>%
+  distinct()
+
+gov_senate_joined_distinct <- beto_gov_distinct %>%
+  inner_join(beto_senate_distinct, by=c("name" = "contributor_name"))
+
+gov_senate_donos <- beto_gov %>%
+  inner_join(gov_senate_joined_distinct, by=c("name"))
+
+gov_senate_donos <- gov_senate_donos %>%
+  mutate(contribution_amount = as.numeric(contribution_amount))
+
+gov_senate_donos <- gov_senate_donos %>%
+  mutate(contribution_amount = replace_na(contribution_amount, 0)) %>%
+  na.omit()
+
+gov_senate_donos %>%
+  summarise(total = sum(contribution_amount))
+
+##$5,989,655
+
+beto_gov <- beto_gov %>%
+  mutate(contribution_amount = as.numeric(contribution_amount)) %>%
+  mutate(contribution_amount = replace_na(contribution_amount, 0))
+
+beto_gov %>%
+  summarise(total = sum(contribution_amount))
+
+##$27,552,300	
+```
+
+

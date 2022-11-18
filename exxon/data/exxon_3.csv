@@ -1,0 +1,20 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,purpose,memo_code,memo_text,cycle
+SB29,C00121368,5433670,COM,ExxonMobil Corp PAC of Texas,,,,,,PO Box 57189,,Washington,DC,20037,,2022-08-16,29000.0,Transfer to State PAC,,Transfer to State PAC,2022
+SB23,C00121368,5437226,CCM,KEVIN MCCARTHY FOR CONGRESS,,,,,,PO BOX 12667,,BAKERSFIELD,CA,93389,,2022-08-24,5000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437228,CCM,SCALISE FOR CONGRESS,,,,,,PO BOX 23219,,JEFFERSON,LA,70183,,2022-08-24,5000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437219,CCM,EMMER FOR CONGRESS,,,,,,PO BOX 998,,ANOKA,MN,55303,,2022-08-24,5000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437221,CCM,SYLVIA GARCIA FOR CONGRESS,,,,,,PO BOX 8530,,HOUSTON,TX,77249,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437216,CCM,ARMSTRONG FOR CONGRESS,,,,,,1515 BURNT BOAT DRIVE Box 112,,BISMARCK,ND,58503,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB29,C00121368,5434139,PTY,North Dakota Republican House Caucus,,,,,,4117 Downing St,,Bismark,ND,58504,,2022-08-16,2500.0,Contributions to State Party Committees,,Contributions to State Party Committees,2022
+SB29,C00121368,5434138,PTY,North Dakota Senate Republican Caucus,,,,,,2525 Elk Drive,,Minot,ND,58701,,2022-08-16,2500.0,Contributions to State Party Committees,,Contributions to State Party Committees,2022
+SB29,C00121368,5434135,COM,Doug Burgum for North Dakota,,,,,,PO Box 2945,,Fargo,ND,58108,,2022-08-16,2500.0,Contributions to State Candidates,,Contributions to State Candidates,2022
+SB23,C00121368,5437224,CCM,FRIENDS OF DAVE JOYCE,,,,,,9856 ARCHER LN,,Dublin,OH,43017,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437223,CCM,GARRET GRAVES FOR CONGRESS,,,,,,PO BOX 64845,,BATON ROUGE,LA,70896,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437222,CCM,VICENTE GONZALEZ FOR CONGRESS,,,,,,121 NORTH 10TH STREET,,MCALLEN,TX,78501,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437220,CCM,DREW FERGUSON FOR CONGRESS INC.,,,,,,PO BOX 71067,,Newnan,GA,30271,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437218,CCM,TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN,,,,,,1519 WASHINGTON STREET Suite 200,,Laredo,TX,78040,,2022-08-24,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437217,CCM,BUCSHON FOR CONGRESS,,,,,,PO BOX 250,,NEWBURGH,IN,47629,,2022-08-24,2500.0,,,,2022
+SB23,C00121368,5437229,CCM,WILLIAM TIMMONS FOR CONGRESS,,,,,,PO BOX 3416,,Greenville,SC,29602,,2022-08-24,2000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437225,CCM,Lucas for Congress,,,,,,PO Box 1726,,Oklahoma City,OK,73101,,2022-08-24,1500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5437227,CCM,GUY FOR CONGRESS,,,,,,P.O. BOX 23177,,PITTSBURGH,PA,15222,,2022-08-24,1000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB21b,C00121368,5460129,ORG,BANK OF AMERICA,,,,,,P O BOX 4339,,HOUSTON,TX,77210,,2022-08-05,15.0,Bank Fee,,Bank Fee,2022

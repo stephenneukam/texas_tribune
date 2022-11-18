@@ -1,0 +1,335 @@
+---
+title: "q3_spending"
+output: html_document
+date: "2022-10-15"
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(janitor)
+```
+Loading in data
+```{r}
+alamo_pac <- read_csv("data/alamo_pac.csv")
+cornyn_victory <- read_csv("data/cornyn_victory.csv")
+```
+Some analysis
+```{r}
+alamo_pac %>%
+  filter(purpose == "COMMITTEE CONTRIBUTION") %>%
+  group_by(organization_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+cornyn_victory %>%
+  filter(purpose == "TRANSFER OF NET JOINT FUNDRAISING PROCEEDS") %>%
+  group_by(organization_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+cornyn_victory %>%
+  summarise(total = sum(amount))
+```
+Loading in election denier fundraising data
+```{r}
+keith_self <- read_csv("data/keith_self.csv") %>%
+  mutate(candidate = "Self") %>%
+  mutate(zip_code = as.numeric(zip_code))
+pat_fallon <- read_csv("data/pat_fallon.csv") %>%
+  mutate(candidate = "Fallon") %>%
+  mutate(zip_code = as.numeric(zip_code))
+lance_gooden <- read_csv("data/lance_gooden.csv") %>%
+  mutate(candidate = "Gooden") %>%
+  mutate(zip_code = as.numeric(zip_code))
+morgan_luttrell <- read_csv("data/morgan_luttrell.csv") %>%
+  mutate(candidate = "Luttrell") %>%
+  mutate(zip_code = as.numeric(zip_code))
+morgan_luttrell2 <- read_csv("data/morgan_luttrell2.csv") %>%
+  mutate(candidate = "Luttrell") %>%
+  mutate(zip_code = as.numeric(zip_code))
+august_pfluger <- read_csv("data/august_pfluger.csv") %>%
+  mutate(candidate = "Pfluger") %>%
+  mutate(zip_code = as.numeric(zip_code))
+august_pfluger2 <- read_csv("data/august_pfluger1.csv") %>%
+  mutate(candidate = "Pfluger") %>%
+  mutate(zip_code = as.numeric(zip_code))
+ronny_jackson <- read_csv("data/rony_jackson.csv") %>%
+  mutate(candidate = "Jackson") %>%
+  mutate(zip_code = as.numeric(zip_code))
+randy_weber <- read_csv("data/randy_weber.csv") %>%
+  mutate(candidate = "Weber") %>%
+  mutate(zip_code = as.numeric(zip_code))
+monica_de_la_cruz <- read_csv("data/monica_de_la_cruz.csv") %>%
+  mutate(candidate = "De La Cruz") %>%
+  mutate(zip_code = as.numeric(zip_code))
+carmen_montiel <- read_csv("data/carmen_montiel.csv") %>%
+  mutate(candidate = "Montiel") %>%
+  mutate(zip_code = as.numeric(zip_code))
+jodey_arrington <- read_csv("data/jodey_arrington.csv") %>%
+  mutate(candidate = "Arrington") %>%
+  mutate(zip_code = as.numeric(zip_code))
+jodey_arrington2 <- read_csv("data/jodey_arrington2.csv") %>%
+  mutate(candidate = "Arrington") %>%
+  mutate(zip_code = as.numeric(zip_code))
+beth_van_duyne <- read_csv("data/beth_van_duyne.csv") %>%
+  mutate(candidate = "Van Duyne") %>%
+  mutate(zip_code = as.numeric(zip_code))
+beth_van_duyne2 <- read_csv("data/beth_van_duyne2.csv") %>%
+  mutate(candidate = "Van Duyne") %>%
+  mutate(zip_code = as.numeric(zip_code))
+roger_williams <- read_csv("data/roger_williams.csv") %>%
+  mutate(candidate = "Williams") %>%
+  mutate(zip_code = as.numeric(zip_code))
+michael_burgess <- read_csv("data/michael_burgess.csv") %>%
+  mutate(candidate = "Burgess") %>%
+  mutate(zip_code = as.numeric(zip_code))
+michael_cloud <- read_csv("data/michael_cloud.csv") %>%
+  mutate(candidate = "Cloud") %>%
+  mutate(zip_code = as.numeric(zip_code))
+john_carter <- read_csv("data/john_carter.csv") %>%
+  mutate(candidate = "Carter") %>%
+  mutate(zip_code = as.numeric(zip_code))
+mayra_flores <- read_csv("data/mayra_flores.csv") %>%
+  mutate(candidate = "Flores") %>%
+  mutate(zip_code = as.numeric(zip_code))
+brian_babin <- read_csv("data/brian_babin.csv") %>%
+  mutate(candidate = "Babin") %>%
+  mutate(zip_code = as.numeric(zip_code))
+irene_armenariz_jackson <- read_csv("data/irene_armenariz-jackson.csv") %>%
+  mutate(candidate = "Armenariz-Jackson") %>%
+  mutate(zip_code = as.numeric(zip_code))
+jenny_garcia_sharon <- read_csv("data/jenny_garciasharon.csv") %>%
+  mutate(candidate = "Garcia Sharon") %>%
+  mutate(zip_code = as.numeric(zip_code))
+pete_sessions <- read_csv("data/pete_sessions.csv") %>%
+  mutate(candidate = "Sessions") %>%
+  mutate(zip_code = as.numeric(zip_code))
+troy_nehls <- read_csv("data/troy_nehls.csv") %>%
+  mutate(candidate = "Nehls") %>%
+  mutate(zip_code = as.numeric(zip_code))
+
+###
+# Making a master dataset
+###
+master <- august_pfluger %>%
+  bind_rows(august_pfluger2, beth_van_duyne, beth_van_duyne2, brian_babin, carmen_montiel, irene_armenariz_jackson, jenny_garcia_sharon, jodey_arrington, jodey_arrington2, john_carter, keith_self, lance_gooden, mayra_flores, michael_burgess, michael_cloud, monica_de_la_cruz, morgan_luttrell, morgan_luttrell2, pat_fallon, pete_sessions, randy_weber, roger_williams, ronny_jackson, troy_nehls)
+```
+I need to clean a lot of these committee names to make sure I have an accurate count of their contribution totals:
+```{r}
+PACs %>%
+  filter(str_detect(organization_name, "American Israel Public")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Exxon")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Koch")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Valero")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Realtors")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "At")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Automobile")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Builders")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Dental")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Raytheon")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Aipac")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Aflac")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Comcast")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Cheniere")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Toyota")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs %>%
+  filter(str_detect(organization_name, "Nbc")) %>%
+  group_by(organization_name) %>%
+  count()
+
+PACs <- PACs %>%
+  mutate(organization_name = case_when(str_detect(organization_name, "American Israel Public") ~ "American Israel Public Relations Committee Pac",
+                                       str_detect(organization_name, "Exxon") ~ "Exxonmobil Pac",
+                                       str_detect(organization_name, "Koch") ~ "Kochpac",
+                                       str_detect(organization_name, "Valero") ~ "Valero Pac",
+                                       str_detect(organization_name, "Realtors") ~ "National Association Of Realtors Pac",
+                                       str_detect(organization_name, "National Automobile") ~ "National Automobile Dealers Association Pac",
+                                       str_detect(organization_name, "Associated Builders") ~ "Associated Builders And Contractors Pac",
+                                       str_detect(organization_name, "Dental") ~ "American Dental Pac",
+                                       str_detect(organization_name, "At&T") ~ "AT&T Federal Pac",
+                                       str_detect(organization_name, "American Israel Public") ~ "American Israel Public Affairs Committee Pac",
+                                       str_detect(organization_name, "Aipac") ~ "American Israel Public Affairs Committee Pac",
+                                       str_detect(organization_name, "Aflac") ~ "Aflac Pac",
+                                       str_detect(organization_name, "Comcast Corporation") ~ "Comcast Corporation & Nbcuniversal Pac",
+                                       str_detect(organization_name, "Cheniere") ~ "Cheniere Energy Pac",
+                                       str_detect(organization_name, "Toyota") ~ "Toyota Pac",
+                                       TRUE ~ organization_name))
+```
+
+
+Some analysis
+```{r}
+###
+# How much, in total, did these election deniers raise in the last three months?
+###
+master %>%
+  summarise(total = sum(amount))
+
+###
+# These election deniers raised $8,743,386 in Q3
+###
+
+###
+# Individually, who raised the most out of this group?
+###
+
+master %>%
+  group_by(candidate) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+###
+# Mayra Flores, Morgan Luttrell and Monica De La Cruz all raised over $1 million in Q3
+###
+
+###
+# What is the average donation amount to these candidates?
+###
+
+master %>%
+  summarise(avg = mean(amount))
+
+###
+# The average donation amount is $206.7239
+###
+
+###
+# I want to flesh out all of these donations by donation type. Who donated to these campaigns? What PACs? What organizations?  Which individuals? 
+###
+
+master %>%
+  group_by(entity_type) %>%
+  count()
+
+PACs <- master %>%
+  filter(entity_type == "PAC")
+
+PACs <- PACs %>%
+  mutate(organization_name = str_to_title(organization_name))
+
+PACs %>%
+  group_by(organization_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+###
+# Corporate PACs like Valero Energy, Koch Industries, Naitonal Association of Realtors, Phillips 66 and AT&T all donated considerably to these election deniers.
+###
+
+ORGs <- master %>%
+  filter(entity_type == "ORG")
+
+ORGs %>%
+  group_by(organization_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+###
+# Win Red lololol
+###
+
+INDs <- master %>%
+  filter(entity_type == "IND")
+
+###
+# Mutating INDs to paste last and first names together
+###
+
+INDs <- INDs %>%
+  mutate(full_name = paste0(first_name, " ", last_name))
+
+INDs %>%
+  group_by(full_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+master %>%
+  group_by(candidate) %>%
+  count()
+
+###
+# Which candidates got the highest donations from PACs in this dataset?
+###
+x <- PACs %>%
+  filter(organization_name == "American Israel Public Relations Committee Pac") %>%
+  group_by(organization_name, candidate) %>%
+  select(candidate, organization_name, amount) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+```
+Visualization CSVs:
+```{r}
+viz_1 <- PACs %>%
+  filter(organization_name == "American Israel Public Relations Committee Pac" | organization_name == "National Association Of Realtors Pac" | organization_name == "Valero Pac" | organization_name == "AT&T Federal Pac" | organization_name == "Kochpac" | organization_name == "Cheniere Energy Pac" | organization_name == "Toyota Pac" | organization_name == "Phillips 66 Pac" | organization_name == "Exxonmobil Pac")
+
+viz_1 <- viz_1 %>%
+  group_by(organization_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+write_csv(viz_1, "viz_1.csv")
+```
+
+
+
+
+

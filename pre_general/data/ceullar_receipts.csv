@@ -1,0 +1,66 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,aggregate_amount,employer,occupation,memo_code,memo_text,cycle
+SA11C,C00371302,7184815,PAC,BUILD POLITICAL ACTION COMMITTEE OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC),,,,,,1201 15Th St NW,,Washington,DC,20005,G2022,2022-10-19,5000.0,12500.0,,,,,2022
+SA11C,C00371302,7185241,PAC,CHARTER COMMUNICATIONS INC. POLITICAL ACTION COMMITTEE,,,,,,400 Atlantic St,Fl 10,Stamford,CT,06901,G2022,2022-10-19,5000.0,10000.0,,,,,2022
+SA11C,C00371302,7185050,PAC,NATIONAL CATTLEMEN'S BEEF ASSOCIATION POLITICAL ACTION COMMITTEE (NCBA-PAC),,,,,,1275 Pennsylvania Ave NW,Ste 801,Washington,DC,20004,G2022,2022-10-19,5000.0,5000.0,,,,,2022
+SA11C,C00371302,7227442,PAC,AMERICAN SUGAR CANE LEAGUE OF USA INC POLITICAL ACTION COMMITTEE,,,,,,PO Box 938,,Thibodaux,LA,70302,G2022,2022-10-19,4000.0,4000.0,,,,,2022
+SA11AI,C00371302,7185215,IND,,McNally,R. Stephen,,,,1911 A Nueces St,,Austin,TX,78705,G2022,2022-10-19,2900.0,5800.0,Self,Attorney,,,2022
+SA11C,C00371302,7124487,PAC,OC JOBS & EDUCATION,,,,,,3230 Arena Blvd,Ste Pm 245,Sacramento,CA,95834,G2022,2022-10-14,2900.0,2900.0,,,,,2022
+SA11AI,C00371302,7099326,IND,,Dunson,Nancy,,,,207 Joliet Ave,,San Antonio,TX,78209,G2022,2022-10-16,2900.0,3900.0,Metrica Inc.,Executive,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7185087,IND,,Saffir,Kenneth,B.,,,1143 Sheridan Rd,,Highland Park,IL,60035,G2022,2022-10-19,2900.0,2900.0,Retired,Retired,,,2022
+SA11AI,C00371302,6866292,IND,,Earl,David,L.,,,10007 Huebner Rd,,San Antonio,TX,78240,G2022,2022-10-02,2900.0,5800.0,Earl & Associates PC,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,6890599,IND,,Honrubia,Vincent,,,,4865 Nmccoll Rd,,Edinburg,TX,78504,G2022,2022-10-03,2900.0,2900.0,Self,Physician,,* Earmarked Contribution: See Below,2022
+SA12,C00371302,7117381,IND,,Schwartz,Eric,,,,15 Central Park W,Apt 27A,New York,NY,10023,G2022,2022-10-11,2900.0,2900.0,76 West Holdings,Investor,X,,2022
+SA11AI,C00371302,7100617,IND,,Yount,Richard,,,,1801 South Blvd,,Houston,TX,77098,G2022,2022-10-17,2900.0,2900.0,"Facility Enterprises, LLC","Owner, CEO And Manager",,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7185110,IND,,Saffir,Andrea,J.,,,1143 Sheridan Rd,,Highland Park,IL,60035,G2022,2022-10-19,2900.0,2900.0,Retired,Retired,,,2022
+SA11C,C00371302,7185075,PAC,OUTDOOR AMUSEMENT BUSINESS ASSOCIATION INC POLITICAL ACTION COMMITTEE,,,,,,1305 Memorial Ave,,West Springfield,MA,01089,G2022,2022-10-19,2500.0,5000.0,,,,,2022
+SA11C,C00371302,7124128,PAC,NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC,,,,,,1325 Massachusetts Ave NW,Fl 1,Washington,DC,20005,G2022,2022-10-14,2500.0,5500.0,,,,,2022
+SA11AI,C00371302,7099324,IND,,Massie,Jim,,,,601 N Fairfax St,Apt 215,Alexandria,VA,22314,G2022,2022-10-16,2500.0,2500.0,Massie Partners,Lobbyist,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7185214,ORG,Eli-Gar Ltd.,,,,,,2446 San Isidro Pkwy,,Laredo,TX,78045,G2022,2022-10-19,2500.0,2500.0,,,,PARTNERSHIP--partners below if itemized,2022
+SA12,C00371302,7116991,PAC,HOUSE VICTORY PROJECT 2022,,,,,,600 Pennsylvania Ave SE,Unit 15180,Washington,DC,20003,G2022,2022-10-19,2132.19,147153.0,,,,,2022
+SA11C,C00371302,7185229,PAC,SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE POLITICAL ACTION COMMITTEE,,,,,,PO Box 500,,Renville,MN,56284,G2022,2022-10-19,2000.0,3000.0,,,,,2022
+SA11C,C00371302,7124073,PAC,NORFOLK SOUTHERN CORPORATION GOOD GOVERNMENT FUND,,,,,,1 Constitution Ave NE,,Washington,DC,20002,G2022,2022-10-14,2000.0,4000.0,,,,,2022
+SA11C,C00371302,7185244,PAC,TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC.,,,,,,430 1St St SE,,Washington,DC,20003,G2022,2022-10-19,1500.0,11500.0,,,,,2022
+SA11AI,C00371302,7100619,IND,,Cortez,Pete,,,,200 E Myrtle St,,San Antonio,TX,78212,G2022,2022-10-17,1500.0,1500.0,MTC Inc.,Restaurant,,* Earmarked Contribution: See Below,2022
+SA11C,C00371302,7124404,PAC,"FLOWERS FOODS, INC. POLITICAL ACTION COMMITTEE",,,,,,1919 Flowers Cir,,Thomasville,GA,31757,G2022,2022-10-14,1500.0,1500.0,,,,,2022
+SA11AI,C00371302,7100626,IND,,Gomez,Leo,,,,9406 Hazelton Ln,,San Antonio,TX,78251,G2022,2022-10-18,1000.0,1000.0,Brooks Development Authority,Executive,,* Earmarked Contribution: See Below,2022
+SA11C,C00371302,7185185,PAC,PUTTING PEOPLE FIRST PAC,,,,,,823 Congress Ave,Ste 900,Austin,TX,78701,G2022,2022-10-19,1000.0,1000.0,,,,,2022
+SA11C,C00371302,7185238,PAC,MCDONALDS CORPORATION POLITICAL ACTION COMMITTEE,,,,,,711 Jorie Blvd,Dept 213,Oak Brook,IL,60523,G2022,2022-10-19,1000.0,1000.0,,,,,2022
+SA11C,C00371302,7185248,PAC,GENERAL ATOMICS POLITICAL ACTION COMMITTEE,,,,,,PO Box 85608,,San Diego,CA,92186,G2022,2022-10-19,1000.0,6000.0,,,,,2022
+SA11C,C00371302,7185255,PAC,PFIZER INC. PAC,,,,,,235 E 42Nd St,,New York,NY,10017,G2022,2022-10-19,1000.0,4000.0,,,,,2022
+SA11AI,C00371302,7100622,IND,,Adams,James R,,,,209 Geneseo Rd,,San Antonio,TX,78209,G2022,2022-10-17,1000.0,1000.0,Retired,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100616,IND,,Dev,Vaishali,,,,1 Greyfriars Ln,,San Antonio,TX,78257,G2022,2022-10-17,1000.0,1500.0,Microteq Engineering Inc,CEO,,* Earmarked Contribution: See Below,2022
+SA11C,C00371302,7185060,PAC,UNITED STATES BEET SUGAR ASSOCIATION POLITICAL ACTION COMMITTEE,,,,,,50 F St NW,Ste 675,Washington,DC,20001,G2022,2022-10-19,1000.0,2000.0,,,,,2022
+SA11AI,C00371302,7124573,IND,,Clipson,Christopher,C.,,,2315 W Expressway 83,Ste 102,San Benito,TX,78586,G2022,2022-10-14,1000.0,1000.0,Self,Crop Insurance Agent,,,2022
+SA11AI,C00371302,7099314,IND,,MARTIN,ALBERT,,,,1119 Shiloh Dr,,Laredo,TX,78045,G2022,2022-10-14,1000.0,3500.0,Swisher Martin Realty,Realtor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7124574,IND,,Lowry,Albert,T.,,,2410 Bermuda Dr,,Laredo,TX,78045,G2022,2022-10-14,1000.0,2000.0,Texas Community Bank,Executive Vice President,,,2022
+SA11AI,C00371302,7124026,IND,,Beldon,Michael,D.,,,4 Westelm Cir,,San Antonio,TX,78230,G2022,2022-10-14,1000.0,2000.0,Beldon Roofing & Remodeling Co,Chairman,,,2022
+SA11AI,C00371302,7184847,IND,,Perez,Judy,Lynn,,,959 W Villaret Blvd,,San Antonio,TX,78224,G2022,2022-10-19,1000.0,1000.0,South San Antonio School District,Teacher,,,2022
+SA11AI,C00371302,7184855,IND,,Macon,Jane,H.,,,300 Convent St,Ste 1500,San Antonio,TX,78205,G2022,2022-10-19,1000.0,1000.0,Bracewell & Giuliani,Attorney,,,2022
+SA11AI,C00371302,7100089,IND,,Gonzalez,Ernest,,,,15834 Secret Trl,,San Antonio,TX,78247,G2022,2022-10-13,1000.0,3000.0,Self,Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7184814,IND,,Montford,John,T.,,,1 Buckingham Ct,,San Antonio,TX,78257,G2022,2022-10-19,1000.0,4000.0,JTM Consulting LLC,Consultant / Attorney,,,2022
+SA11AI,C00371302,7184823,IND,,Janson,David,H.,,,4202 Summer Field Rd,,Champaign,IL,61822,G2022,2022-10-19,1000.0,1000.0,Strategic Farm Marketing Inc.,Owner,,,2022
+SA11AI,C00371302,6992192,IND,,Ahuja,Rajan,,,,28 E Bar Le Doc Dr,,Corpus Christi,TX,78414,G2022,2022-10-07,500.0,500.0,SV Energy Company,Engineer,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,6992209,IND,,Delgado,Jorge,,,,3107 Dante Loop,,Laredo,TX,78041,G2022,2022-10-07,500.0,500.0,Delgado Insurance,Owner,,* Earmarked Contribution: See Below,2022
+SA11C,C00371302,7124072,PAC,NEXTDECADE CORPORATION POLITICAL ACTION COMMITTEE,,,,,,1000 Louisiana St,Ste 3900,Houston,TX,77002,G2022,2022-10-14,500.0,500.0,,,,,2022
+SA11AI,C00371302,7100632,IND,,Molina,Rick,,,,132 Miller Spgs,,Boerne,TX,78006,G2022,2022-10-18,500.0,500.0,Mesquite Country Group,Owner,,* Earmarked Contribution: See Below,2022
+SA11C,C00371302,7185219,PAC,ALLIED PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE,,,,,,14600 Trinity Blvd,Ste 500,Fort Worth,TX,76155,G2022,2022-10-19,500.0,3000.0,,,,,2022
+SA11AI,C00371302,7100624,IND,,Heller,Don,,,,330 Avenue N,,Anson,TX,79501,G2022,2022-10-18,500.0,500.0,Ag Crop Insurnace,Crop Insurance Agent,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100629,IND,,Ortiz,Daniel,,,,9103 Mellbrook St,,San Antonio,TX,78230,G2022,2022-10-18,500.0,1500.0,Brown & Ortiz P.C.,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100063,IND,,Speakes,Stephen,M.,,,2 Clubhouse Grn,,San Antonio,TX,78257,G2022,2022-10-12,500.0,4250.0,IRTC LLC,Manager,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100067,IND,,Marchese,Steve,,,,918 Emerald Dr,,Alexandria,VA,22308,G2022,2022-10-12,500.0,500.0,Cornerstone Government Affairs,Consultant,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100623,IND,,Watson,Jeffery,S.,,,137 Leith Walk,,Conneaut,OH,44030,G2022,2022-10-18,500.0,1400.0,Self Employed,Attorney,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7185049,IND,,Winch,Fred,W.,,,PO Box 450453,,Laredo,TX,78045,G2022,2022-10-19,500.0,500.0,F.W. Winch Cattle Co.,Owner,,,2022
+SA11AI,C00371302,7099318,IND,,Buchanan,Roger,,,,PO Box 157,,Spearman,TX,79081,G2022,2022-10-15,500.0,500.0,Self,Insurance,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7124651,IND,,Martinez,Desi,I.,,,9902 Bernhardt Way,,San Antonio,TX,78263,G2022,2022-10-14,500.0,500.0,Self,Attorney,,,2022
+SA11AI,C00371302,7185164,IND,,Gonzalez,Jose,,,,2039 Buenos Aires Dr,,Laredo,TX,78045,G2022,2022-10-19,500.0,500.0,Information Requested,Information Requested,,,2022
+SA11AI,C00371302,6866277,IND,,Gillespie,Jennifer,,,,6534 Fremont Cir,,Huntington Beach,CA,92648,G2022,2022-10-01,500.0,500.0,Haven Gillespie Music Publishing Co.,Owner,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,6866281,IND,,Trevino,Tina,,,,101 Colorado St,,Laredo,TX,78041,G2022,2022-10-02,500.0,500.0,Retired,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100070,IND,,Tichenor,Daniel,,,,11478 Cull Canyon Rd,,Castro Valley,CA,94552,G2022,2022-10-12,250.0,500.0,Retired,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100069,IND,,Ruiz,Glenn,C,,,405 Chevy Chase Dr,,Laredo,TX,78041,G2022,2022-10-12,250.0,1050.0,Royal Laser Car Wash,Owner,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100086,IND,,Kessel,John,,,,4930 34Th Rd N,,Arlington,VA,22207,G2022,2022-10-13,250.0,250.0,Retired,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7185149,IND,,Reiss,Billie,E.,,,83 Shafter St,,Islandia,NY,11749,G2022,2022-10-19,250.0,250.0,Blue Sky Amusements,Carnival Owner,,,2022
+SA11AI,C00371302,6890596,IND,,Restler,Peter,,,,36 Pierrepont St,,Brooklyn,NY,11201,G2022,2022-10-03,250.0,250.0,CAI Managers,Investor,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100083,IND,,ODONNELL,RANDALL,,,,5242 W 151St Ter,Ste 414,Leawood,KS,66224,G2022,2022-10-13,250.0,250.0,Retired,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7100088,IND,,Bernier,Barry,E.,,,PO Box 1299,,Laredo,TX,78042,G2022,2022-10-13,50.0,655.0,None,Retired US Marine Corps,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,6992213,IND,,Chapman,Terry,,,,7931 Mesa Trails Cir,,Austin,TX,78731,G2022,2022-10-09,50.0,250.0,Retired,Retired,,* Earmarked Contribution: See Below,2022
+SA11AI,C00371302,7145652,IND,,Fuller,Jacob,C.,,,617 N Mccoll Cir,,Mcallen,TX,78501,G2022,2022-10-13,-250.0,500.0,Star Com Consulting,President,,9/30/22 check returned by bank,2022

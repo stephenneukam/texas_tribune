@@ -1,0 +1,258 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,aggregate_amount,employer,occupation,memo_code,memo_text,cycle
+SA11C,C00372532,A799E1CCE466649BB99D,PAC,American Care Rental Association PAC,,,,,,PO Box 584,,Long Lake,NY,12847,G2022,2022-09-30,5000.0,5000.0,,,,,2022
+SA11C,C00372532,A6D10D9311BB346A7A69,PAC,Physician Hospitals of America Political Action Committee,,,,,,2025 M Street NW,Suite 800,Washington,DC,20036,G2022,2022-09-30,5000.0,5000.0,,,,,2022
+SA11C,C00372532,AE99DC1EC4A5E4412AA8,PAC,"Koch Industries, Inc. PAC (Kochpac)",,,,,,4111 E 37th St N,,Wichita,KS,67220,G2022,2022-09-30,5000.0,10000.0,,,,,2022
+SA11C,C00372532,A915CF10F4579441FBDC,PAC,American Dental Political Action Committee (ADPAC),,,,,,1111 14th Street NW,Suite 1100,Washington,DC,20005,G2022,2022-08-01,5000.0,10000.0,,,,,2022
+SA11C,C00372532,AD4B467566BB9418FA88,PAC,National Apartment Association (NAA PAC),,,,,,4300 Wilson Boulevard,Suite 400,Arlington,VA,22203,G2022,2022-09-30,5000.0,10000.0,,,,,2022
+SA11C,C00372532,AB1D04828BF35499EB9B,PAC,EMERGEORTHO P.A. POLITICAL ACTION COMMITTEE,,,,,,120 William Penn Plz,,Durham,NC,27704,G2022,2022-08-15,5000.0,5000.0,,,,,2022
+SA11C,C00372532,A427206A85367408CB3C,PAC,American Optometric Association PAC,,,,,,1505 Prince Street,Suite 300,Alexandria,VA,22314,G2022,2022-09-30,5000.0,10000.0,,,,,2022
+SA11C,C00372532,A107C83061DAE46C4958,PAC,AMERICAN ISRAEL PUBLIC AFFAIRS PAC,,,,,,251 H St NW,,Washington,DC,20001,G2022,2022-08-15,5000.0,7900.0,,,,,2022
+SA11C,C00372532,ADE793AEC94AF4A8B85F,PAC,American Medical Association Political Action Committee (AMPAC),,,,,,25 Massachusetts Ave NW,Ste 600,Washington,DC,20001,G2022,2022-09-15,5000.0,8500.0,,,,,2022
+SA11C,C00372532,A1884987C057644459A8,PAC,American Podiatric Medical Association Political Action Committee,,,,,,9312 Old Georgetown Road,,Bethesda,MD,20814,G2022,2022-08-15,5000.0,5000.0,,,,,2022
+SA11C,C00372532,A7E437B4A08194E4B99C,PAC,Society for Cardiovascular Angiography & Interventions Association PAC (SCAI PAC),,,,,,1100 17th Street NW,Suite #400,Washington,DC,20036,G2022,2022-09-15,5000.0,5000.0,,,,,2022
+SA11C,C00372532,AE5A86697EE9B46CD8FA,PAC,"Texas Farm Bureau AGFUND, Inc. PAC",,,,,,PO Box 2689,,Waco,TX,76702,G2022,2022-09-30,4800.0,9615.97,,,,,2022
+SA11C,C00372532,AA618543F110040FABB6,PAC,Realtors Political Action Committee (RPAC),,,,,,430 North Michigan Avenue,,Chicago,IL,60611,G2022,2022-07-18,4000.0,8000.0,,,,,2022
+SA11C,C00372532,A2C9A1D44441C4B6D87F,PAC,Build PAC of the National Association of Home Builders,,,,,,1201 15th Street NW,,Washington,DC,20005,G2022,2022-09-15,3500.0,6000.0,,,,,2022
+SA11C,C00372532,A7237403AB7FD483DBE7,PAC,Edwards Lifesciences PAC,,,,,,1 Edwards Way,,Irvine,CA,92614,G2022,2022-09-01,3000.0,5000.0,,,,,2022
+SA11AI,C00372532,ADAD434DE3EF2443E850,IND,,Morrisey,Denise,,,,201 Hemlock Drive,,White Sulphur Spri,WV,24986,G2022,2022-07-21,2900.0,2900.0,Capitol Counsel,Consultant,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A886C8AA020A14D99B72,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-05,2900.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A96EE5363D54C49BBA16,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-07,2900.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A3193399ED13F4CDCB84,IND,,Bruggeman,Adam,,,,37 La Escalera,,San Antonio,TX,78261,G2022,2022-09-07,2900.0,5800.0,Self,Orthopedic Surgeon,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A0C7EC294607D4E4EB1E,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-21,2900.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A841B2D8C636940E7B06,IND,,Blankenship,Cynthia,,,,116 Glade Road,,Colleyville,TX,76034,G2022,2022-07-05,2900.0,5800.0,Bank Of The West,Banker,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A27C3B00381594A7BA4B,IND,,Filosa,Lou,,,,21123 Prestancia Drive,,Mokena,IL,60448,G2022,2022-09-12,2532.0,2557.0,Eti,Bus owner,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A5403A71213044012AFC,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,2532.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,A5FE0452D6AC84D29860,PAC,BLUE AND GOLD FUND,,,,,,138 Conant St,Ste 201,Beverly,MA,01915,G2022,2022-09-30,2500.0,2500.0,,,,,2022
+SA11C,C00372532,A3EFC2BF083874FB2A43,PAC,The Society of Thoracic Surgeons (STS PAC),,,,,,20 F Street NW,Suite 310 C,Washington,DC,20001,G2022,2022-09-23,2500.0,5000.0,,,,,2022
+SA11C,C00372532,A44592DA2B2C44AA68EE,PAC,Alston Bird PAC,,,,,,950 F St NW,,Washington,DC,20004,G2022,2022-09-30,2500.0,2500.0,,,,,2022
+SA11C,C00372532,A75CAFB837954413992D,PAC,NATIONAL ASSOCIATION OF LETTER CARRIERS PAC,,,,,,100 Indiana Ave NW,,Washington,DC,20001,G2022,2022-09-30,2500.0,5000.0,,,,,2022
+SA11C,C00372532,A1DBFFCE03404429DB21,PAC,Premier Employees Civic Action Fund,,,,,,444 N Capitol St NW,Ste 625,Washington,DC,20001,G2022,2022-09-30,2500.0,2500.0,,,,,2022
+SA11C,C00372532,AB63191EC1A384B34A80,PAC,"Genentech, Inc. Political Action Committee (GenenPAC)",,,,,,1 DNA Way,,South San Francisc,CA,94080,G2022,2022-07-06,2500.0,5000.0,,,,,2022
+SA11C,C00372532,A99727B5787644DD2992,PAC,Sempra Energy Employees Political Action Committee,,,,,,488 8th Ave,,San Diego,CA,92101,G2022,2022-09-23,2500.0,2500.0,,,,,2022
+SA11C,C00372532,A442CC13021124609A7A,PAC,Healthcare Distribution Alliance PAC,,,,,,901 N Glebe Rd,Ste 1000,Arlington,VA,22203,G2022,2022-07-19,2500.0,2500.0,,,,,2022
+SA11C,C00372532,A7261A97A91CF4EEBAFB,PAC,The National Rural Electric Cooperative Association Action Committee for Rural Electrification(ACRE),,,,,,4301 Wilson Boulevard,,Arlington,VA,22203,G2022,2022-08-24,2500.0,7500.0,,,,,2022
+SA11C,C00372532,A504E7140697A44CCBD4,PAC,The Blue Cross and Blue Shield (BluePAC),,,,,,1310 G St NW,Frnt 12,Washington,DC,20005,G2022,2022-09-15,2500.0,2500.0,,,,,2022
+SA11AI,C00372532,A0D5535F0FC37477BA81,IND,,Young,Jennifer,B.,,,4042 Seminary Road,,Alexandria,VA,22304,G2022,2022-07-18,2500.0,2500.0,"Tarplin, Downs & Young, LLC",Partner/Co-Founder,,,2022
+SA11C,C00372532,A1EF9E5406F3B4ADDA86,PAC,Associated Builders and Contractors (ABC PAC),,,,,,440 First Street NW,2nd Floor,Washington,DC,20001,G2022,2022-08-15,2500.0,2500.0,,,,,2022
+SA11C,C00372532,AC853D7BF258B4F6BACC,PAC,The National Rural Electric Cooperative Association Action Committee for Rural Electrification(ACRE),,,,,,4301 Wilson Boulevard,,Arlington,VA,22203,G2022,2022-09-28,2500.0,10000.0,,,,,2022
+SA11C,C00372532,AAB9C33B52E7B436CA62,PAC,Abbott Laboratories Employee Political Action Committee (AEPAC),,,,,,100 Abbott Park Road,,Abbott Park,IL,60064,G2022,2022-09-15,2500.0,5000.0,,,,,2022
+SA11C,C00372532,AC476574041964E9B953,PAC,Eli Lilly and Company Political Action Committee,,,,,,Lilly Corporate Center,,Indianapolis,IN,46285,G2022,2022-08-15,2500.0,2500.0,,,,,2022
+SA11C,C00372532,A223B85AAD83A428D872,PAC,CHENIERE ENEGRY PAC,,,,,,138 Conant St,Ste 201,Beverly,MA,01915,G2022,2022-09-30,2500.0,2500.0,,,,,2022
+SA11C,C00372532,A28A4FDEB98E4487C9EB,PAC,Sanofi-Aventis US Inc. Employees' Political Action Committee,,,,,,55 Corporate Drive,,Bridgewater,NJ,08807,G2022,2022-08-15,2500.0,3500.0,,,,,2022
+SA11C,C00372532,A4FAA8EE9EA2A496A823,PAC,National Emergency Medicine PAC / American College Of Emergency Physicians,,,,,,4950 W Royal Ln,,Irving,TX,75063,G2022,2022-07-01,2500.0,7500.0,,,,,2022
+SA11C,C00372532,AC5954ECCB80343C6A8B,PAC,Metropolitan Anesthesia Consultants PAC,,,,,,3300 Oak Lawn Ave,Ste 200,Dallas,TX,75219,G2022,2022-09-15,2500.0,10000.0,,,,,2022
+SA11C,C00372532,A94B6F8AF42CA455BA0D,CCM,Byron Donalds For Congress,,,,,,138 Conant St,Ste 201,Beverly,MA,01915,G2022,2022-09-30,2000.0,2000.0,,,,,2022
+SA11AI,C00372532,A11FCFAE797B7427F97A,IND,,MADISON,RONALD,,,,5022 117th St,,Lubbock,TX,79424,G2022,2022-09-23,2000.0,2000.0,Calvert Home Healthcare,Owner,,,2022
+SA11C,C00372532,A530A49DBE3284BB99F1,PAC,Comcast Corporation & NBCUNIVERSAL Political Action Committee,,,,,,1701 John F Kennedy Blvd,,Philadelphia,PA,19103,G2022,2022-09-30,2000.0,7000.0,,,,,2022
+SA11C,C00372532,A084071FEE2FA4C7AB62,PAC,"Molina Healthcare, Inc. Political Action Committee",,,,,,200 Oceangate,Suite 100,Long Beach,CA,90802,G2022,2022-08-15,2000.0,2000.0,,,,,2022
+SA11C,C00372532,A11255ECBE37E4C0A94D,PAC,"DaVita, Inc. Political Action Committee",,,,,,3225 32nd Avenue S,,Auburn,WA,98001,G2022,2022-08-15,2000.0,2000.0,,,,,2022
+SA11C,C00372532,AB20A502A08474DCA856,PAC,"Aflac, Inc. PAC (AflacPAC)",,,,,,1932 Wynnton Road,,Columbus,GA,31999,G2022,2022-09-30,2000.0,2000.0,,,,,2022
+SA11C,C00372532,A5E7328A5C9824AB982E,PAC,The Procter & Gamble Company Good Government Fund (P&G GGF),,,,,,One Procter & Gamble Plaza,,Cincinnati,OH,45202,G2022,2022-09-28,2000.0,2000.0,,,,,2022
+SA11C,C00372532,A46A7239D890C4B6E9BD,PAC,"T-MOBILE US, INC. POLITICAL ACTION COMMITTEE (T-PAC)",,,,,,601 Pennsylvania Ave NW,Ste 800,Washington,DC,20004,G2022,2022-08-15,2000.0,2000.0,,,,,2022
+SA11C,C00372532,A6D87A7F67F9C45D9B39,PAC,Vistra Employee PAC Of Vistra Corp.,,,,,,6555 Sierra Dr,2n-36f,Irving,TX,75039,G2022,2022-09-23,2000.0,4000.0,,,,,2022
+SA11AI,C00372532,A4D2DB1B657E2481FA0C,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-19,1500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,A256A3EC8AF9D4154B71,PAC,American Bankers Association PAC (BankPAC),,,,,,1120 Connecticut Avenue NW,Suite 851,Washington,DC,20036,G2022,2022-09-23,1500.0,2500.0,,,,,2022
+SA11C,C00372532,AE40954473AE345CEA93,PAC,US Oncology Inc. Network PAC,,,,,,10101 Woodloch Forest Dr,,The Woodlands,TX,77380,G2022,2022-09-23,1500.0,6500.0,,,,,2022
+SA11C,C00372532,A6CA79AEB61C44F029CD,PAC,Fluor Corporation Political Action Committee,,,,,,403 E Capitol St SE,,Washington,DC,20003,G2022,2022-09-30,1500.0,1500.0,,,,,2022
+SA11C,C00372532,ACA91F8197F764D31A35,PAC,"Zeneca, Inc. Political Action Committee (AZ PAC)",,,,,,701 Pennsylvania Ave NW,Ste 500,Washington,DC,20004,G2022,2022-09-28,1500.0,6500.0,,,,,2022
+SA11AI,C00372532,A433F89BCD50B4492B28,IND,,Billingsley,John,B.,,,"17300 North Dallas Parkway, Suite",,Dallas,TX,75248,G2022,2022-09-19,1500.0,1500.0,Tri Global Energy,Energy Exec,,Earmarked (Non-Directed) through WinRed,2022
+SA11C,C00372532,AC2ABC9E994F4447988F,PAC,PATH PAC,,,,,,1250 I St NW,,Washington,DC,20005,G2022,2022-09-23,1500.0,1500.0,,,,,2022
+SA11C,C00372532,A1CF7726989524651B77,PAC,"Visa, Inc. Political Action Committee",,,,,,325 7th Street NW,Suite 800,Washington,DC,20004,G2022,2022-08-24,1000.0,1000.0,,,,,2022
+SA11AI,C00372532,A400C33A3A453488CBD9,IND,,Carr,Julie,Hershey,,,1735 Fairview Avenue,,McLean,VA,22101,G2022,2022-09-30,1000.0,1000.0,Kountoupes Denham,Govt Relations Specialist,,,2022
+SA11AI,C00372532,ACD47E88B91BE4468B24,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-15,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A4F99EED118384B1F8CC,IND,,Pickering,Elise,,,,3721 Taft Ave,,Alexandria,VA,22304,G2022,2022-09-30,1000.0,1750.0,Mehlman Castagnetti Rosen  Thomas,Lobbyist,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC66A372CBA4049A7926,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,A2B7938F973814FC3857,PAC,ROCHE DIAGNOSTICS CORPORATION PAC,,,,,,150 Clove Rd,Ste 8,Little Falls,NJ,07424,G2022,2022-09-15,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A8B397012B38040AD857,PAC,Employees Of Raytheon Technologies Corporation PAC,,,,,,1000 Wilson Blvd,Ste 2300,Arlington,VA,22209,G2022,2022-08-15,1000.0,6000.0,,,,,2022
+SA11C,C00372532,A11A5757BDF934F08B84,PAC,Pharmaceutical Research & Manufacturers of America Better Government Committee,,,,,,950 F St NW,Ste 300,Washington,DC,20004,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A160A595ECA89412FA75,PAC,National Association Of Health Underwriters PAC (Hupac),,,,,,1212 New York Ave NW,Ste 1100,Washington,DC,20005,G2022,2022-09-23,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A0CC487E4636C41AFA83,PAC,Republican Main Street Partnership PAC,,,,,,1300 Pennsylvania Ave NW,Ste 190,Washington,DC,20004,G2022,2022-09-15,1000.0,5000.0,,,,,2022
+SA11C,C00372532,A2677682AAC2148849DA,PAC,United States Telecom Association Political Action Committee (TELECOMPAC),,,,,,601 New Jersey Ave NW,Ste 600,Washington,DC,20001,G2022,2022-09-28,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A2C40905B0491446088B,PAC,Novartis Corporation Political Action Committee,,,,,,701 Pennsylvania Ave NW,Ste 725,Washington,DC,20004,G2022,2022-08-24,1000.0,1000.0,,,,,2022
+SA11C,C00372532,AA08633BF32CA4696A6D,PAC,Merck Employees Political Action Committee (Merck PAC),,,,,,601 Pennsylvania Avenue NW,North Building Suite 1200,Washington,DC,20004,G2022,2022-08-24,1000.0,2000.0,,,,,2022
+SA11C,C00372532,A9C0DB4CA880A4B65951,PAC,"Verizon Communications, Inc. Good Government Club (VERIZON PAC)",,,,,,1300 I Street NW,4th Floor,Washington,DC,20005,G2022,2022-08-15,1000.0,2000.0,,,,,2022
+SA11C,C00372532,AF54BCAF22C2E498A8E8,PAC,"Verizon Communications, Inc. Good Government Club (VERIZON PAC)",,,,,,1300 I Street NW,4th Floor,Washington,DC,20005,G2022,2022-08-15,1000.0,2000.0,,,,,2022
+SA11C,C00372532,A768262A5B7F84092BAB,PAC,Philips North America LLC Political Action Committee,,,,,,1050 K Street NW,Suite 900,Washington,DC,20001,G2022,2022-09-28,1000.0,5000.0,,,,,2022
+SA11AI,C00372532,A32695B12AC1244D1B56,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-06,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,A6C21F2FBEA7B4FE3A46,PAC,American Veterinary Medical Association Political Action Committee (AVMA PAC),,,,,,1910 Sunderland Place NW,,Washington,DC,20036,G2022,2022-09-28,1000.0,1000.0,,,,,2022
+SA11C,C00372532,AA4E7B2255A2B4408900,PAC,"COOK GROUP, INC PAC",,,,,,PO Box 6924,,Arlington,VA,22206,G2022,2022-09-28,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A3A00A9306217443FACC,PAC,American Ambulance Association Federal PAC (AMBU PAC),,,,,,8400 Westpark Drive,Floor 2,McLean,VA,22102,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11C,C00372532,AA34EAA54D97043FA893,PAC,"T-MOBILE US, INC. POLITICAL ACTION COMMITTEE (T-PAC)",,,,,,601 Pennsylvania Ave NW,Ste 800,Washington,DC,20004,G2022,2022-09-23,1000.0,3000.0,,,,,2022
+SA11C,C00372532,AB80907FA27E7444D895,PAC,Hanger Inc PAC,,,,,,10910 Domain Drive,Suite 300,Austin,TX,78758,G2022,2022-09-30,1000.0,2000.0,,,,,2022
+SA11AI,C00372532,A518614ADA8524D2EA8C,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-27,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,A3A2E500E49294B55930,PAC,AMERICAN FINANCIAL SERVICES ASSOCIATION PAC,,,,,,919 18th St NW,,Washington,DC,20006,G2022,2022-08-15,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A310604A8D1E14049BC1,PAC,Biotechnology Industry Organization PAC (BIO PAC),,,,,,1201 Maryland Avenue SW,Suite 900,Washington,DC,20024,G2022,2022-08-01,1000.0,1000.0,,,,,2022
+SA11AI,C00372532,A4DE4D16DB04B492D889,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A7546FD89A61C430EBC6,IND,,Trysla,Timothy,,,,4503 Hawthorne St NW,,Alexandria,DC,20016,G2022,2022-09-28,1000.0,1000.0,Alston  Bird,ATTORNEY,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A6B4FBA607A3E4406B52,IND,,Paluskiewicz,James,,,,"2 I Street Southeast, Apt 431",,Washington,DC,20003,G2022,2022-09-28,1000.0,1000.0,Alston  Bird,Senior Policy Advisor,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A74DC53EB0CC842B6BAC,IND,,Reid,Randi,,,,1631 Hobart Street Northwest,,Washington,DC,20009,G2022,2022-09-27,1000.0,1500.0,Kountoupes Denham Carr  Reid,Lobbyist,,Earmarked (Non-Directed) through WinRed,2022
+SA11C,C00372532,A682D230E155D43B8863,PAC,"Lincare Holdings, Inc. Employee Action Fund",,,,,,19387 US Highway 19 N,,Clearwater,FL,33764,G2022,2022-07-06,1000.0,1000.0,,,,,2022
+SA11C,C00372532,AFB293527AFFC466A83B,PAC,Alzheimers Impact Movement PAC,,,,,,225 North Michigan Avenue,Suite 1700,Chicago,IL,60601,G2022,2022-08-15,1000.0,1000.0,,,,,2022
+SA11AI,C00372532,AC0B1C833E1E7414899D,IND,,Trett,J. Russell,,,,2204 North Garden Ridge Boulevard,,Lewisville,TX,75077,G2022,2022-09-06,1000.0,1000.0,Trett Enterprises DBA Eagle Point Mari,OWNER,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A491B2D2C48ED4DF78BA,IND,,CRAIG,CORBIN,,,,,,,,,G2022,2022-09-23,1000.0,1000.0,Information Requested,Information Requested,,,2022
+SA11AI,C00372532,AD558D99082784237B60,IND,,Gill,John,,,,4153 Hyer #7,,Dallas,TX,75205,G2022,2022-09-15,1000.0,1000.0,Self,Orthopedic Surgeon,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,ACB2C74715DA74BEFB6D,IND,,CRAIG,CASEY,,,,3581 Happy Ln,,Las Vegas,NV,89120,G2022,2022-09-23,1000.0,1000.0,Giving Home Healthcare,Manager,,,2022
+SA11C,C00372532,AA2467EF0815B4CC1BEE,PAC,Apache Corporation Political Action Committe (Apachepac),,,,,,2000 Post Oak Blvd,Ste 100,Houston,TX,77056,G2022,2022-09-23,1000.0,2000.0,,,,,2022
+SA11AI,C00372532,AF16480665FC64CA99F3,IND,,Pigman,Reed,W.,,,200 Texas Way,,Fort Worth,TX,76106,G2022,2022-09-26,1000.0,4900.0,Texas Jet,BUSINESS OWNER,,Earmarked (Non-Directed) through WinRed,2022
+SA11C,C00372532,A29E1816E3A724A81938,PAC,Medical Professional Liability Association PAC (Mpl Pac),,,,,,2275 Research Blvd,Ste 250,Rockville,MD,20850,G2022,2022-09-28,1000.0,1000.0,,,,,2022
+SA11C,C00372532,AFB222F13BE9E4F0EA7E,PAC,"Pfizer, Inc. PAC",,,,,,235 E 42nd St,,New York,NY,10017,G2022,2022-07-01,1000.0,3500.0,,,,,2022
+SA11C,C00372532,A993343C03B1E4D6FA21,PAC,Ford Motor Company Civic Action Fund,,,,,,PO Box 75000,,Detroit,MI,48275,G2022,2022-08-24,1000.0,2000.0,,,,,2022
+SA11AI,C00372532,AE854AB60FE6443BE985,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A27B249ECCE72401D9DE,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-26,1000.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,AAE444C56C3DA418F886,PAC,TENASKA EMPLOYEES PAC,,,,,,14302 Fnb Pkwy,,Omaha,NE,68154,G2022,2022-07-18,1000.0,2500.0,,,,,2022
+SA11C,C00372532,A85B616A5AFEE44BD862,PAC,Gilead Sciences INC Healthcare Policy PAC,,,,,,333 Lakeside Dr,,Foster City,CA,94404,G2022,2022-09-01,1000.0,1000.0,,,,,2022
+SA11C,C00372532,A8B5F7ED0966E46DE831,PAC,Johnson & Johnson Political Action Committee,,,,,,1 Johnson & Johnson Plaza,,New Brunswick,NJ,08933,G2022,2022-09-30,1000.0,8500.0,,,,,2022
+SA11AI,C00372532,A602E21B9A6994F1281E,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-29,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A69678CBBFFB64BB89E2,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-04,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A02EB7B496D0043C7A08,IND,,Hillert,Bobby,,,,2903 Bridle Path,,Austin,TX,78703,G2022,2022-09-12,500.0,750.0,Texas Orthopaedic Association,Executive Director,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A90085ADAA41745828EA,IND,,Ellis,Henry,,,,2945 Stanford Avenue,,Dallas,TX,75225,G2022,2022-08-22,500.0,500.0,Scottish Rite for Children,Surgeon,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,ABE913534A45E49BD923,IND,,McSweeney,John,,,,8000 Seville Dr,,North Richland Hil,TX,76182,G2022,2022-09-12,500.0,500.0,McSweeney Commercial,OWNER,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A95016098BC2E49839AD,IND,,Brock,Gary,,,,4008 Inverness Dr.,,Houston,TX,77019,G2022,2022-09-13,500.0,500.0,Gary Brock MD PA,Physician,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A30F685BCE0BE4E5680C,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-22,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AD07BA5B159BA420EBD1,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-23,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A87A6EAB5EE464326BAF,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-24,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AAD4DC9D054D84B99B66,IND,,Panchbhavi,Vinod,,,,1165 Rymers Switch Lane,,Friendswood,TX,77546,G2022,2022-09-13,500.0,500.0,UTMB,Orthopaedic Surgeon,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A5375C6BD7471489AB36,IND,,Hinchey,John,,,,409 Normandy Ave,,San Antonio,TX,78209,G2022,2022-08-24,500.0,500.0,Self,Orthopedist,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC9820CFF88164E69BFF,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-13,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A1C1274B2A24B4728B3F,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A1A09F9EFF652491FA2C,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ABB964943942B4D79B5E,IND,,Farrington,Joyce,,,,38 Alder Circle,,Council Bluffs,IA,51503,G2022,2022-09-02,500.0,500.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AD048100A0F5E402E880,IND,,Courtney,Paul,,,,1005 Millbrook Rd,,Berwyn,PA,19312,G2022,2022-08-23,500.0,500.0,Rothman Institute,Orthopaedic Surgeon,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A7C999A869FA243D2B7C,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-22,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A823B2ED1EEE142F8A72,IND,,Cinotti,Donald,,,,466 Ridgewood Avenue,,Glen Ridge,NJ,07028,G2022,2022-08-04,500.0,600.0,Self,Ophthalmologist,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AF5C4FE4A459143E6A66,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-13,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AD6B4F2403DFD4C839EB,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-27,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AF321A2ADBAFC48AD9DC,IND,,Lucas,Jane,,,,950 F Street Northwest,,Washington,DC,20004,G2022,2022-09-28,500.0,500.0,Alston  Bird,ATTORNEY,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A4596474784A74B31AC8,IND,,Edattel,Paul,,,,3124 Holmes Run Road,,Falls Church,VA,22042,G2022,2022-09-30,500.0,2000.0,Todd Strategy LLC,Consultant,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A4C3F2E9F869443B1AA3,IND,,Baker,Brett,,,,3424 South Wakefield Street,,Arlington,VA,22206,G2022,2022-09-27,500.0,500.0,The Nickles Group,Consultant,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A9218B62CAA044BACB5F,IND,,Nelson,Sean,,,,267 Oak Hill Drive,,Trophy Club,TX,76262,G2022,2022-09-22,500.0,500.0,ACCO Brands,HR Professional,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A30DA51886E684468BAD,IND,,murry,emily,,,,1212 New York Ave NW Ste 750,,Washington,DC,20005,G2022,2022-07-29,500.0,500.0,"Tarplin, Downs  Young",Government Affairs,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AE581A7CD3DAD4AFD87F,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ADFFEA7BFC9454A959E2,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A397049A58AE0454EBA0,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11C,C00372532,A4990BD2EB0AF4B538CE,PAC,American Association of Orthopaedic Surgeons (AAOS) Political Action Committee,,,,,,317 Massachusetts Avenue NE,Suite 100,Washington,DC,20002,G2022,2022-09-30,500.0,10000.0,,,,,2022
+SA11AI,C00372532,AFB708E4F905A4A679DD,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-27,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AEE8D714336EB4337865,IND,,Sexton,Taylor,,,,1806 Kalorama Rd NW,,Washington,DC,20009,G2022,2022-09-30,250.0,250.0,Todd Strategy Group,Government Relations,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,ABE41B1B9A87D4DFF90B,IND,,Buckalew,Adam,,,,62 15th Street Northeast,,Washington,DC,20002,G2022,2022-09-30,250.0,250.0,alb solutions,Consultant,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A8E198B21C0D8415E92A,IND,,Choi,Ruby,,,,PO Box 4877,,Foster City,CA,94404,G2022,2022-09-30,250.0,250.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A61D6EBDEC0704049969,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A1439508848B34A2BBD5,IND,,Sweeny,Christopher,Moore,,,3922 Dunnel Ln,,Kensington,MD,20895,G2022,2022-09-30,250.0,250.0,Information Requested,Information Requested,,,2022
+SA11AI,C00372532,AE70CB937799747C499C,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A84ADAF38E8224834814,IND,,Kantius,Mikhail,,,,79-18 164th Street,,Jamaica,NY,11432,G2022,2022-09-02,250.0,250.0,Sdl,Physian,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A7AA12DCAC5B54302975,IND,,Meek,Dena,,,,560 Diamond Point,,Oak Point,TX,75068,G2022,2022-09-02,250.0,3250.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC7876E79F9A140C79A2,IND,,Najar,Barbara,,,,803 Central Avenue,,Tularosa,NM,88352,G2022,2022-09-02,250.0,250.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC63BF79AFA1644CDA02,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A558F5B18DDCA40989E5,IND,,Michaels,John,,,,PO Box 507,,Argyle,TX,76226,G2022,2022-09-05,250.0,550.0,Self,HOME BUILDER,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A97281372BFE947D699C,IND,,GreeneCosta,Carol,,,,4912 Madison Ave,,Trumbull,CT,06611,G2022,2022-09-07,250.0,500.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A4771EB07603F45ECA31,IND,,Hendricks,Donald,,,,PO Box 91535,,Albuquerque,NM,87199,G2022,2022-09-02,250.0,250.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AEEED75D8BACF49459EC,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A7A1833FBB7B8411E8A4,IND,,GreeneCosta,Carol,,,,4912 Madison Ave,,Trumbull,CT,06611,G2022,2022-09-02,250.0,250.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A5F353074AE0E435D830,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A8A7C332806904FD58D6,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AF5E5F3E08DE6486D8DA,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A46E8D429254341CAAE5,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AFD050C5CC8EE4D40BCF,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AED684778BDF74533BB6,IND,,Frist,John,,,,146 Ensworth Ave,,Nashville,TN,37205,G2022,2022-09-02,250.0,250.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A40005FD890E44AC8B49,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A2DD185C755E34C449C3,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-05,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ADB1B7ED981A4475BA1D,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-07,250.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AA36926CAB7AA4DE5974,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-30,250.0,1073.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A7E3327B5BD76487090F,IND,,Pivalizza,Evan,,,,4510 Weston Drive,,Fulshear,TX,77441,G2022,2022-09-27,250.0,500.0,McGovern medical school at UTHealth,Anesthesiologist,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC14E0406CB6F4229B2A,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-30,200.0,1073.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A69BCF65401544A00A00,IND,,Scott,Timothy,L.,,,4421 Tanqueray Pl,,Fort Worth,TX,76116,G2022,2022-09-23,200.0,400.0,Retired,RETIRED,,,2022
+SA11AI,C00372532,A1E8A6BBCBD544D1EAF0,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,200.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A6AD49396E9204D709EF,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,130.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AE1008675BE794D86A34,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-30,130.0,1073.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A0FF9475CCC2B486B971,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,130.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A70C005E5A9314044BCD,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-30,130.0,1073.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,ADB4AA3227881446D9A6,IND,,Schouweiler,Jeanette,,,,2109 Turnberry Lane,,Fort Wayne,IN,46814,G2022,2022-09-12,100.0,230.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A0C0DCB00CC08488FB08,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-09,100.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A6DECF6CF99AC48A3950,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,100.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ACF5431373C71486EB8A,IND,,Smith,Bruce,,,,2987 See Cyn Rd,,San Luis Obispo,CA,93405,G2022,2022-09-28,100.0,350.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AB970BA1A23B84E1DA84,IND,,Smith,Bruce,,,,2987 See Cyn Rd,,San Luis Obispo,CA,93405,G2022,2022-09-28,100.0,350.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A20C737334F3246D6A09,IND,,Noell,Kent,C.,,,26 Royal Oaks Circle,,denton,TX,76201,G2022,2022-07-28,100.0,2100.0,Denton Chirporactic,CHIROPRACTOR,,Earmarked (Non-Directed) through Anedot,2022
+SA11AI,C00372532,A4522F4D4B0514A14B17,IND,,Noell,Kent,C.,,,26 Royal Oaks Circle,,denton,TX,76201,G2022,2022-08-28,100.0,2200.0,Denton Chirporactic,CHIROPRACTOR,,Earmarked (Non-Directed) through Anedot,2022
+SA11AI,C00372532,AEBB3B26E75CF4F3BB76,IND,,Noell,Kent,C.,,,26 Royal Oaks Circle,,denton,TX,76201,G2022,2022-09-28,100.0,2300.0,Denton Chirporactic,CHIROPRACTOR,,,2022
+SA11AI,C00372532,A562B7AEC9FDE465590A,ORG,Anedot,,,,,,10156 Perkins Road,Suite 217F,Baton Rouge,LA,70810,G2022,2022-07-28,100.0,354.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AB4CFF6F637E04458914,ORG,Anedot,,,,,,10156 Perkins Road,Suite 217F,Baton Rouge,LA,70810,G2022,2022-08-28,100.0,354.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A5289504E9825440881D,IND,,Gibb,Joan,,,,570 Ocean Drive,,North Palm Beach,FL,33408,G2022,2022-09-09,100.0,205.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A6D73AA732B5942BCBC8,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,100.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A1D9CED32023C48CFAF3,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,100.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A5B388FD3850C425485E,ORG,Anedot,,,,,,10156 Perkins Road,Suite 217F,Baton Rouge,LA,70810,G2022,2022-08-28,77.0,354.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ACD9B2DBEC1714E4E9B3,ORG,Anedot,,,,,,10156 Perkins Road,Suite 217F,Baton Rouge,LA,70810,G2022,2022-07-28,77.0,354.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A4AA5413D2D3D47FBAF1,IND,,Shelton,George,P.,,,4124 Kingsferry Drive,,Arlington,TX,76016,G2022,2022-09-28,77.0,1796.0,Retired,RETIRED,,,2022
+SA11AI,C00372532,A0AF42D170CFF435BB78,IND,,Shelton,George,P.,,,4124 Kingsferry Drive,,Arlington,TX,76016,G2022,2022-07-28,77.0,1642.0,Retired,RETIRED,,Earmarked (Non-Directed) through Anedot,2022
+SA11AI,C00372532,A5E21C376BF39410AAA6,IND,,Shelton,George,P.,,,4124 Kingsferry Drive,,Arlington,TX,76016,G2022,2022-08-28,77.0,1719.0,Retired,RETIRED,,Earmarked (Non-Directed) through Anedot,2022
+SA11AI,C00372532,ADFEF3B9E069D4869B5B,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-30,60.0,1073.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,ACB356F0F7226444DA5F,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,60.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A0D9075BD603D433598B,IND,,Smith,Bruce,,,,2987 See Cyn Rd,,San Luis Obispo,CA,93405,G2022,2022-09-28,50.0,350.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A42F0AD5F9BAC488CAAD,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-28,50.0,228.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AE5F9C278470B469FBF5,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ABF221315778743BA867,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AF9980EFA8C304886966,IND,,Schouweiler,Jeanette,,,,2109 Turnberry Lane,,Fort Wayne,IN,46814,G2022,2022-09-12,50.0,230.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AD27E6F3B27044D668F9,IND,,Harris,Carolyn,L.,,,6130 Indian Paint Road,,Aubrey,TX,76227,G2022,2022-09-11,50.0,720.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AF41D3C33C75B4FA187B,IND,,Schouweiler,Jeanette,,,,2109 Turnberry Lane,,Fort Wayne,IN,46814,G2022,2022-09-12,50.0,230.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AF6FBF2523BE54217B57,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AD15BBBE5964D4D2FB35,IND,,Gibb,Joan,,,,570 Ocean Drive,,North Palm Beach,FL,33408,G2022,2022-09-30,50.0,255.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AF6B565C12AC54A46B0A,IND,,Toland,Janice,H.,,,9700 Teakwood Ave,,Denton,TX,76207,G2022,2022-08-15,50.0,250.0,Retired,Retired,,,2022
+SA11AI,C00372532,ABCFC81D39E9F4CB5AAE,IND,,Harris,Carolyn,L.,,,6130 Indian Paint Road,,Aubrey,TX,76227,G2022,2022-08-11,50.0,670.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AA709B77F7D9E40CC9AF,IND,,Harris,Carolyn,L.,,,6130 Indian Paint Road,,Aubrey,TX,76227,G2022,2022-07-11,50.0,620.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A7C9C6D04A2614A3F9CD,IND,,Jendel,Mary Beth,,,,1100 Maxwell Road,,Haslet,TX,76052,G2022,2022-07-10,50.0,325.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A3317AD4A49CE4CDCAEE,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-11,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A7E408AD959494E5087E,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-11,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AD3555DB7913D439D8E8,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-10,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AEFDEADF021C1422DBB1,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A19B7F774B2FB4F4E9D1,IND,,Smith,Bruce,,,,2987 See Cyn Rd,,San Luis Obispo,CA,93405,G2022,2022-09-28,50.0,350.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A3775B89853AE45E7AC8,IND,,Smith,Bruce,,,,2987 See Cyn Rd,,San Luis Obispo,CA,93405,G2022,2022-09-28,50.0,350.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A5956EC62F66440E99DD,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A0DC64043B5D04FBB8F5,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AEA28EA568760463F83A,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AF67C40EBAAE94EE590F,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-11,50.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A12864E251F94417894C,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-30,40.0,1073.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A9B89AF94745249B593F,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,40.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A64D611E1EF014DEF838,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-12,30.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A4665003DB0F2433C9CB,IND,,Schouweiler,Jeanette,,,,2109 Turnberry Lane,,Fort Wayne,IN,46814,G2022,2022-09-12,30.0,230.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A40B1564239984864B44,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,30.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AF6E0193A8CA147F5AD4,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-28,30.0,228.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC685D0C7591D43DBBFF,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-28,30.0,228.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AB9DA01519A4144B39E4,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,30.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ADFAE69FAA3FB4C48B80,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A1F2B23DB9C3E4E80B8D,IND,,Yerkie,Cynthia,,,,6416 Stewart Blvd,,The Colony,TX,75056,G2022,2022-08-16,25.0,395.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A555C4F88C4524B959DC,IND,,Rodriguez,Ramom,,,,3309 club view drive,,Argyle,TX,76226,G2022,2022-07-22,25.0,215.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A026F965350784B64897,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-16,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A209DBCC9C05A4399A23,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-16,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A0E3216348053451FA1B,IND,,Yerkie,Cynthia,,,,6416 Stewart Blvd,,The Colony,TX,75056,G2022,2022-07-16,25.0,370.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AC7506FDC2F9647E2B2D,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-29,25.0,263.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A292EEFEC6ABA4BABBFD,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-01,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A347CE2A5F57147DE8C8,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-29,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A050FA58CCB5E470794A,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-22,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A6AECEC69C35C491BAF8,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-16,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A414585DD5CF74848808,IND,,Baird,Carroll,,,,4900 Westridge Ave #12,,Fort Worth,TX,86116,G2022,2022-07-29,25.0,645.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A23CDF8E17CC24C21821,IND,,Rodriguez,Ramom,,,,3309 club view drive,,Argyle,TX,76226,G2022,2022-08-16,25.0,240.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A3327D99C02D44505B4A,IND,,Rodriguez,Ramom,,,,3309 club view drive,,Argyle,TX,76226,G2022,2022-09-16,25.0,265.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AEEDD2C95A29340C5AB2,IND,,Moll,Betty,,,,5120 Longmont Drive Unit 5,,Houston,TX,77056,G2022,2022-09-02,25.0,235.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A3D4185E0CECD40F6A0D,PAC,Right.us,,,,,,,,,,,G2022,2022-09-29,25.0,25.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AE3A2D42183174CF3B5E,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-16,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AA7AA37813C094603B3F,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-16,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A00CD1A6D9F45442C905,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-29,25.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ABD0F43F2BA3C4F61BAF,IND,,Montgomery,Walter,,,,15498 N 176th Lane,,Surprise,AZ,85388,G2022,2022-09-29,25.0,375.0,retired,RETIRED,,Earmarked (Non-Directed) through Right.us,2022
+SA11AI,C00372532,A1D2DFCFB6BB34140A9E,IND,,Moll,Betty,,,,5120 Longmont Drive Unit 5,,Houston,TX,77056,G2022,2022-09-01,25.0,205.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A2222D647B0FA4856915,IND,,Yerkie,Cynthia,,,,6416 Stewart Blvd,,The Colony,TX,75056,G2022,2022-09-16,25.0,420.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AA517D6E6AD24411E9BA,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,20.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AC0CDD503AD06460E945,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-28,20.0,228.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AF3648CA86BE84542AD7,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-28,10.0,228.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A2EA39B47200646A79FD,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-31,10.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A353C4CD465654828916,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,10.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A2F3350FC087D46728E2,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-08-09,10.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A2F2DD924FC8A4718B02,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-29,10.0,263.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A34A65B8C702F4A89BC2,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-29,10.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AF0D9C4B231EE47E3B80,IND,,Cox,Iris,,,,209 Sharon Rose Ct.,,Denton,TX,76210,G2022,2022-08-31,10.0,380.0,None,HOMEMAKER,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A04E4D226F96F4033A2C,IND,,Cox,Iris,,,,209 Sharon Rose Ct.,,Denton,TX,76210,G2022,2022-08-09,10.0,370.0,None,HOMEMAKER,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A1BC34D2F0F34426684A,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-28,8.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,ACB028719BC3C4A59B73,IND,,Johns,Susan,,,,5604 Doliver Drive,,Houston,TX,77056,G2022,2022-09-28,8.0,228.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A54880C3317954348849,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-01,5.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,A715D247886334A89855,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-02,5.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022
+SA11AI,C00372532,AC0A212AC2F914C69A1D,IND,,Jendel,Mary Beth,,,,1100 Maxwell Road,,Haslet,TX,76052,G2022,2022-07-10,5.0,325.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A3070248BE0404E16A0D,IND,,Moll,Betty,,,,5120 Longmont Drive Unit 5,,Houston,TX,77056,G2022,2022-09-02,5.0,235.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,A6716CA3EE1DE45ED810,IND,,Moll,Betty,,,,5120 Longmont Drive Unit 5,,Houston,TX,77056,G2022,2022-09-01,5.0,205.0,retired,RETIRED,,Earmarked (Non-Directed) through WinRed,2022
+SA11AI,C00372532,AE14E17A3681D4FA5809,ORG,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-07-10,5.0,300861.0,,,X,Total Earmarked through conduit. PAC limit not affected.,2022

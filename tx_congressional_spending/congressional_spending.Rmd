@@ -161,33 +161,33 @@ cuellar_2020 <- cuellar_2020 %>%
 cuellar_2018 <- cuellar_2018 %>%
   mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
 
-cisneros_master <- cisneros_master %>%
-  mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
+#cisneros_master <- cisneros_master %>%
+  #mutate(contribution_receipt_date = as.Date(contribution_receipt_date))
 ##pasting two cisneros datasets together to have a masterset of her donors from 2020 and 2022
-cisneros_master <- cisneros_2022 %>%
-  bind_rows(cisneros_2020)
+#cisneros_master <- cisneros_2022 %>%
+  #bind_rows(cisneros_2020)
 
-cisneros_master_distinct <- cisneros_master %>%
-  select(contributor_name, contributor_street_1) %>%
-  distinct()
+#cisneros_master_distinct <- cisneros_master %>%
+  #select(contributor_name, contributor_street_1) %>%
+  #distinct()
 
-cuellar_2022_disinct <- cuellar_2022 %>%
-  select(contributor_name, contributor_street_1)%>%
-  distinct()
+#cuellar_2022_disinct <- cuellar_2022 %>%
+  #select(contributor_name, contributor_street_1)%>%
+  #distinct()
 
 ##joining cisneros_master and cuellar_2022 data to see the amount of crossover between their donors
-cisneros_cuellar_joined_distinct <- cuellar_2022_disinct %>%
-  inner_join(cisneros_master_distinct, by=c("contributor_name", "contributor_street_1"))
+#cisneros_cuellar_joined_distinct <- cuellar_2022_disinct %>%
+  #inner_join(cisneros_master_distinct, by=c("contributor_name", "contributor_street_1"))
 
-cisneros_cuellar_joined <- cuellar_2022 %>%
-  inner_join(cisneros_cuellar_joined_distinct, by=c("contributor_name")) %>%
-  distinct()
+#cisneros_cuellar_joined <- cuellar_2022 %>%
+  #inner_join(cisneros_cuellar_joined_distinct, by=c("contributor_name")) %>%
+  #distinct()
 
-cisneros_cuellar_joined <- cisneros_cuellar_joined %>%
-  filter(contributor_name != "DEMOCRACY ENGINE LLC")
+#cisneros_cuellar_joined <- cisneros_cuellar_joined %>%
+  #filter(contributor_name != "DEMOCRACY ENGINE LLC")
 
-cisneros_cuellar_joined %>%
-  summarise(total = sum(contribution_receipt_amount))
+#cisneros_cuellar_joined %>%
+  #summarise(total = sum(contribution_receipt_amount))
 
 
 
@@ -205,7 +205,7 @@ cuellar_2018_ytd <- cuellar_2018 %>%
   filter(contribution_receipt_date <= '2018-09-01')
 
 cuellar_2018_ytd %>%
-  summarise(total = sum(contribution_receipt_amount)) %>%
+  summarise(total = sum(contribution_receipt_amount))
 
 ##at this point in 2018, Cuellar had raised $1,323,179	
 
@@ -218,6 +218,64 @@ cuellar_2022_ytd %>%
   summarise(total = sum(contribution_receipt_amount))
 
 #at this point this election cycle, Cuellar has rasied $4,887,547
+
+##Who is contributing to his campaign this year that didn't contribue in 2020?
+
+cuellar_2022_distinct <- cuellar_2022_ytd %>%
+  select(contributor_name, contributor_city) %>%
+  distinct()
+
+cuellar_2020_distinct <- cuellar_2020_ytd %>%
+  select(contributor_name, contributor_city) %>%
+  distinct()
+
+cuellar_2022_2020_anti <- cuellar_2022_distinct %>%
+  anti_join(cuellar_2020_distinct, by=c("contributor_name", "contributor_city"))
+
+##These are the folks who donated to Cuellar in 2022 that did not in 2020
+cuellar_new_2022_donos <- cuellar_2022_ytd %>%
+  inner_join(cuellar_2022_2020_anti, by=c("contributor_name", "contributor_city"))
+
+##what is the average dono of people who did not contribute to his campaign in 2020?
+cuellar_new_2022_donos %>%
+  summarise(avg = mean(contribution_receipt_amount))
+
+##the average amount of the new donos is $1,150.79
+
+##what people/pacs were donating the most?
+x <- cuellar_new_2022_donos %>%
+  group_by(contributor_name) %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+  arrange(desc(total))
+```
+How much has Cornyn sent to other committees?
+```{r}
+cornyn_spending <- read.csv("data/cornyn_victory.csv")
+
+#cleaning
+cornyn_spending <- cornyn_spending %>%
+  select(committee_name, recipient_name, recipient_state, disbursement_date, disbursement_amount, candidate_office, candidate_name, candidate_office_state, fec_election_type_desc) %>%
+  mutate(disbursement_date = as.Date(disbursement_date))
+
+#I want spending from 2022
+cornyn_spending_2022 <- cornyn_spending %>%
+  filter(disbursement_date >= as.Date('2022-01-01'))
+
+#How much has Cornyn spent on Senate candidates total in 2022?
+
+cornyn_spending_2022 %>%
+  summarise(total = sum(disbursement_amount)) 
+
+#he has spent $3,271,412
+#who did most of the money go to?
+ cornyn_spending_2022 %>%
+   group_by(recipient_name) %>%
+   summarise(total = sum(disbursement_amount)) %>%
+   arrange(desc(total))
+```
+Exploring Abbott donations
+```{r}
+abbott <- read.csv("data/abbott.csv")
 ```
 
 

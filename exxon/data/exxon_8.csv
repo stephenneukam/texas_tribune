@@ -1,0 +1,22 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,purpose,memo_code,memo_text,cycle
+SB23,C00121368,5225991,PTY,DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE,,,,,,120 MARYLAND AVE NE,,Washington,DC,20002,,2022-03-08,15000.0,Contributions to National Party Committees,,Contributions to National Party Committees,2022
+SB23,C00121368,5230422,PAC,Building Bridges PAC,,,,,,824 S MILLEDGE AVE STE 101,,Athens,GA,30605,,2022-03-08,5000.0,Contributions to Federal PACS,,Contributions to Federal PACS,2022
+SB23,C00121368,5230502,PAC,New Democrat Coalition Action Fund,,,,,,"700 13rh Street NW, Ste 600",,Washington,DC,20005,,2022-03-08,5000.0,Contributions to Federal PACS,,Contributions to Federal PACS,2022
+SB23,C00121368,5230450,PAC,THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE,,,,,,PO BOX 2485,,Springfield,VA,22152,,2022-03-08,5000.0,Contributions to Federal PACS,,Contributions to Federal PACS,2022
+SB23,C00121368,5230369,PAC,ACROSS THE AISLE PAC,,,,,,910 17TH ST NW STE 925,,Washington,DC,20006,,2022-03-08,5000.0,Contributions to Federal PACS,,Contributions to Federal PACS,2022
+SB23,C00121368,5230370,PAC,BLUE DOG POLITICAL ACTION COMMITTEE,,,,,,PO BOX 83142,,GAITHERSBURG,MD,20883,,2022-03-08,5000.0,Contributions to Federal PACS,,Contributions to Federal PACS,2022
+SB23,C00121368,5242390,CCM,RODNEY FOR CONGRESS,,,,,,P.O. BOX 344,,TAYLORVILLE,IL,62568,,2022-03-21,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5225988,CCM,BOOZMAN FOR ARKANSAS,,,,,,322 NORTH BLOOMINGTON SUITE A-B,,LOWELL,AR,72745,,2022-03-08,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5242395,CCM,Hunt For Congress,,,,,,1707 1/2 Post Oak Blvd. #525,,Houston,TX,77056,,2022-03-21,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5241347,CCM,SINEMA FOR ARIZONA,,,,,,PO BOX 7586,,PHOENIX,AZ,85011,,2022-03-16,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5242391,CCM,GARRET GRAVES FOR CONGRESS,,,,,,PO BOX 64845,,BATON ROUGE,LA,70896,,2022-03-21,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5242396,CCM,FRIENDS OF DAVE JOYCE,,,,,,9856 ARCHER LN,,Dublin,OH,43017,,2022-03-21,2000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5241346,CCM,JOHN KENNEDY FOR US,,,,,,2900 CLEARVIEW PKWY SUITE 206,,Metairie,LA,70006,,2022-03-16,1750.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5242389,CCM,"JIM BANKS FOR CONGRESS, INC.",,,,,,P.O. BOX 11431,,FORT WAYNE,IN,46858,,2022-03-21,1500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5225990,CCM,MIKE CRAPO FOR US SENATE,,,,,,P.O. BOX 1948,,BOISE,ID,83701,,2022-03-08,1250.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5225989,CCM,MIKE CRAPO FOR US SENATE,,,,,,P.O. BOX 1948,,BOISE,ID,83701,,2022-03-08,1250.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5242399,CCM,ROB WITTMAN FOR CONGRESS,,,,,,PO BOX 427,,Alexandria,VA,22313,,2022-03-21,1000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5242398,CCM,FRIENDS OF DAN KILDEE,,,,,,P.O. BOX 248,,Flint,MI,48501,,2022-03-21,1000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB29,C00121368,5236595,COM,Maynard for Senate,,,,,,15577 Rt. 152,,Genoa,WV,25517,,2022-03-11,500.0,Contributions to State Candidates,,Contributions to State Candidates,2022
+SB29,C00121368,5237188,COM,Kayla Kessinger for House of Delegates,,,,,,834 Main Street,,Mount Hope,WV,25880,,2022-03-11,-500.0,Void - Kayla Kessinger for House of Delegates,,Void - Kayla Kessinger for House of Delegates,2022
+SB29,C00121368,5237189,COM,Maynard for Senate,,,,,,15577 Rt. 152,,Genoa,WV,25517,,2022-03-11,-500.0,Void - Maynard for Senate,,Void - Maynard for Senate,2022

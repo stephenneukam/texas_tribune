@@ -1,0 +1,16 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,purpose,memo_code,memo_text,cycle
+SB23,C00121368,5470073,CCM,JASON SMITH FOR CONGRESS (P),,,,,,PO BOX 1324,,CAPE GIRARDEAU,MO,63702,,2022-10-03,3000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470069,CCM,MCHENRY FOR CONGRESS,,,,,,PO BOX 2165,,Gastonia,NC,28053,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470098,CCM,FRIENDS FOR GREGORY MEEKS,,,,,,153-01 JAMAICA AVE. SUITE 535,,Jamaica,NY,11432,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470089,CCM,GARRET GRAVES FOR CONGRESS,,,,,,PO BOX 64845,,BATON ROUGE,LA,70896,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470097,CCM,GRAVES FOR CONGRESS,,,,,,"2345 GRAND BLVD, SUITE 2400",,KANSAS CITY,MO,64108,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470100,CCM,ELISE FOR CONGRESS,,,,,,PO BOX 500,,Glens Falls,NY,12801,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470079,CCM,ARMSTRONG FOR CONGRESS,,,,,,1515 BURNT BOAT DRIVE Box 112,,BISMARCK,ND,58503,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470082,CCM,FRIENDS OF JIM CLYBURN,,,,,,PO BOX 12567,,COLUMBIA,SC,29211,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470084,CCM,JEFF DUNCAN FOR CONGRESS,,,,,,PO BOX 845,,LAURENS,SC,29360,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470086,CCM,DREW FERGUSON FOR CONGRESS INC.,,,,,,PO BOX 71067,,Newnan,GA,30271,,2022-10-03,2500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470078,CCM,PETE AGUILAR FOR CONGRESS,,,,,,PO BOX 10954,,San Bernardino,CA,92423,,2022-10-03,1500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470096,CCM,BICE FOR CONGRESS,,,,,,PO BOX 21315,,Oklahoma City,OK,73156,,2022-10-03,1500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5470093,CCM,LATTA FOR CONGRESS,,,,,,PO BOX 106,,BOWLING GREEN,OH,43402,,2022-10-03,1500.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB23,C00121368,5500513,CCM,AARON BEAN FOR CONGRESS,,,,,,2640A MITCHAM DRIVE,,TALLAHASSEE,FL,32308,,2022-10-18,1000.0,Contributions to Federal Candidates,,Contributions to Federal Candidates,2022
+SB21b,C00121368,5501073,ORG,BANK OF AMERICA,,,,,,P O BOX 4339,,HOUSTON,TX,77210,,2022-10-07,15.0,Bank Fee,,Bank Fee,2022

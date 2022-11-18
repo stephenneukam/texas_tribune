@@ -1,0 +1,231 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,purpose,memo_code,memo_text,cycle
+SB17,C00592659,500433845,ORG,AKPD Message & Media,,,,,,730 N Franklin St,Ste 404,Chicago,IL,606547205,,2022-10-18,200000.0,Media Services,,,2022
+SB17,C00592659,500433844,ORG,AKPD Message & Media,,,,,,730 N Franklin St,Ste 404,Chicago,IL,606547205,,2022-10-05,132000.0,Media Services,,,2022
+SB17,C00592659,500434658,ORG,Scale To Win,,,,,,13742 Harper St,,Santa Ana,CA,927031419,,2022-10-17,15890.43,Campaign Texting Program,X,*,2022
+SB21,C00592659,500433416,ORG,Hidalgo County Democratic Party,,,,,,PO Box 4585,,McAllen,TX,785024585,,2022-10-17,15000.0,Non-Federal Contribution,,,2022
+SB17,C00592659,500433853,ORG,Peter D Hart Research,,,,,,1724 Connecticut Ave NW,,Washington,DC,200091103,,2022-10-18,15000.0,Research,,,2022
+SB17,C00592659,500433413,ORG,Stones' Phones,,,,,,41750 Rancho Las Palmas Dr,Ste E,Rancho Mirage,CA,922705511,,2022-10-14,12849.5,Telephone Services,,,2022
+SB17,C00592659,500433405,ORG,Prism Solution Group,,,,,,5 Calle Jacaranda,,Brownsville,TX,785207409,,2022-10-07,10970.98,Campaign Literature and Yard Signs,,,2022
+SB17,C00592659,500433894,ORG,NGP VAN,,,,,,1101 15Th St NW,Ste 500,Washington,DC,200055006,,2022-10-04,6607.87,Software,X,*,2022
+SB17,C00592659,500433412,ORG,The Print Shop,,,,,,3906 S Jackson Rd,,Edinburg,TX,785396676,,2022-10-13,5196.0,Printing,,,2022
+SB17,C00592659,500433898,ORG,TRACTOR SUPPLY CO,,,,,,5401 Virginia Way,,Brentwood,TN,370277536,,2022-10-04,4621.0,Yard Sign Supplies,X,*,2022
+SB17,C00592659,500433645,IND,,Steele,Collin,,,,547 Heights Blvd,,Houston,TX,770072571,,2022-10-13,4500.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433377,ORG,Q'in It Up,,,,,,6421 N 10Th St,,Mcallen,TX,785040016,,2022-10-01,4370.59,Campaign Event Catering,,,2022
+SB17,C00592659,500433646,IND,,Carreon,Denisse,,,,5256 N FM 493,,Donna,TX,785375033,,2022-10-13,3480.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500434406,ORG,City Of McAllen,,,,,,1300 W Houston Ave,,McAllen,TX,785015002,,2022-10-04,3400.0,Campaign Event Expense,X,*,2022
+SB17,C00592659,500433401,ORG,AIM Media Texas,,,,,,1400 E Nolana Ave,,McAllen,TX,785046111,,2022-10-07,3150.0,Digital Media Services,,,2022
+SB17,C00592659,500433383,ORG,Southern Texas Strategies,,,,,,1918 Sparrow Ln,,Mission,TX,785724973,,2022-10-03,3000.0,Strategic Consulting Services,,,2022
+SB17,C00592659,500433649,IND,,Alejo,Sofia,,,,1618 Beech Ave,,Mercedes,TX,785708807,,2022-10-13,2400.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433656,IND,,Rodriguez,Alfredo,,,,1837 Taylor St,Apt A,Brownsville,TX,785206875,,2022-10-13,2400.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433647,IND,,Rodriguez,Joan,,,,1837 Taylor St,,Brownsville,TX,785206813,,2022-10-13,2400.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433651,IND,,Gomez,Rosalinda,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,2400.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433654,IND,,ORRIOLS,EDWIN,ESTEBAN,,,3026 Old Highway 77,Apt 907-3,Brownsville,TX,785208955,,2022-10-13,2400.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500430662,PAC,"DEMOCRACY ENGINE, INC., PAC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,2022-10-18,2366.4,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433658,IND,,Rivera,James,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,2334.8,Payroll and Taxes,X,*,2022
+SB17,C00592659,500434659,ORG,Exxon Mobil,,,,,,5959 Las Colinas Blvd,,Irving,TX,750394202,,2022-10-17,2150.93,Gas Cards,X,*,2022
+SB17,C00592659,500434630,ORG,Facebook,,,,,,1 Hacker Way,,San Francisco,CA,94133,,2022-10-17,1800.0,Digital Advertising,X,*,2022
+SB17,C00592659,500433380,ORG,LHM Employment Group,,,,,,PO Box 720761,,McAllen,TX,785040761,,2022-10-13,1563.41,Campaign Management and Field Staffing Services,,,2022
+SB17,C00592659,500433449,IND,,Ramirez,Gabriela,,,,5413 N 36Th St,,McAllen,TX,785045599,,2022-10-13,1560.0,Payroll and Taxes,X,*,2022
+SB20C,C00592659,500432476,PAC,UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC,,,,,,3 Park Pl,,Annapolis,MD,214013687,,2022-10-19,1500.0,Refund of 3/23 Contribution,,,2022
+SB17,C00592659,500433400,ORG,"Tenant Services, LLC",,,,,,121 N 10Th St,,McAllen,TX,785014688,,2022-10-06,1500.0,Rent,,,2022
+SB21,C00592659,500433414,ORG,Willacy County Democratic Party,,,,,,576 W Main Ave,,Raymondville,TX,785800317,,2022-10-16,1500.0,Non-Federal Contribution,,,2022
+SB17,C00592659,500433632,IND,,Ramirez,Gabriela,,,,5413 N 36Th St,,McAllen,TX,785045599,,2022-10-06,1200.0,Payroll and taxes,X,*,2022
+SB17,C00592659,500434439,ORG,Q'in It Up,,,,,,6421 N 10Th St,,Mcallen,TX,785040016,,2022-10-04,1177.22,Campaign Event Catering,X,*,2022
+SB17,C00592659,500433424,ORG,Trattoria Alberto,,,,,,506 8Th St SE,,Washington,DC,200032834,,2022-10-10,1174.44,Catering,X,*,2022
+SB17,C00592659,500433409,IND,,Hernandez,Enrique,,,,3501 Everglade Dr,,Weslaco,TX,785992797,,2022-10-10,1000.0,Field Program Services,,,2022
+SB17,C00592659,16369307I,IND,,Williams,Sidney,,,,27205 Brittany Ct,,Harlingen,TX,785522337,,2022-10-19,915.94,In-Kind: Event Catering,,* In-Kind Received,2022
+SB17,C00592659,500433411,IND,,Lane,Zachary,,,,422 6Th St NE,,Washington,DC,200025248,,2022-10-13,900.0,Travel Advance,,,2022
+SB17,C00592659,500433457,IND,,Martinez,Marsha,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,859.75,Payroll and Taxes,X,*,2022
+SB17,C00592659,500434398,ORG,Facebook,,,,,,1 Hacker Way,,San Francisco,CA,94133,,2022-10-04,832.34,Digital Advertising,X,*,2022
+SB17,C00592659,500433415,ORG,"Sandler, Reiff, Lamb, Rosenstein & Birkenstock, P.C.",,,,,,1090 Vermont Ave NW,Ste 750,Washington,DC,200054970,,2022-10-17,807.31,Legal Services,,,2022
+SB17,C00592659,500433423,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,2022-10-10,791.92,Travel,X,*,2022
+SB17,C00592659,500430663,PAC,"DEMOCRACY ENGINE, INC., PAC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,2022-10-18,740.0,Credit Card Processing Fee,,,2022
+SB17,C00592659,500434381,ORG,Office Depot,,,,,,5115 N 10Th St,,McAllen,TX,785042835,,2022-10-04,703.87,Office Supplies,X,*,2022
+SB17,C00592659,500433407,IND,,Cantu,Javier,,,,910 W Viggo St,,Hebbronville,TX,783612453,,2022-10-08,700.0,Campaign Yard Sign Installation,,,2022
+SB17,C00592659,500433664,IND,,Serna,Alyssa,Sema,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,684.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500434625,ORG,TRACTOR SUPPLY CO,,,,,,5401 Virginia Way,,Brentwood,TN,370277536,,2022-10-17,624.66,Yard Sign Supplies,X,*,2022
+SB17,C00592659,500434633,ORG,Office Depot,,,,,,5115 N 10Th St,,McAllen,TX,785042835,,2022-10-17,584.29,Office Supplies,X,*,2022
+SB17,C00592659,500434386,ORG,Sam's Club,,,,,,7601 N 10Th St,,McAllen,TX,785047737,,2022-10-04,577.82,Office Supplies,X,*,2022
+SB17,C00592659,500433662,IND,,Rivera,Juan,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,576.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500434431,ORG,District Taco,,,,,,656 Pennsylvania Ave SE,,Washington,DC,200034304,,2022-10-04,551.19,Catering,X,*,2022
+SB17,C00592659,500433612,IND,,Sanchez,Maria,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,521.9,Payroll and taxes,X,*,2022
+SB17,C00592659,500433621,IND,,Guerrero,Sheila,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,506.88,Payroll and taxes,X,*,2022
+SB17,C00592659,500433547,IND,,Pacheco,Ruth,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,504.9,Payroll and Taxes,X,*,2022
+SB21,C00592659,500433399,ORG,Queen City Four H,,,,,,10448 Mile 1 1/2 W,,Mercedes,TX,785709390,,2022-10-06,500.0,Non-Federal Contribution,,,2022
+SB21,C00592659,500433402,ORG,Red Mass Committee,,,,,,1218 E Jefferson St,,Brownsville,TX,785205833,,2022-10-11,500.0,Non-Federal Contribution,,,2022
+SB17,C00592659,500433506,IND,,Aranda,Deyanira,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,499.46,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433505,IND,,Alejos,Luis,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,494.34,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433551,IND,,Rodriguez,Sonia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,484.11,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433608,IND,,Alejos,Luis,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,479.82,Payroll and taxes,X,*,2022
+SB17,C00592659,500427404,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-06,475.87,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433508,IND,,Balwin,Robert,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,460.35,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433535,IND,,Hernandez,Claudia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,451.11,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433543,IND,,Martinez,Carlos,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,448.31,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433616,IND,,Dorado,Resendo,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,433.29,Payroll and taxes,X,*,2022
+SB17,C00592659,500434380,ORG,La Pampa,,,,,,3230 Pablo Kisel Blvd,Ste F102,Brownsville,TX,785260047,,2022-10-04,423.15,Catering,X,*,2022
+SB17,C00592659,500433600,IND,,Aranda,Deyanira,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,419.93,Payroll and taxes,X,*,2022
+SB17,C00592659,500433510,IND,,Benavides,Norma,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,417.78,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433585,IND,,Cantu,Noelia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,414.98,Payroll and taxes,X,*,2022
+SB17,C00592659,500433511,IND,,Benavides,Mercedes,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,414.32,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433381,ORG,LHM Employment Group,,,,,,PO Box 720761,,McAllen,TX,785040761,,2022-10-06,409.37,Campaign Management and Field Staffing Services,,,2022
+SB17,C00592659,500433598,IND,,Dorado,Brenda,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,405.9,Payroll and taxes,X,*,2022
+SB17,C00592659,500433555,IND,,Sanchez,Maria,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,402.77,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433534,IND,,Guerrero,Sheila,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,401.78,Payroll and Taxes,X,*,2022
+SB17,C00592659,500427410,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-10,395.95,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433387,ORG,Southern Texas Strategies,,,,,,1918 Sparrow Ln,,Mission,TX,785724973,,2022-10-14,382.91,Mileage Reimbursement,,,2022
+SB17,C00592659,500434638,ORG,4Imprint,,,,,,101 Commerce St,,Oshkosh,WI,549014864,,2022-10-17,382.33,Printing,X,*,2022
+SB17,C00592659,500434639,ORG,Hotels.Com,,,,,,13505 Bus Hwy,83,Alice,TX,78332,,2022-10-17,365.72,Lodging,X,*,2022
+SB17,C00592659,500433631,IND,,Ramirez,Gabriela,,,,5413 N 36Th St,,McAllen,TX,785045599,,2022-10-06,360.0,Payroll and taxes,X,*,2022
+SB17,C00592659,500433596,IND,,Dorado,Beatriz,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,357.06,Payroll and taxes,X,*,2022
+SB17,C00592659,500433584,IND,,Gomez,Nancy,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,356.9,Payroll and taxes,X,*,2022
+SB17,C00592659,500433392,IND,,Alejo,Sofia,,,,1618 Beech Ave,,Mercedes,TX,785708807,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433390,IND,,Carreon,Denisse,,,,5256 N FM 493,,Donna,TX,785375033,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433389,IND,,Steele,Collin,,,,547 Heights Blvd,,Houston,TX,770072571,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433394,IND,,Rodriguez,Alfredo,,,,1837 Taylor St,Apt A,Brownsville,TX,785206875,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433397,IND,,Serna,Alyssa,Sema,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433395,IND,,Ramirez,Gabriela,,,,5413 N 36Th St,,McAllen,TX,785045599,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433391,IND,,Rodriguez,Joan,,,,1837 Taylor St,,Brownsville,TX,785206813,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433393,IND,,ORRIOLS,EDWIN,ESTEBAN,,,3026 Old Highway 77,Apt 907-3,Brownsville,TX,785208955,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433396,IND,,Rivera,Juan,A,,Jr,1702 Morgan Blvd,Apt B,Harlingen,TX,785503621,,2022-10-05,350.0,Healthcare Stipend,,,2022
+SB17,C00592659,500433622,IND,,Rodriguez,Sonia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,348.15,Payroll and taxes,X,*,2022
+SB17,C00592659,500433533,IND,,Gonzalez,Rosa,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,334.62,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433577,IND,,Jewell,Hunter,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,332.64,Payroll and taxes,X,*,2022
+SB17,C00592659,500434640,ORG,Sam's Club,,,,,,7601 N 10Th St,,McAllen,TX,785047737,,2022-10-17,331.2,Office Supplies,X,*,2022
+SB17,C00592659,500433618,IND,,Pacheco,Ruth,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,330.5,Payroll and taxes,X,*,2022
+SB17,C00592659,500433527,IND,,Dorado,Brenda,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,326.37,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433525,IND,,Dorado,Resendo,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,325.05,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433523,IND,,Dorado,Beatriz,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,324.23,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433408,IND,,Rodriguez,Alfredo,,,,1837 Taylor St,Apt A,Brownsville,TX,785206875,,2022-10-10,319.92,Mileage Reimbursement,,,2022
+SB17,C00592659,500433587,IND,,Mendez,Rodolfa,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,307.56,Payroll and taxes,X,*,2022
+SB17,C00592659,500433520,IND,,De Alba,Jonathan,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,300.63,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433589,IND,,Garcia,Eimy,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,300.3,Payroll and taxes,X,*,2022
+SB17,C00592659,500433404,IND,,Abrego,Rosalinda,,,,35134 FM 1577,,San Benito,TX,785866914,,2022-10-08,300.0,Fundraising Event Expense,,,2022
+SB17,C00592659,500433849,ORG,Citi Business Card,,,,,,PO Box 6062,,Sioux Falls,SD,571176062,,2022-10-04,297.38,Credit Card Payment,,,2022
+SB17,C00592659,500433398,IND,,Alejo,Sofia,,,,1618 Beech Ave,,Mercedes,TX,785708807,,2022-10-05,297.25,Mileage Reimbursement,,,2022
+SB17,C00592659,500433388,IND,,Carreon,Denisse,,,,5256 N FM 493,,Donna,TX,785375033,,2022-10-03,295.54,Mileage Reimbursement,,,2022
+SB17,C00592659,500433530,IND,,Garcia,Sayra,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,283.8,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433604,IND,,De Alba,Jonathan,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,282.98,Payroll and taxes,X,*,2022
+SB17,C00592659,500433574,IND,,Cantu,Arlett,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,275.72,Payroll and taxes,X,*,2022
+SB17,C00592659,500433850,ORG,Citi Business Card,,,,,,PO Box 6062,,Sioux Falls,SD,571176062,,2022-10-17,273.17,Credit Card Payment,,,2022
+SB17,C00592659,500433514,IND,,Cantu,Noelia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,267.63,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433559,IND,,Tovar,Michelle,,,,7620 Magnolia Cir,,Edinburg,TX,785425504,,2022-10-13,259.71,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433586,IND,,Benavides,Norma,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,259.22,Payroll and taxes,X,*,2022
+SB17,C00592659,500433544,IND,,Mendez,Rodolfa,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,258.23,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433590,IND,,Gonzalez,Rosa,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,252.45,Payroll and taxes,X,*,2022
+SB17,C00592659,500434636,ORG,Paris Bakery,,,,,,3724 Pecan Blvd,Ste 5,McAllen,TX,785015073,,2022-10-17,250.61,Catering,X,*,2022
+SB17,C00592659,500434634,ORG,Q'in It Up,,,,,,6421 N 10Th St,,Mcallen,TX,785040016,,2022-10-17,250.0,Campaign Event Catering,X,*,2022
+SB17,C00592659,500433572,IND,,Silva,Alexis,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,244.53,Payroll and taxes,X,*,2022
+SB17,C00592659,500434635,ORG,Google,,,,,,345 Spear St,,San Francisco,CA,941051657,,2022-10-17,243.69,Software,X,*,2022
+SB17,C00592659,500434397,ORG,Tacos Yoya,,,,,,1928 N Conway Ave,Ste 2,Mission,TX,785722945,,2022-10-04,241.34,Event Catering,X,*,2022
+SB17,C00592659,500433594,IND,,Bouleris,Alexis,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,237.6,Payroll and taxes,X,*,2022
+SB17,C00592659,500433625,IND,,Prado,Rosalva,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,232.49,Payroll and taxes,X,*,2022
+SB17,C00592659,500434376,ORG,Google,,,,,,345 Spear St,,San Francisco,CA,941051657,,2022-10-04,228.37,Software,X,*,2022
+SB17,C00592659,500433611,IND,,Salazar,Maria,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,226.71,Payroll and taxes,X,*,2022
+SB17,C00592659,500433580,IND,,Trigo,Juliana,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,225.56,Payroll and taxes,X,*,2022
+SB17,C00592659,500433591,IND,,Barajas,Salvador,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,223.58,Payroll and taxes,X,*,2022
+SB17,C00592659,500433620,IND,,Garcia,Sayra,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,219.78,Payroll and taxes,X,*,2022
+SB17,C00592659,500433583,IND,,Benavides,Mercedes,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,219.45,Payroll and taxes,X,*,2022
+SB17,C00592659,500433560,IND,,Trigo,Juliana,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,219.29,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433562,IND,,Valdez,Cristian,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,217.14,Payroll and Taxes,X,*,2022
+SB17,C00592659,500432151,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-17,216.59,Credit Card Processing Fee,,,2022
+SB17,C00592659,500434641,ORG,Cantu's Special Events,,,,,,121 US-83 Bus,,Mcallen,TX,78503,,2022-10-17,216.5,Office Supplies,X,*,2022
+SB17,C00592659,500433539,IND,,Leyva,Juan,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,214.17,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433438,IND,,Santillana,Sonia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,212.03,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433561,IND,,Valdez,Usiel,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,211.86,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433615,IND,,Fernandez,Rebecca,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,207.24,Payroll and taxes,X,*,2022
+SB17,C00592659,500433593,IND,,De Leon,Alex,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,206.58,Payroll and taxes,X,*,2022
+SB17,C00592659,500433545,IND,,Moreno,Sarahi,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,204.93,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433515,IND,,Cantu,Arlett,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,204.44,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433581,IND,,Welaski,Kathi,LYNN,,,3505 Yucca Ave,,McAllen,TX,785045280,,2022-10-06,203.12,Payroll and taxes,X,*,2022
+SB17,C00592659,500433579,IND,,Mujica,Judith,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,202.95,Payroll and taxes,X,*,2022
+SB17,C00592659,500433623,IND,,Saldana,Mariana,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,201.96,Payroll and taxes,X,*,2022
+SB17,C00592659,500433624,IND,,Saldana,Yaqueline,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,201.96,Payroll and taxes,X,*,2022
+SB17,C00592659,500433382,ORG,Southern Texas Strategies,,,,,,1918 Sparrow Ln,,Mission,TX,785724973,,2022-10-03,196.54,Mileage Reimbursement,,,2022
+SB17,C00592659,500433576,IND,,Chavez,Emmanuel,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,187.61,Payroll and taxes,X,*,2022
+SB17,C00592659,500432150,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-19,187.54,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433432,IND,,Leal,Cesar,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,184.64,Payroll and Taxes,X,*,2022
+SB17,C00592659,500421326,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-03,177.41,Credit Card Processing Fee,,,2022
+SB17,C00592659,500431646,PAC,"DEMOCRACY ENGINE, INC., PAC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,2022-10-19,175.0,Credit Card Processing Fee,,,2022
+SB17,C00592659,500427513,PAC,"DEMOCRACY ENGINE, INC., PAC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,2022-10-13,174.3,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433605,IND,,Leyva,Juan,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,172.43,Payroll and taxes,X,*,2022
+SB17,C00592659,500433538,IND,,Jewell,Hunter,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,167.64,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433606,IND,,Dorado,Leonardo,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,167.64,Payroll and taxes,X,*,2022
+SB17,C00592659,500433668,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-14,166.16,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433522,IND,,Delgado,Diana,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,165.0,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433566,IND,,Zapata,Lidia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,164.67,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433434,IND,,Ventura,Luis Franco,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,164.18,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433529,IND,,Garcia,Eimy,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,162.2,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433546,IND,,Mujica,Judith,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,158.07,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433575,IND,,Martinez,Carlos,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,156.26,Payroll and taxes,X,*,2022
+SB17,C00592659,500433588,IND,,Lozano,Rosy,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,155.93,Payroll and taxes,X,*,2022
+SB17,C00592659,500433573,IND,,Ramirez,Amalia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,154.77,Payroll and taxes,X,*,2022
+SB17,C00592659,500433435,IND,,Fernandez,Rebecca,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,153.95,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433513,IND,,Cabrera,Mayra,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,151.64,Payroll and Taxes,X,*,2022
+SB17,C00592659,500431645,PAC,"DEMOCRACY ENGINE, INC., PAC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,2022-10-19,150.45,Credit Card Processing Fee,,,2022
+SB17,C00592659,500434637,ORG,Walmart,,,,,,4101 S McColl Rd,,Edinburg,TX,785398387,,2022-10-17,147.57,Office Supplies,X,*,2022
+SB17,C00592659,500433532,IND,,Gomez,Nancy,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,146.85,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433509,IND,,Barajas,Salvador,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,142.07,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433563,IND,,Vazquez,John Lee,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,137.45,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433641,IND,,Torres,Alfonso,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,135.14,Payroll and taxes,X,*,2022
+SB17,C00592659,500433603,IND,,Vazquez,John Lee,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,134.15,Payroll and taxes,X,*,2022
+SB17,C00592659,500433607,IND,,Zapata,Lidia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,133.65,Payroll and taxes,X,*,2022
+SB17,C00592659,500433548,IND,,Pruneda,Elizabeth,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,128.7,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433599,IND,,Leal,Cesar,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,127.55,Payroll and taxes,X,*,2022
+SB17,C00592659,500433614,IND,,Tovar,Michelle,,,,7620 Magnolia Cir,,Edinburg,TX,785425504,,2022-10-06,125.57,Payroll and taxes,X,*,2022
+SB17,C00592659,500434667,PAC,VOTESANE PAC,,,,,,PO Box 2713,,Alexandria,VA,223010713,,2022-10-06,125.0,Credit Card Processing Fee,,,2022
+SB17,C00592659,500434627,ORG,Starbucks,,,,,,PO Box 34067,,Seattle,WA,981241067,,2022-10-17,125.0,Catering,X,*,2022
+SB17,C00592659,500433557,IND,,Sepulveda,Arturo,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,124.58,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433526,IND,,Dorado,Leonardo,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,124.08,Payroll and Taxes,X,*,2022
+SB17,C00592659,500427412,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-12,119.52,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433549,IND,,Ramirez,Amalia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,118.14,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433521,IND,,Delgado,Ashley,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,116.33,Payroll and Taxes,X,*,2022
+SB17,C00592659,500427512,PAC,"DEMOCRACY ENGINE, INC., PAC",,,,,,850 Quincy St NW,Apt 402,Washington,DC,200115873,,2022-10-12,112.5,Credit Card Processing Fee,,,2022
+SB17,C00592659,500432152,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-18,111.38,Credit Card Processing Fee,,,2022
+SB17,C00592659,500434626,ORG,Spectrum,,,,,,14 Church Hill Rd,Ste B5,Newtown,CT,064701640,,2022-10-17,110.31,Telephones,X,*,2022
+SB17,C00592659,500434395,ORG,Spectrum,,,,,,14 Church Hill Rd,Ste B5,Newtown,CT,064701640,,2022-10-04,110.31,Telephones,X,*,2022
+SB17,C00592659,500434435,ORG,Uber,,,,,,182 Howard St,Ste 8,San Francisco,CA,941051611,,2022-10-04,101.97,Travel Expense,X,*,2022
+SB17,C00592659,500433516,IND,,Chavez,Emmanuel,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,101.81,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433602,IND,,Pruneda,Elizabeth,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,94.38,Payroll and taxes,X,*,2022
+SB17,C00592659,500433597,IND,,Jamie,Blanca,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,94.05,Payroll and taxes,X,*,2022
+SB17,C00592659,500433893,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,2022-10-04,89.82,Software,X,*,2022
+SB17,C00592659,500433553,IND,,Saldana,Mariana,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,87.12,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433613,IND,,Garcia,Mia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,86.63,Payroll and taxes,X,*,2022
+SB17,C00592659,500433442,IND,,Prado,Rosalva,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,84.98,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433537,IND,,Jamie,Blanca,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,83.49,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433619,IND,,Moreno,Sarahi,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,82.5,Payroll and taxes,X,*,2022
+SB17,C00592659,500433554,IND,,Saldana,Yaqueline,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,82.5,Payroll and Taxes,X,*,2022
+SB17,C00592659,500435016,ORG,Magic Valley Electric Company,,,,,,1311 S Cage Blvd,,Pharr,TX,785776227,,2022-10-13,81.8,Utilities,X,*,2022
+SB17,C00592659,500433592,IND,,Cabrera,Mayra,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,81.35,Payroll and taxes,X,*,2022
+SB17,C00592659,500433595,IND,,Delgado,Ashley,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,80.03,Payroll and taxes,X,*,2022
+SB17,C00592659,500433601,IND,,Delgado,Diana,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,79.53,Payroll and taxes,X,*,2022
+SB17,C00592659,500433610,IND,,Hernandez,Maria,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,77.88,Payroll and taxes,X,*,2022
+SB17,C00592659,500433629,IND,,Quintanilla,Lesly,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,76.23,Payroll and taxes,X,*,2022
+SB17,C00592659,500434410,ORG,MailChimp,,,,,,675 Ponce De Leon Ave NE,Ste 5000,Atlanta,GA,303082172,,2022-10-04,74.61,Software,X,*,2022
+SB17,C00592659,500433439,IND,,Garcia,Mia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,72.93,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433640,IND,,Martinez,Mary,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,71.78,Payroll and taxes,X,*,2022
+SB17,C00592659,500432153,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-19,71.68,Credit Card Processing Fee,,,2022
+SB17,C00592659,500433431,IND,,De Leon,Alex,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,71.45,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433443,IND,,Quintanilla,Lesly,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,66.83,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433609,IND,,Ventura,Luis Franco,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,65.18,Payroll and taxes,X,*,2022
+SB17,C00592659,500433524,IND,,Dorado,Beatriz,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,63.86,Payroll and Taxes,X,*,2022
+SB17,C00592659,500434433,ORG,Walmart,,,,,,4101 S McColl Rd,,Edinburg,TX,785398387,,2022-10-04,60.9,Office Supplies,X,*,2022
+SB17,C00592659,500434632,IND,,SARRAGE,VESTA,S,,,10601 N 10Th St,Lot 12,McAllen,TX,785049533,,2022-10-17,60.64,Storage,X,*,2022
+SB17,C00592659,500434383,IND,,SARRAGE,VESTA,S,,,10601 N 10Th St,Lot 12,McAllen,TX,785049533,,2022-10-04,60.64,Storage,X,*,2022
+SB17,C00592659,500433626,IND,,Sanchez,Carolina,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,59.53,Payroll and taxes,X,*,2022
+SB17,C00592659,500434643,ORG,Adobe,,,,,,345 Park Ave,,San Jose,CA,951102704,,2022-10-17,57.36,Software,X,*,2022
+SB17,C00592659,500433847,ORG,"Bank Of America, NA",,,,,,PO Box 25118,,Tampa,FL,336225118,,2022-10-13,55.41,Bank Fee,,,2022
+SB17,C00592659,500434624,ORG,Academy Sports,,,,,,500 N Jackson Rd,,Pharr,TX,785772109,,2022-10-17,54.1,Event Supplies,X,*,2022
+SB17,C00592659,500433552,IND,,Salazar,Maria,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-13,43.73,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433564,IND,,Welaski,Kathi,LYNN,,,3505 Yucca Ave,,McAllen,TX,785045280,,2022-10-13,42.9,Payroll and Taxes,X,*,2022
+SB17,C00592659,500433630,IND,,Dorado,David,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,42.08,Payroll and taxes,X,*,2022
+SB17,C00592659,500433628,IND,,Hernandez,Claudia,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,36.0,Payroll and taxes,X,*,2022
+SB17,C00592659,500427717,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-13,31.52,Credit Card Processing Fee,,,2022
+SB17,C00592659,500434657,ORG,Stripes,,,,,,4829 N 10Th St,,McAllen,TX,785042815,,2022-10-17,18.89,Travel Expense,X,*,2022
+SB17,C00592659,500433627,IND,,Balwin,Robert,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,16.5,Payroll and taxes,X,*,2022
+SB17,C00592659,500434393,ORG,Zoom.Com,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,2022-10-04,15.98,Software,X,*,2022
+SB17,C00592659,500434631,ORG,Zoom.Com,,,,,,55 Almaden Blvd,Fl 6,San Jose,CA,951131608,,2022-10-17,15.98,Software,X,*,2022
+SB17,C00592659,500434394,ORG,Dropbox,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,2022-10-04,12.78,Software,X,*,2022
+SB17,C00592659,500434628,ORG,Dropbox,,,,,,185 Berry St,Ste 400,San Francisco,CA,941071725,,2022-10-17,12.78,Software,X,*,2022
+SB17,C00592659,500433578,IND,,Garcia,Jorge,,,,PO Box 6270,,Brownsville,TX,785236270,,2022-10-06,5.45,Payroll and taxes,X,*,2022
+SB17,C00592659,500433846,ORG,"Bank Of America, NA",,,,,,PO Box 25118,,Tampa,FL,336225118,,2022-10-06,5.0,Bank Fee,,,2022
+SB17,C00592659,500433848,ORG,"Bank Of America, NA",,,,,,PO Box 25118,,Tampa,FL,336225118,,2022-10-19,5.0,Bank Fee,,,2022

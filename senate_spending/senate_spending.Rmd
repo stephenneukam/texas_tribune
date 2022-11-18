@@ -1,0 +1,409 @@
+---
+title: "senate_spending"
+output: html_document
+date: "2022-09-30"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#loading libraries
+library(tidyverse)
+library(janitor)
+library(readxl)
+```
+
+```{r}
+#loading in Senate candidate data
+demings <- read.csv("data/demings_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+fetterman <- read.csv("data/fetterman_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+kelly <- read.csv("data/kelly_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+masters <- read.csv("data/masters_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+oz <- read.csv("data/oz_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+rubio <- read.csv("data/rubio_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+ryan <- read.csv("data/ryan_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+vance <- read.csv("data/vance_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+walker <- read.csv("data/walker_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+warnock <- read.csv("data/warnock_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+laxalt <- read_csv("data/laxalt_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+masto <- read_csv("data/masto_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+barnes <- read_csv("data/barnes_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+beasley <- read_csv("data/beasley_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+budd <- read_csv("data/budd_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+masto <- read_csv("data/masto_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+johnson <- read_csv("data/johnson_texas.csv") %>%
+  select(committee_id:report_year, contributor_name:contributor_occupation, contribution_receipt_amount)
+
+###
+# Loading in statewide candidate data
+###
+dudding <- read_excel("data/dudding.xlsx", skip = 2) %>%
+  clean_names()
+garza <- read_excel("data/garza.xlsx", skip = 2) %>%
+  clean_names()
+hays <- read_excel("data/hays.xlsx", skip = 2) %>%
+  clean_names()
+kleberg <- read_excel("data/kleberg.xlsx", skip = 2) %>%
+  clean_names()
+collier <- read_excel("data/collier.xlsx", skip = 2) %>%
+  clean_names()
+chevalier_2018 <- read_excel("data/chevalier_2018.xlsx", skip = 2) %>%
+  clean_names()
+collier_2018 <- read_excel("data/collier_2018.xlsx", skip = 2) %>%
+  clean_names()
+nelson_2018 <- read_excel("data/nelson_2018.xlsx", skip = 2) %>%
+  clean_names()
+olson_2018 <- read_excel("data/olson_2018.xlsx", skip = 2) %>%
+  clean_names()
+suazo_2018 <- read_excel("data/suazo_2018.xlsx", skip = 2) %>%
+  clean_names()
+```
+Some intenese cleaning of the state datasets:
+```{r}
+dudding <- extract(dudding, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+dudding <- dudding %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Janet Dudding") %>%
+  mutate(year = "2022") %>%
+  mutate(position = "Comptroller")
+
+garza <- extract(garza, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+garza <- garza %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Rochelle Garza") %>%
+  mutate(year = "2022") %>%
+  mutate(position = "AG")
+
+hays <- extract(hays, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+hays <- hays %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Susan Hays") %>%
+  mutate(year = "2022") %>%
+  mutate(position = "Ag Commissioner")
+
+kleberg <- extract(kleberg, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+kleberg <- kleberg %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Jay Kleberg") %>%
+  mutate(year = "2022") %>%
+  mutate(position = "Land Comissioner")
+
+collier <- extract(collier, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+collier <- collier %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Mike Collier") %>%
+  mutate(year = "2022") %>%
+  mutate(position = "Lt. Governor")
+
+collier_2018 <- extract(collier_2018, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+collier_2018 <- collier_2018 %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Mike Collier 2018") %>%
+  mutate(year = "2018") %>%
+  mutate(position = "Lt. Governor")
+
+chevalier_2018 <- extract(chevalier_2018, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+chevalier_2018 <- chevalier_2018 %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Joi Chevalier") %>%
+  mutate(year = "2018") %>%
+  mutate(position = "Comptroller")
+
+nelson_2018 <- extract(nelson_2018, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+nelson_2018 <- nelson_2018 %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Justin Nelson") %>%
+  mutate(year = "2018") %>%
+  mutate(position = "AG")
+
+olson_2018 <- extract(olson_2018, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+olson_2018 <- olson_2018 %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Kim Olson") %>%
+  mutate(year = "2018") %>%
+  mutate(position = "Ag Commissioner")
+
+suazo_2018 <- extract(suazo_2018, contributor_name, c("first_name", "last_name"), "([^ ]+) (.*)")
+
+suazo_2018 <- suazo_2018 %>%
+  mutate(last_name = str_remove(last_name, ",")) %>%
+  mutate(last_name = str_remove(last_name, " ")) %>%
+  mutate(first_name = str_remove(first_name, " ")) %>%
+  mutate(contributor_name = paste0(last_name, ", ", first_name)) %>%
+  mutate(contributor_name = str_to_title(contributor_name)) %>%
+  mutate(city = str_to_title(city)) %>%
+  mutate(candidate = "Miguel Suazo") %>%
+  mutate(year = "2018") %>%
+  mutate(position = "Land Commissioner")
+```
+
+
+```{r}
+###
+# Joing the datasets together into a larger, master data set
+###
+master <- demings %>%
+  bind_rows(fetterman, kelly, masters, oz, rubio, ryan, vance, walker, warnock, vance, laxalt, masto, barnes, beasley, budd, johnson)
+
+###
+# Trying to figure out how many different committee names are in this dataset
+###
+master %>%
+  group_by(committee_name) %>%
+  count()
+
+###
+# Populating a column for each committee name
+###
+master <- master %>%
+  mutate(candidate = case_when(committee_name == "BLAKE MASTERS FOR SENATE" ~ "Blake Masters",
+         committee_name == "DOCTOR OZ FOR SENATE" ~ "Dr. Oz",
+         committee_name == "FETTERMAN FOR PA" ~ "John Fetterman",
+         committee_name == "MARCO RUBIO FOR SENATE" ~ "Marco Rubio",
+         committee_name == "MARK KELLY FOR SENATE" ~ "Mark Kelly",
+         committee_name == "OZ FOR PA SENATE REPUBLICAN NOMINEE FUND 2022" ~ "Dr. Oz",
+         committee_name == "TEAM HERSCHEL, INC" ~ "Herschel Walker",
+         committee_name == "TIM RYAN FOR OHIO" ~ "Tim Ryan",
+         committee_name == "VAL DEMINGS FOR U.S. SENATE" ~ "Val Demings",
+         committee_name == "WALKER FOR GA SENATE REPUBLICAN NOMINEE FUND 2022" ~ "Herschel Walker",
+         committee_name == "WARNOCK FOR GEORGIA" ~ "Raphael Warncok",
+         committee_name == "JD VANCE FOR SENATE INC." ~ "J.D. Vance",
+         committee_name == "CATHERINE CORTEZ MASTO FOR SENATE" ~ "Catherine Cortez Masto",
+         committee_name == "LAXALT FOR SENATE" ~ "Adam Laxalt",
+         committee_name == "BUDD FOR NC SENATE REPUBLICAN NOMINEE FUND 2022" ~ "Ted Budd",
+         committee_name == "TED BUDD FOR SENATE" ~ "Ted Budd",
+         committee_name == "CHERI BEASLEY FOR NORTH CAROLINA" ~ "Cheri Beasley",
+         committee_name == "MANDELA BARNES FOR WISCONSIN" ~ "Mandela Barnes",
+         committee_name == "RON JOHNSON FOR SENATE, INC." ~ "Ron Johnson"
+         ))
+
+###
+# Populating a column to tell me what party each candidate is in
+###
+master <- master %>%
+  mutate(party = case_when(candidate == "Raphael Warncok" ~ "D",
+                           candidate == "Val Demings" ~ "D",
+                           candidate == "Mark Kelly" ~ "D",
+                           candidate == "Tim Ryan" ~ "D",
+                           candidate == "John Fetterman" ~ "D",
+                           candidate == "Marco Rubio" ~ "R",
+                           candidate == "Herschel Walker" ~ "R",
+                           candidate == "Blake Masters" ~ "R",
+                           candidate == "J.D. Vance" ~ "R",
+                           candidate == "Dr. Oz" ~ "R",
+                           candidate == "Catherine Cortez Masto" ~ "D",
+                           candidate == "Adam Laxalt" ~ "R",
+                           candidate == "Ted Budd" ~ "R",
+                           candidate == "Cheri Beasley" ~ "D",
+                           candidate == "Mandela Barnes" ~ "D",
+                           candidate == "Ron Johnson" ~ "R"))
+
+###
+# What candidates raised the most from Texas donors this cycle?
+###
+candidate_totals <- master %>%
+  group_by(candidate) %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+  arrange(desc(total))
+
+###
+# What party got the most money from Texas donors?
+###
+party_breakdwon <- master %>%
+  group_by(party) %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+  arrange(desc(total))
+
+party_breakdwon
+
+master %>%
+  summarise(total = sum(contribution_receipt_amount))
+
+###
+# Which donors were the most frequent donors?
+###
+
+master %>%
+  group_by(contributor_name, candidate) %>%
+  count() %>%
+  arrange(desc(n))
+
+master %>%
+  group_by(contributor_name) %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+  arrange(desc(total))
+
+write_csv(candidate_totals, "candidate_totals.csv")
+
+city_party <- master %>%
+  group_by(contributor_city, party) %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+  pivot_wider(names_from = party, values_from = total) 
+
+city_party[is.na(city_party)] = 0
+
+city_party <- city_party %>%
+  mutate(total = sum(D+R)) %>%
+  arrange(desc(total))
+
+city_party <- head(city_party, 12)
+  
+  
+write_csv(city_party, "city_party.csv")
+
+master %>%
+  group_by(party) %>%
+  summarise(mean = mean(contribution_receipt_amount))
+
+texas_sen_money <- 4498232
+
+texas_sen_money - in_state_money
+
+master %>%
+  group_by(candidate) %>%
+  summarise(total = sum(contribution_receipt_amount)) %>%
+  arrange(desc(total))
+```
+Analysis of statewide candidates
+```{r}
+state_master <- dudding %>%
+  bind_rows(garza, hays, kleberg)
+
+state_master <- state_master %>%
+  mutate(in_state = case_when(state == "TX" ~ "Y",
+                              TRUE ~ "N"))
+
+state_master %>%
+  filter(in_state == "Y") %>%
+  summarise(total = sum(amount))
+
+###
+# In-state money
+###
+in_state_money <- 4410063
+
+candidate_by_state <- state_master %>%
+  group_by(candidate, in_state) %>%
+  summarise(total = sum(amount)) %>%
+  pivot_wider(names_from = candidate, values_from = total)
+
+state_master %>%
+  group_by(candidate) %>%
+  summarise(total = sum(amount))
+```
+Beto money
+```{r}
+beto <- read_excel("data/beto_tx.xlsx", skip = 2)
+
+beto %>%
+  summarise(total = sum(Amount))
+
+##$31,839,258
+```
+Putting state-wide candidates into a binded dataset
+```{r}
+statewide_master <- chevalier_2018 %>%
+  bind_rows(collier, collier_2018, dudding, garza, hays, kleberg, nelson_2018, olson_2018, suazo_2018)
+
+###
+# Need to clean the date column in this dataset
+###
+
+#statewide_master <- statewide_master %>%
+  #mutate(date = as.Date(date, format("%Y-%m-%d")))
+
+###
+# How much did Dems raise in 2022 as opposed to 2018?
+###
+statewide_master %>%
+  group_by(year) %>%
+  summarise(total = sum(amount))
+
+statewide_master %>%
+  group_by(candidate, year, position) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+statewide_master %>%
+  filter(position == "Lt. Governor") %>%
+  group_by(year) %>%
+  summarise(avg = mean(amount))
+
+```
+
+
+
+
+

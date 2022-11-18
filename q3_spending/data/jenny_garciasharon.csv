@@ -1,0 +1,6 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,aggregate_amount,employer,occupation,memo_code,memo_text,cycle
+SA11AI,C00740068,SA11AI.4891,IND,,Oberkampf,William,,,,5112 Hidden Springs Trail,,Georgetown,TX,78633,G2022,2022-08-23,500.0,500.0,Retired,Retired,,,2022
+SA11AI,C00740068,SA11AI.4846,IND,,Welsch,Linden,,,,10902 Plumewood Dr,,Austin ,TX,78750,G2022,2022-07-07,250.0,250.0,Retired,Retired,,,2022
+SA11D,C00740068,SA11D.4865,CAN,,Garcia Sharon,Jenny,,,,PO Box 340364,,Austin,TX,78734,G2022,2022-09-15,75.0,1725.0,Self,Self,,In-kind - ,2022
+SA11D,C00740068,SA11D.4864,CAN,,Garcia Sharon,Jenny,,,,PO Box 340364,,Austin,TX,78734,G2022,2022-08-15,75.0,1650.0,Self,Self,,In-kind - ,2022
+SA11D,C00740068,SA11D.4862,CAN,,Garcia Sharon,Jenny,,,,PO Box 340364,,Austin,TX,78734,G2022,2022-07-15,75.0,1575.0,Self,Self,,In-kind - ,2022

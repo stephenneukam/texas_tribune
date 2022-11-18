@@ -1,0 +1,52 @@
+```{r}
+###
+# Loading libraries
+###
+library(tidyverse)
+library(janitor)
+```
+Loading in data
+```{r}
+###
+# Loading in Exxon data
+###
+
+exxon_1 <- read_csv("data/exxon_1.csv") %>%
+  select(-zip_code)
+exxon_2 <- read_csv("data/exxon_2.csv") %>%
+  select(-zip_code)
+exxon_3 <- read_csv("data/exxon_3.csv") %>%
+  select(-zip_code)
+exxon_4 <- read_csv("data/exxon_4.csv") %>%
+  select(-zip_code)
+exxon_5 <- read_csv("data/exxon_5.csv") %>%
+  select(-zip_code)
+exxon_6 <- read_csv("data/exxon_6.csv") %>%
+  select(-zip_code)
+exxon_7 <- read_csv("data/exxon_7.csv") %>%
+  select(-zip_code)
+exxon_8 <- read_csv("data/exxon_8.csv") %>%
+  select(-zip_code)
+exxon_9 <- read_csv("data/exxon_9.csv") %>%
+  select(-zip_code)
+exxon_10 <- read_csv("data/exxon_10.csv") %>%
+  select(-zip_code)
+
+###
+# Binding these into one dataset
+###
+master <- exxon_1 %>%
+  bind_rows(exxon_2, exxon_3, exxon_4, exxon_5, exxon_6, exxon_7, exxon_8, exxon_9, exxon_10)
+
+###
+# some exploration
+###
+
+x <- master %>%
+  group_by(organization_name) %>%
+  summarise(total = sum(amount)) %>%
+  arrange(desc(total))
+
+```
+
+

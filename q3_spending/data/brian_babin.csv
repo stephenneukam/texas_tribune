@@ -1,0 +1,197 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,aggregate_amount,employer,occupation,memo_code,memo_text,cycle
+SA11C,C00553859,SA15197,PAC,Gulf States Toyota Inc. Federal PAC,,,,,,1375 Enclave Pkwy,,Houston,TX,77077,G2022,2022-09-01,5000.0,6000.0,,,,,2022
+SA11C,C00553859,SA15236,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-09-01,5000.0,11400.0,,,,,2022
+SA11C,C00553859,SA15199,PAC,"The Williams Companies, Inc. PAC",,,,,,1 Williams Ctr Ste 47,,Tulsa,OK,74172,G2022,2022-09-30,5000.0,5000.0,,,,,2022
+SA11C,C00553859,SA15377,PAC,Save America,,,,,,138 Conant St Ste 2,,Beverly,MA,01915,G2022,2022-07-15,5000.0,5000.0,,,,,2022
+SA11C,C00553859,SA15293,PAC,"Texas Farm Bureau AGFUND, Inc. (Federal)",,,,,,PO Box 2689,,Waco,TX,76702,G2022,2022-08-19,4800.0,9600.0,,,,,2022
+SA11C,C00553859,SA15205,PAC,American Chemistry Council PAC,,,,,,700 2nd St NE,,Washington,DC,20002,G2022,2022-09-30,3500.0,3500.0,,,,,2022
+SA11C,C00553859,SA15023,PAC,National Association of Realtors PAC,,,,,,430 N Michigan Ave,,Chicago,IL,60611,G2022,2022-07-23,3000.0,6000.0,,,,,2022
+SA11C,C00553859,SA14984,PAC,"The Greenbrier Companies, Inc. PAC",,,,,,1 Centerpointe Dr Ste 200,,Lake Oswego,OR,97035,G2022,2022-09-12,2900.0,2900.0,,,,,2022
+SA11AI,C00553859,SA15273,IND,,Peck,John,,Mr.,Jr.,5940 Watson Ave,,Dallas,TX,75225,G2022,2022-08-05,2900.0,2900.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA15036,IND,,Hernandez,Jorge,,Mr.,,2510 Blossom Bay Ct,,Houston,TX,77059,G2022,2022-09-15,2900.0,3900.0,Bastion Technologies Inc.,Engineer,,,2022
+SA11AI,C00553859,SA14954,IND,,Crenshaw,Gina,,Mrs.,,11976 Brooks Rd,,Beaumont,TX,77713,G2022,2022-07-06,2900.0,2900.0,For Heaven's Sake,Retail,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15275,IND,,Del Papa,Lawrence,J.,Mr.,Jr.,1220 Gulf Fwy,,Texas City,TX,77591,G2022,2022-09-30,2900.0,5800.0,Del Papa Distributing,Manager,,,2022
+SA11AI,C00553859,SA15348,IND,,Fuljenz,Karen,,Mrs.,,8255 White Rd,,Beaumont,TX,77706,G2022,2022-09-29,2900.0,2900.0,Homemaker,Homemaker,,,2022
+SA11AI,C00553859,SA15226,IND,,George,Michelle,,Mrs.,,20358 Whitewood Dr,,Spring,TX,77373,G2022,2022-09-01,2900.0,2900.0,Homemaker,Homemaker,,,2022
+SA11AI,C00553859,SA15250,IND,,Scott,William,F.,Mr.,,PO Box 1998,,Nederland,TX,77627,G2022,2022-08-05,2900.0,5800.0,Trans-Global Solutions Inc.,Executive,,,2022
+SA11AI,C00553859,SA15326,IND,,Arfeen,Qamar,U.,Dr.,,3406 College St,,Beaumont,TX,77701,G2022,2022-07-15,2900.0,3900.0,Harbor Healthcare System,CEO,,,2022
+SA11AI,C00553859,SA15222,IND,,George,Anthony,D.,Mr.,,6 E Sienna Pl,,The Woodlands,TX,77382,G2022,2022-09-01,2900.0,2900.0,Nautical Control Solutions,CEO,,,2022
+SA11AI,C00553859,SA15337-14954,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,2900.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15336,IND,,Fuljenz,Michael,Ray,Dr.,,8255 White Rd,,Beaumont,TX,77706,G2022,2022-07-06,2800.0,5800.0,Universal Coin & Bullion,President/Owner,,,2022
+SA11C,C00553859,SA15213,PAC,"Associated Builders & Contractors, Inc. PAC (Federal)",,,,,,440 1st St NW,,Washington,DC,20001,G2022,2022-07-22,2500.0,7500.0,,,,,2022
+SA11AI,C00553859,SA15350,IND,,Hebert,Michael,J.,Mr.,,55 Avenue Of The Oaks,,Beaumont,TX,77707,G2022,2022-07-08,2500.0,4500.0,TX Marine,Marine Sales,,,2022
+SA11AI,C00553859,SA15292,IND,,Smith,W.,Carroll,Mr.,,3940 Pasadena Fwy,,Pasadena,TX,77503,G2022,2022-09-30,2500.0,3500.0,Monument Chevrolet,Auto Retail,,,2022
+SA11C,C00553859,SA15214,PAC,American Medical Association (AM PAC),,,,,,25 Massachusetts Ave NW Ste 600,,Washington,DC,20001,G2022,2022-09-30,2500.0,5000.0,,,,,2022
+SA11C,C00553859,SA15218,PAC,Calpine Corporation PAC,,,,,,717 Texas St Ste 1000,,Houston,TX,77002,G2022,2022-07-22,2500.0,2500.0,,,,,2022
+SA11C,C00553859,SA15193,PAC,National Automobile Dealers Association PAC,,,,,,412 1st St SE,,Washington,DC,20003,G2022,2022-09-01,2500.0,7500.0,,,,,2022
+SA11C,C00553859,SA14988,PAC,Cheniere Energy Inc. PAC,,,,,,701 8th St NW Ste 500,,Washington,DC,20001,G2022,2022-09-16,2500.0,4500.0,,,,,2022
+SA11C,C00553859,SA15304,PAC,Denbury Resources Inc. PAC,,,,,,5320 Legacy Dr,,Plano,TX,75024,G2022,2022-07-15,2500.0,2500.0,,,,,2022
+SA11C,C00553859,SA15201,PAC,MDU Resources Group Good Government Fund,,,,,,PO Box 5650,,Bismarck,ND,58506,G2022,2022-09-30,2000.0,2000.0,,,,,2022
+SA11C,C00553859,SA14994,PAC,FedEx Corporation PAC (FEDEXPAC),,,,,,942 Shady Grove Rd S Fl 1,,Memphis,TN,38120,G2022,2022-09-16,2000.0,4000.0,,,,,2022
+SA11AI,C00553859,SA15235,IND,,Gibson,Gary,F.,Mr.,,5505 Briar Dr,,Houston,TX,77056,G2022,2022-09-28,2000.0,2000.0,CFO,Star Furniture,,,2022
+SA11C,C00553859,SA14992,PAC,American Bankers Association PAC (Bankpac),,,,,,1120 Connecticut Ave Nw Ste 600,,Washington,DC,20036,G2022,2022-09-16,1500.0,2500.0,,,,,2022
+SA11AI,C00553859,SA15372,IND,,Barnes,Brad,,Dr.,,315 Susan Dr,,Normal,IL,61761,G2022,2022-09-27,1137.0,1137.0,"Barnes Dental Associates, Inc",Dentist,,,2022
+SA11AI,C00553859,SA15332,IND,,Swinbank,Shirley,,,,2911 S Shepherd Dr,,Houston,TX,77098,G2022,2022-09-27,1025.01,1025.01,Demeris Catering,Caterer,,Food and Beverage at Event,2022
+SA11AI,C00553859,SA15337-14955,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11C,C00553859,SA15208,PAC,"Greenberg Traurig, P.A. PAC",,,,,,54 State St Fl 6,,Albany,NY,12207,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11AI,C00553859,SA15353,IND,,Vitale,Mark,,Dr.,,69 Highway 27,,Edison,NJ,08820,G2022,2022-09-23,1000.0,1000.0,Edison Dental Arts,Dentist,,,2022
+SA11C,C00553859,SA15266,PAC,"Clear Channel Outdoor, Inc. PAC",,,,,,20880 Stone Oak Pkwy,,San Antonio,TX,78258,G2022,2022-08-05,1000.0,1000.0,,,,,2022
+SA11AI,C00553859,SA15375,IND,,Oyster,Gary,,Dr.,,PO Box 189,,Franklinton,NC,27525,G2022,2022-09-27,1000.0,2000.0,self,Dentisy,,,2022
+SA11AI,C00553859,SA15360,IND,,Zust,Mark,,,,3 Whitmoor Ct,,Weldon Spring,MO,63304,G2022,2022-09-26,1000.0,1000.0,Family Dentistry of St. Peters,Dentist,,,2022
+SA11C,C00553859,SA15211,PAC,Anheuser-Busch PAC,,,,,,1201 K St Ste 730,,Sacramento,CA,95814,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11AI,C00553859,SA15034,IND,,Finkelman,Steven,J.,Mr.,,1403 Gillingham Ln Ste 200,,Sugar Land,TX,77478,G2022,2022-08-16,1000.0,1000.0,"Scope Imports, Inc.",CFO,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA14924,IND,,Ortego,Stephen,,,,5813 Monroe Hwy,,Ball,LA,71405,G2022,2022-09-27,1000.0,1000.0,self,Dentist,,,2022
+SA11AI,C00553859,SA15026,IND,,Ferguson,Jay,,Dr.,,5670 Inwood Dr,,Houston,TX,77056,G2022,2022-07-07,1000.0,2000.0,Requested,Requested,,,2022
+SA11AI,C00553859,SA15234,IND,,Doornbos,Billy,W.,Mr.,,1148 Helena Ave,,Nederland,TX,77627,G2022,2022-07-05,1000.0,2000.0,"C. Doornbos 4, LP/C. Doornbos Inc.",Partner/Investments,,,2022
+SA11AI,C00553859,SA15318,IND,,Dilick,Matthew,G.,Mr.,,1206 Greenbriar Dr,,Friendswood,TX,77546,G2022,2022-09-27,1000.0,1000.0,Commerce Equities,Commercial Devlopment,,,2022
+SA11AI,C00553859,SA15309,IND,,Bird,Gerald,,Dr.,,1983 Rockledge Dr,,Rockledge,FL,32955,G2022,2022-09-25,1000.0,1000.0,"Bird and Johnson, Oral Surgery",Oral Surgeon,,,2022
+SA11AI,C00553859,SA15314,IND,,Gesek,Daniel,,,Jr.,3829 Cricket Cove Rd E,,Jacksonville,FL,32224,G2022,2022-09-23,1000.0,1000.0,Self,Oral and maxillofacial surgeon,,,2022
+SA11AI,C00553859,SA15280,IND,,Webb,Wayne,W.,Mr.,,3910 W Pine Brook Way,,Houston,TX,77059,G2022,2022-09-30,1000.0,1500.0,Community Bank of Texas,EVP,,,2022
+SA11AI,C00553859,SA15276,IND,,Webb,Elizabeth,A.,Mrs.,,3910 W Pine Brook Way,,Houston,TX,77059,G2022,2022-09-01,1000.0,1000.0,n/a,n/a,,,2022
+SA11AI,C00553859,SA15216-15048,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-08-07,1000.0,3900.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15242-15046,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-08-14,1000.0,5400.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15239-15034,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-08-17,1000.0,6400.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15241,IND,,Swinbank,Joseph,B.,Mr.,,Po Box 19129,,Houston,TX,77224,G2022,2022-09-28,1000.0,1000.0,Sprint Companies,President and CEO,,,2022
+SA11AI,C00553859,SA15021,IND,,Skeele,Jon,S.,Mr.,,PO Box 1447,,Friendswood,TX,77549,G2022,2022-08-15,1000.0,1000.0,Bayway Homes,Manager,,,2022
+SA11C,C00553859,SA14990,PAC,Air Line Pilots Association Int'l PAC,,,,,,1626 Massachusetts Ave Nw,,Washington,DC,20036,G2022,2022-09-16,1000.0,5000.0,,,,,2022
+SA11AI,C00553859,SA15224,IND,,Neary,Matthew,,,,99 Summit Rd,,Riverside,CT,06878,G2022,2022-09-27,1000.0,1000.0,Madison Avenue Periodontics,dentist,,,2022
+SA11AI,C00553859,SA15357,IND,,Aguirre,Alejandro,,,,12545 42nd Pl N,,Minneapolis,MN,55442,G2022,2022-09-26,1000.0,1000.0,Retired,Retired,,,2022
+SA11C,C00553859,SA15231,PAC,Pillsbury Winthrop Shaw Pittman Llp PAC,,,,,,4 Embarcadero Ctr Fl 22,,San Francisco,CA,94111,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11AI,C00553859,SA15365,IND,,Wood,Susan,,,,10555 N Tatum Blvd Ste A102,,Paradise Valley,AZ,85253,G2022,2022-09-27,1000.0,1000.0,self,endodontist,,,2022
+SA11AI,C00553859,SA15046,IND,,Davis,Jordan,L.,Mr.,,1409 Post Oak Blvd Unit 1101,,Houston,TX,77056,G2022,2022-09-01,1000.0,1000.0,Self,Oil and Gas,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA14955,IND,,Crenshaw,Colby,,,,11976 Brooks Rd,,Beaumont,TX,77713,G2022,2022-07-06,1000.0,6800.0,The Modern Group,President,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15373,IND,,Shadeck,Clay,,,,16042 Mesa Verde Dr,,Houston,TX,77059,G2022,2022-07-11,1000.0,2100.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11C,C00553859,SA15233,PAC,AGC Political Action Committee,,,,,,2300 Wilson Blvd Ste 300,,Arlington,VA,22201,G2022,2022-09-01,1000.0,2000.0,,,,,2022
+SA11C,C00553859,SA15212,PAC,American Waterways Operators PAC,,,,,,801 N Quincy St Ste 200,,Arlington,VA,22203,G2022,2022-08-24,1000.0,3500.0,,,,,2022
+SA11C,C00553859,SA15270,PAC,Employees Of Raytheon Technologies Corporation PAC,,,,,,1000 Wilson Blvd Ste 23,,Arlington,VA,22209,G2022,2022-08-05,1000.0,4500.0,,,,,2022
+SA11C,C00553859,SA15195,PAC,NRA-Political Victory Fund,,,,,,11250 Waples Mill Rd,,Fairfax,VA,22030,G2022,2022-09-30,1000.0,1000.0,,,,,2022
+SA11AI,C00553859,SA15048,IND,,Caress,Rhona,,Mrs.,,1409 Post Oak Blvd Unit 2901,,Houston,TX,77056,G2022,2022-09-01,1000.0,1000.0,Housewife,Housewife,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA15031,IND,,Campo,Richard,,,,2930 Lazy Lane Blvd,,Houston,TX,77019,G2022,2022-08-24,1000.0,3900.0,Camden,executive,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15303,IND,,Harrison,Thomas,,Dr.,DDS,726 Cascet Ct,,Katy,TX,77450,G2022,2022-09-26,1000.0,2500.0,UTHealth Houston School of Dentistry,Clinical Assistant Professor,,,2022
+SA11AI,C00553859,SA15284,IND,,Anderson,Scott,,Mr.,,214 Millbrook St,,Houston,TX,77024,G2022,2022-08-15,1000.0,1000.0,Anderson Oil Ltd.,Executive,,,2022
+SA11AI,C00553859,SA15349,IND,,Cammarata,Rita,M.,Dr.,,2226 McClendon St,,Houston,TX,77030,G2022,2022-09-23,1000.0,2000.0,"Rita M Cammarata, DDS, PA",Pediatric Dentist,,,2022
+SA11AI,C00553859,SA14958,IND,,Schnautz,Danny,,,,PO Box 5808,,Pasadena,TX,77508,G2022,2022-07-06,1000.0,1750.0,Clark,Manager,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15209,IND,,Burrow,Michael,L.,Mr.,,7955 Shire Ln,,Beaumont,TX,77706,G2022,2022-08-24,1000.0,2000.0,"Burrow Global, LLC",Mech. Engineer,,,2022
+SA11AI,C00553859,SA15192,IND,,Read,Stephanie,,Mrs.,,PO Box 216,,Warren,TX,77664,G2022,2022-08-24,1000.0,1000.0,Read Logging,Secretary,,,2022
+SA11AI,C00553859,SA14980,IND,,Brown,Terry,,,,26002 Budde Rd,,Spring,TX,77380,G2022,2022-07-15,1000.0,2000.0,self,Ins Agent,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA14923,IND,,Hutchison,Bruce,,,,15010 Starry Night Ln,,Centreville,VA,20120,G2022,2022-09-26,1000.0,1000.0,"Hutchison & Gorman, PLLC",Dentist,,,2022
+SA11AI,C00553859,SA14919,IND,,Ray,James,Curtis,Mr.,,6335 Westgate Dr,,Beaumont,TX,77706,G2022,2022-07-14,1000.0,3000.0,Self,Petroleum Landman,,,2022
+SA11AI,C00553859,SA15337-15022,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15342,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-14980,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15302,IND,,Ortega,Rafael,,Mr.,,1018 Brannon Park Ln,,Spring,TX,77373,G2022,2022-08-15,1000.0,1000.0,"Aurora Technical Services, LLC",President,,,2022
+SA11AI,C00553859,SA15342,IND,,Landrum,Susan,,Mrs.,,2405 Brazoria St,,Houston,TX,77019,G2022,2022-09-23,1000.0,1000.0,Homemaker,Homemaker,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15022,IND,,Jones,Scott,,,,5425 Byers Ave,,Fort Worth,TX,76107,G2022,2022-08-25,1000.0,1000.0,scott jones,Banker,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15319,IND,,Johnson,John,B.,Mr.,,202 Stratton Ln,,Beaumont,TX,77707,G2022,2022-07-14,1000.0,1100.0,Griffith Moseley-Johnson,Attorney,,,2022
+SA11AI,C00553859,SA15337-15031,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-14958,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15373,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1000.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15324,IND,,Brown,Steven,,,,117 Beechwood Dr,,Cranston,RI,02921,G2022,2022-09-23,1000.0,1000.0,University Oral Surgery,Oral Surgeon,,,2022
+SA11AI,C00553859,SA15346,IND,,Andolina,Richard,,Dr.,,PO Box 16,,Arkport,NY,14807,G2022,2022-09-23,1000.0,1000.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA15019,IND,,Ruthven,Glenn,A.,Dr.,,PO Box 1646,,Mason,TX,76856,G2022,2022-07-07,500.0,1000.0,Self,Dentist,,,2022
+SA11AI,C00553859,SA15337-14946,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15274,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15119,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA14941,IND,,McManus,John,,,,2082 Grace Manor Ct,,McLean,VA,22101,G2022,2022-07-14,500.0,500.0,The McManus Group,Consultant,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-14941,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-14910,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15232,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15238,IND,,Leary,Paul,,,,80 Maple Ave,,Smithtown,NY,11787,G2022,2022-09-28,500.0,500.0,Self,Dentist,,,2022
+SA11AI,C00553859,SA15322,IND,,Fair,Hal,,,,1333 Saunooke Rd,,Waynesville,NC,28786,G2022,2022-09-25,500.0,500.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA15343,IND,,Barnfield,Terry,,,,13 Lakedale Dr,,Salem,IL,62881,G2022,2022-09-23,500.0,500.0,self,Dentist,,,2022
+SA11AI,C00553859,SA15301,IND,,Barnfield,Terry,,,,13 Lakedale Dr,,Salem,IL,62881,G2022,2022-09-30,500.0,1000.0,self,Dentist,,,2022
+SA11AI,C00553859,SA15338-15335,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-09-21,500.0,12900.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15274,IND,,Burke,Stoney,,,,PO Box 92311,,Washington,DC,20090,G2022,2022-09-30,500.0,500.0,Aquia Group,Public Policy,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15253,IND,,Meyers,Larry,D.,Mr.,,412 1st St SE Ste 1,,Washington,DC,20003,G2022,2022-08-05,500.0,2750.0,"Hance Scarborough, LLP",Senior Policy Advisor,,,2022
+SA11AI,C00553859,SA14986-15008,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-09-12,500.0,11900.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15006-15014,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-09-14,500.0,12400.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15242-15045,PAC,American Israel Public Affairs Committee PAC,,,,,,251 H St Nw,,Washington,DC,20001,G2022,2022-08-14,500.0,5400.0,,,X,Conduit - see earmarks above,2022
+SA11AI,C00553859,SA15337-15272,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,500.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA14946,IND,,Andrues,Paul,,,,2710 Oak Hollow Cir,,Kountze,TX,77625,G2022,2022-07-03,500.0,500.0,William Hayward Co Inc,President,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15335,IND,,Blankfeld,Max,,Mr.,,8902 Limerick Ln,,Houston,TX,77024,G2022,2022-08-21,500.0,500.0,Requested,Requested,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA15277,IND,,Broussard,Martin,E.,Mr.,,2495 Long Ave,,Beaumont,TX,77702,G2022,2022-07-22,500.0,500.0,LeaseAll/RentAll Inc.,President/Owner,,,2022
+SA11AI,C00553859,SA15298,IND,,De Leon,Roberto,,Col.,Jr.,402 Bayridge Rd,,LA Porte,TX,77571,G2022,2022-09-30,500.0,500.0,Lennar,Construction Manager,,,2022
+SA11AI,C00553859,SA14996,IND,,Gates,Gustav,,Dr.,,5309 Windcliff Dr,,Temple,TX,76502,G2022,2022-09-07,500.0,1000.0,Retired,Retired Dentist,,,2022
+SA11AI,C00553859,SA15166,IND,,Grantham,Larry,W.,Mr.,,6090 Narchez Trace,,Beaumont,TX,77706,G2022,2022-07-07,500.0,500.0,Sanitary Supply Co.,OWNER,,,2022
+SA11AI,C00553859,SA15119,IND,,Lewis,Gordon,,,,2611 April Run Ct,,Kingwood,TX,77345,G2022,2022-08-13,500.0,500.0,Hollis Lewis Company,cpa,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15261,IND,,Mason,Bruce,,Mr.,,4542 S Pine Island Rd,,Beaumont,TX,77713,G2022,2022-07-22,500.0,1000.0,Mason Construction,Contractor,,,2022
+SA11AI,C00553859,SA15008,IND,,Newman,Elise,,Mrs.,,4406 Acacia St,,Bellaire,TX,77401,G2022,2022-08-23,500.0,500.0,Self Employed,Self Employed,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA14910,IND,,Parker,Cecil,,,,PO Box 6,,Mont Belvieu,TX,77580,G2022,2022-07-18,500.0,500.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15294,IND,,Pellerin,Trudy,,Mrs.,,670 Blueberry St,,Bridge City,TX,77611,G2022,2022-07-22,500.0,1000.0,Beckman Audiology Center,Office Manager,,,2022
+SA11AI,C00553859,SA15251,IND,,Ray,James,Curtis,Mr.,,6355 Westgate Dr,,Beaumont,TX,77706,G2022,2022-09-30,500.0,3500.0,Petroleum Landman/Real Estate,Self Employed,,,2022
+SA11AI,C00553859,SA15317,IND,,Roberts,Matt,,Dr.,,521 E Goliad Ave,,Crockett,TX,75835,G2022,2022-09-26,500.0,1500.0,Self,Dentist,,,2022
+SA11AI,C00553859,SA15232,IND,,Russell,John,,,,6126 Sugar Hill Dr,,Houston,TX,77057,G2022,2022-09-23,500.0,2000.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15272,IND,,Strickland,Jerry,,,,10816 Sky Rock Dr,,Austin,TX,78739,G2022,2022-09-26,500.0,500.0,BGR Group,Lobbyist,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15014,IND,,Swartz,Gary,A.,Mr.,,526 Chelsea St,,Bellaire,TX,77401,G2022,2022-09-07,500.0,500.0,ABC DOORS,BUSINESSMAN,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA15045,IND,,Wizig,Carol,A.,Ms.,,11514 Ashcroft Dr,,Houston,TX,77035,G2022,2022-09-01,500.0,500.0,Retired,Retired,,Earmarked by AIPAC,2022
+SA11AI,C00553859,SA15282,IND,,Wood,Reed,G.,Mr.,,2107 Mt Forest Dr,,Kingwood,TX,77345,G2022,2022-09-30,500.0,500.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA14981,IND,,Schnautz,Danny,,,,PO Box 5808,,Pasadena,TX,77508,G2022,2022-07-15,360.0,2124.4,clark,manager,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-14981,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,360.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15286,IND,,Brant,Jane,,Ms.,,1038 Shorewood Dr,,Seabrook,TX,77586,G2022,2022-09-30,300.0,300.0,Homemaker,Homemaker,,,2022
+SA11AI,C00553859,SA15221,IND,,Medovic,Michael,,,,219 Debbie Ann Dr,,Wheeling,WV,26003,G2022,2022-09-28,250.0,250.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA15369,IND,,Greenwell,Darren,,,,1100 S Dixie Blvd,,Radcliff,KY,40160,G2022,2022-09-27,250.0,250.0,Generations Family Dentistry,Dentist,,,2022
+SA11AI,C00553859,SA15263,IND,,Nylin,Roger,,,,402 Bayou View Dr,,El Lago,TX,77586,G2022,2022-09-29,250.0,250.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15268,IND,,Sherwood,Cynthia,,,,3672 Cr 3900,,Independence,KS,67301,G2022,2022-09-28,250.0,250.0,Self,Dentist,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15228,IND,,Richardson,Michael,,,,1013 Bridge Rd,,Charleston,WV,25314,G2022,2022-09-27,250.0,250.0,South Hills Family Dental,Dentist,,,2022
+SA11AI,C00553859,SA15337-15106,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15263,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15306,IND,,Isbell,Gordon,,Dr.,,241 S 4th St,,Gadsden,AL,35901,G2022,2022-09-27,250.0,250.0,isbell dental,dentist,,,2022
+SA11AI,C00553859,SA15038,IND,,McBride,Ralph,D.,Mr.,,807 Old Lake Rd,,Houston,TX,77057,G2022,2022-09-12,250.0,250.0,Lanier Law Firm,Attorney,,,2022
+SA11AI,C00553859,SA15295,IND,,Teter,Rex,K.,Mr.,,411 Yorkshire Ave,,Pasadena,TX,77503,G2022,2022-09-30,250.0,500.0,Self,Minister,,,2022
+SA11AI,C00553859,SA14926,IND,,Roberts,John,,,,724 N Grand Ave,,Connersville,IN,47331,G2022,2022-09-27,250.0,250.0,self,dentist,,,2022
+SA11AI,C00553859,SA15313,IND,,Gupta,Shailee,,Dr.,,5828 Brittlyns Ct,,Austin,TX,78730,G2022,2022-09-27,250.0,300.0,St. David's Foundation,Chief Dental Officer,,,2022
+SA11AI,C00553859,SA15249,IND,,Oleski,Darleen,,,,1535 Sanderson Ave,,Scranton,PA,18509,G2022,2022-09-30,250.0,250.0,Darleen A Oleski DMD,Dentist,,,2022
+SA11AI,C00553859,SA15106,IND,,Malik,John,,,,7700 Seawall Blvd Apt 101,,Galveston,TX,77551,G2022,2022-08-10,250.0,250.0,None,Investor,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15361,IND,,Maple,Ralph,E.,Mr.,,5215 Valley Bluff Ln,,Katy,TX,77494,G2022,2022-07-15,250.0,250.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA15230,IND,,Stiegler,Kim,,Dr.,,1151 Hillcrest Rd Ste A,,Mobile,AL,36695,G2022,2022-09-28,250.0,250.0,"Kim E. Stiegler, D.M.D.",Dentist,,,2022
+SA11AI,C00553859,SA15337-15268,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,250.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15340,IND,,Casper,Sara,,Ms.,,2213 W Lawther Dr,,Deer Park,TX,77536,G2022,2022-09-19,250.0,250.0,Retired,Retired,,,2022
+SA11AI,C00553859,SA15060,IND,,Hayden,Agnes,R.,,,929 Peninsula Dr,,Traverse City,MI,49686,G2022,2022-08-15,227.28,286.83,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15060,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,227.28,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15219,IND,,McDavid,Sidney,Patrick,Mr.,,811 Woodland Dr,,El Lago,TX,77586,G2022,2022-09-01,200.0,300.0,The Mundy Companies,EVP Operations/Industrial Construction,,,2022
+SA11AI,C00553859,SA15285,IND,,Matusek,Barbara,D.,Mrs.,,1409 Meadow Lark St,,Deer Park,TX,77536,G2022,2022-07-22,150.0,275.0,Housewife,Housewife,,,2022
+SA11AI,C00553859,SA15312,IND,,Ortiz,Suzanne,V.,,,211 Pelican Ct,,Foster City,CA,94404,G2022,2022-07-15,150.0,250.0,Housewife,Homemaker,,,2022
+SA11AI,C00553859,SA15237,IND,,Douglas,Greg,,,,610 Shorewood Dr,,Seabrook,TX,77586,G2022,2022-09-23,100.0,204.0,Creative Property Mgt,Real Estate Management,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15131,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15247,IND,,Hebert,Mike,,,,1140 Interstate 10 N,,Beaumont,TX,77702,G2022,2022-09-30,100.0,4600.0,One Water Marine,Retail,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15004,IND,,Jasper,Patricia,,,,14907 Sun Harbor Dr,,Houston,TX,77062,G2022,2022-09-14,100.0,250.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15362,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15344,IND,,Trahan,Michael,,Mr.,,9527 Havenway Dr,,Argyle,TX,76226,G2022,2022-07-08,100.0,2100.0,retired,retired,,,2022
+SA11AI,C00553859,SA15229,IND,,Libonati,Kathleen,,Mrs.,,6305 Pamlico Rd,,Fort Worth,TX,76116,G2022,2022-08-19,100.0,350.0,Kimbell Art Foundation - Retired,Retired,,,2022
+SA11AI,C00553859,SA15297,IND,,Trahan,Michael,,Mr.,,9527 Havenway Dr,,Argyle,TX,76226,G2022,2022-08-08,100.0,2200.0,retired,retired,,,2022
+SA11AI,C00553859,SA15207,IND,,Morris,Bob,,,,408 Galahad Dr,,Woodville,TX,75979,G2022,2022-09-24,100.0,350.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15362,IND,,Morris,Mary,,,,1341 N Meeker Rd,,Beaumont,TX,77713,G2022,2022-09-22,100.0,960.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA14989,IND,,Trahan,Michael,,Mr.,,9527 Havenway Dr,,Argyle,TX,76226,G2022,2022-09-08,100.0,2300.0,retired,retired,,,2022
+SA11AI,C00553859,SA15337-15207,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15131,IND,,Phelan,Jim,,,,3195 North St,,Beaumont,TX,77702,G2022,2022-07-22,100.0,600.0,Self-Employed,Audiologist,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15004,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15062,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15237,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15247,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,100.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15062,IND,,Biddy,Danny,,,,1631 Lake Charlotte Rd,,Liberty,TX,77575,G2022,2022-08-09,100.0,300.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-14915,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,36.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15077,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,36.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-14974,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,36.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA14915,IND,,Haddox,Ronald,,,,4701 Bush Rd Unit 2,,Baytown,TX,77521,G2022,2022-07-15,36.0,536.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA14999,IND,,Holt,Janis,,,,105 Magnolia Trl,,Silsbee,TX,77656,G2022,2022-09-16,36.0,609.44,Self,Business Owner,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15077,IND,,Holt,Janis,,,,105 Magnolia Trl,,Silsbee,TX,77656,G2022,2022-08-16,36.0,573.44,Self,Business Owner,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA14974,IND,,Holt,Janis,,,,105 Magnolia Trl,,Silsbee,TX,77656,G2022,2022-07-16,36.0,536.0,Self,Business Owner,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-14999,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,36.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA14911,IND,,Schnautz,Danny,,,,PO Box 5808,,Pasadena,TX,77508,G2022,2022-07-15,14.4,1764.4,clark,manager,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-14911,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,14.4,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15128,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,11.37,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15128,IND,,Hayden,Agnes,R.,,,929 Peninsula Dr,,Traverse City,MI,49686,G2022,2022-08-19,11.37,298.2,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15265,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,10.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15265,IND,,Cooper,Anita,,,,15803 Diana Ln,,Houston,TX,77062,G2022,2022-09-29,10.0,210.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15190,IND,,Hayden,Agnes,R.,,,929 Peninsula Dr,,Traverse City,MI,49686,G2022,2022-08-20,4.55,302.75,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15190,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,4.55,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15240,IND,,Douglas,Greg,,,,610 Shorewood Dr,,Seabrook,TX,77586,G2022,2022-09-23,4.0,208.0,Creative Property Mgt,Real Estate Management,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15210,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,4.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15378,IND,,Morris,Mary,,,,1341 N Meeker Rd,,Beaumont,TX,77713,G2022,2022-09-22,4.0,964.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15210,IND,,Morris,Bob,,,,408 Galahad Dr,,Woodville,TX,75979,G2022,2022-09-24,4.0,354.0,retired,retired,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-15240,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,4.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-15378,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,4.0,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA15337-14976,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,1.44,90670.7,,,X,Conduit - see earmark above,2022
+SA11AI,C00553859,SA14976,IND,,Holt,Janis,,,,105 Magnolia Trl,,Silsbee,TX,77656,G2022,2022-07-16,1.44,537.44,Self,Business Owner,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA14939,IND,,Crenshaw,Colby,,,,11976 Brooks Rd,,Beaumont,TX,77713,G2022,2022-07-14,-1000.0,5800.0,The Modern Group,President,,Earmarked by conduit WinRed,2022
+SA11AI,C00553859,SA15337-14939,PAC,WinRed,,,,,,PO Box 9891,,Arlington,VA,22219,G2022,2022-09-30,-1000.0,90670.7,,,X,Conduit - see earmark above,2022

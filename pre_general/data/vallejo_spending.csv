@@ -1,0 +1,67 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,purpose,memo_code,memo_text,cycle
+SB17,C00797217,500228990,ORG,AKPD Message & Media,,,,,,405 W Superior St,,Chicago,IL,606548559,,2022-10-17,118750.0,Advertising,,,2022
+SB17,C00797217,500228994,ORG,Gambit Strategies,,,,,,2939 Van Ness St NW,Apt 1006,Washington,DC,200084605,,2022-10-11,97000.0,Advertising,,,2022
+SB17,C00797217,500228989,ORG,AKPD Message & Media,,,,,,405 W Superior St,,Chicago,IL,606548559,,2022-10-03,88160.0,Advertising,,,2022
+SB17,C00797217,500228995,ORG,Gambit Strategies,,,,,,2939 Van Ness St NW,Apt 1006,Washington,DC,200084605,,2022-10-17,46989.0,Advertising,,,2022
+SB17,C00797217,500228993,ORG,Gambit Strategies,,,,,,2939 Van Ness St NW,Apt 1006,Washington,DC,200084605,,2022-10-11,43169.51,Advertising,,,2022
+SB17,C00797217,500228992,ORG,Gambit Strategies,,,,,,2939 Van Ness St NW,Apt 1006,Washington,DC,200084605,,2022-10-06,39489.0,Advertising,,,2022
+SB17,C00797217,500229017,ORG,Lake Research Partners Inc,,,,,,1101 17Th St NW,Ste 301,Washington,DC,200364742,,2022-10-14,8998.0,Research,,,2022
+SB17,C00797217,500229005,ORG,Mission Control,,,,,,624 Hebron Ave,Ste 200,Glastonbury,CT,060335006,,2022-10-17,8181.49,Direct Mail Services,,,2022
+SB17,C00797217,500229055,IND,,Zamani,Jasmine,,,,7240 Evans Mill Rd,,Mclean,VA,221013422,,2022-10-14,7524.36,Fundraising Consulting,,,2022
+SB17,C00797217,500228991,ORG,Bread & Roses Digital LLC,,,,,,4016 Georgia Ave NW,Unit 6,Washington,DC,200115990,,2022-10-19,5000.0,Advertising,,,2022
+SB17,C00797217,500229012,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,2022-10-04,4444.62,Payroll Taxes,,,2022
+SB17,C00797217,500229006,ORG,Action Network,,,,,,275 Madison Ave,,New York,NY,100161101,,2022-10-11,3664.0,Email Services,,,2022
+SB17,C00797217,500229014,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,2022-10-19,3464.53,Payroll Taxes,,,2022
+SB17,C00797217,500229067,IND,,Chandler,Kirby,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-18,3291.21,Salary,,,2022
+SB17,C00797217,500229066,IND,,Chandler,Kirby,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-04,3291.2,Salary,,,2022
+SB17,C00797217,500229065,IND,,Stumbris,Kedrick,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-09,2587.71,Salary,,,2022
+SB17,C00797217,500229004,ORG,Blue Wave Political Partners LLC,,,,,,514 Daniels St,# 286,Raleigh,NC,276051317,,2022-10-12,2500.0,Compliance Services,,,2022
+SB17,C00797217,500229058,IND,,Garcia,Alejandro,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-18,2411.83,Salary,,,2022
+SB17,C00797217,500229057,IND,,Garcia,Alejandro,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-04,2411.83,Salary,,,2022
+SB17,C00797217,500225378,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-09,2358.77,Merchant Fee,,,2022
+SB17,C00797217,500225380,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-16,1873.26,Merchant Fee,,,2022
+SB17,C00797217,500229068,IND,,Samra,Sukhi,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-04,1557.67,Salary,,,2022
+SB17,C00797217,500229069,IND,,Samra,Sukhi,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-18,1557.67,Salary,,,2022
+SB17,C00797217,500229061,IND,,Bocanegra,Arlene,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-18,1479.44,Salary,,,2022
+SB17,C00797217,500229060,IND,,Bocanegra,Arlene,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-04,1479.43,Salary,,,2022
+SB17,C00797217,500229063,IND,,Riojas,Jonah,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-04,1278.56,Salary,,,2022
+SB17,C00797217,500229064,IND,,Riojas,Jonah,,,,PO Box 1265,,Mission,TX,785730021,,2022-10-18,1278.56,Salary,,,2022
+SB17,C00797217,500229127,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-19,887.46,Merchant Fee,,,2022
+SB17,C00797217,500225374,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-10,859.69,Merchant Fee,,,2022
+SB17,C00797217,500229008,ORG,Paragon Payment Solutions,,,,,,2141 E Broadway Rd,Ste 202,Tempe,AZ,852821895,,2022-10-03,759.91,Merchant Fee,,,2022
+SB17,C00797217,500229118,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-12,738.2,Merchant Fee,,,2022
+SB17,C00797217,500225376,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-11,727.84,Merchant Fee,,,2022
+SB17,C00797217,500226102,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-18,638.21,Merchant Fee,,,2022
+SB17,C00797217,500229130,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-05,560.03,Merchant Fee,,,2022
+SB17,C00797217,500229009,ORG,Alonzo Cantu Construction,,,,,,5221 N Mccoll Rd,,Mcallen,TX,785042202,,2022-10-14,550.0,Site Rental,,,2022
+SB17,C00797217,500219937,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-02,508.93,Merchant Fee,,,2022
+SB17,C00797217,500221497,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-06,466.44,Merchant Fee,,,2022
+SB17,C00797217,500226101,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-17,450.28,Merchant Fee,,,2022
+SB17,C00797217,500228996,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,2022-10-19,447.96,Air Travel,,,2022
+SB17,C00797217,500228997,ORG,Southwest Airlines,,,,,,2702 Love Field Dr,,Dallas,TX,752351908,,2022-10-19,447.96,Air Travel,,,2022
+SB17,C00797217,500229059,IND,,Brenner,Allisoun,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-13,429.43,Salary,,,2022
+SB17,C00797217,500229062,IND,,Smith,Isabella,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-13,429.43,Salary,,,2022
+SB17,C00797217,500229056,IND,,Campano,Adriana,,,,122 C St NW,Ste 360,Washington,DC,200012149,,2022-10-13,383.13,Salary,,,2022
+SB17,C00797217,500225379,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-13,373.35,Merchant Fee,,,2022
+SB17,C00797217,500221496,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-04,368.4,Merchant Fee,,,2022
+SB17,C00797217,500229126,PAC,J Street,,,,,,PO Box 33106,,Washington,DC,200330106,,2022-10-14,338.99,Merchant Fee,,,2022
+SB17,C00797217,500229007,ORG,Springhill Suites,,,,,,7750 Wisconsin Ave,,Bethesda,MD,208143522,,2022-10-11,326.94,Lodging,,,2022
+SB17,C00797217,500221495,ORG,ActBlue Technical Services,,,,,,366 Summer St,,Somerville,MA,021443132,,2022-10-03,321.42,Merchant Fee,,,2022
+SB17,C00797217,500229018,ORG,Reach Progress PBC,,,,,,4316 12Th St,,Long Island City,NY,111016804,,2022-10-04,300.0,Software,,,2022
+SB17,C00797217,500229013,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,2022-10-13,272.48,Payroll Taxes,,,2022
+SB17,C00797217,500229019,ORG,Google,,,,,,1600 Amphitheatre Pkwy,,Mountain View,CA,940431351,,2022-10-03,169.71,Subscription,,,2022
+SB17,C00797217,500229011,ORG,Gusto,,,,,,525 20Th St,,San Francisco,CA,941074345,,2022-10-04,129.0,Payroll Fee,,,2022
+SB17,C00797217,500229000,ORG,Bank Of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,2022-10-11,60.0,Bank Fee,,,2022
+SB17,C00797217,500229003,ORG,Bank Of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,2022-10-17,30.0,Bank Fee,,,2022
+SB17,C00797217,500228999,ORG,Bank Of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,2022-10-06,30.0,Bank Fee,,,2022
+SB17,C00797217,500229001,ORG,Bank Of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,2022-10-17,30.0,Bank Fee,,,2022
+SB17,C00797217,500229002,ORG,Bank Of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,2022-10-17,30.0,Bank Fee,,,2022
+SB17,C00797217,500228998,ORG,Bank Of America,,,,,,100 N Tryon St,,Charlotte,NC,282022135,,2022-10-03,30.0,Bank Fee,,,2022
+SB17,C00797217,500229119,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,200011801,,2022-10-12,24.33,Merchant Fee,,,2022
+SB17,C00797217,500229015,ORG,USPS,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,2022-10-13,9.9,Postage,,,2022
+SB17,C00797217,500229122,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,200011801,,2022-10-17,6.93,Merchant Fee,,,2022
+SB17,C00797217,500229121,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,200011801,,2022-10-17,6.91,Merchant Fee,,,2022
+SB17,C00797217,500229016,ORG,USPS,,,,,,475 Lenfant Plz SW,,Washington,DC,202600004,,2022-10-19,5.2,Postage,,,2022
+SB17,C00797217,500229124,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,200011801,,2022-10-19,3.9,Merchant Fee,,,2022
+SB17,C00797217,500229123,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,200011801,,2022-10-19,0.4,Merchant Fee,,,2022
+SB17,C00797217,500221561,PAC,Democracy Engine Inc. PAC,,,,,,237 Florida Ave NW,,Washington,DC,200011801,,2022-10-03,0.14,Merchant Fee,,,2022
